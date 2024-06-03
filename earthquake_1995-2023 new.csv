@@ -1,0 +1,993 @@
+title;magnitude;date_time;cdi;mmi;alert;tsunami;sig;net;nst;dmin;gap;magType;depth;latitude;longitude;location;continent;country
+M 6.5 - 42 km W of Sola, Vanuatu;65;16/08/2023 12.47;7;4;green;0;657;us;114;7177;25;mww;192955;-138814;167158;Sola, Vanuatu;Oceania;Vanuatu
+M 6.5 - 43 km S of Intipucá, El Salvador;65;19/07/2023 00.22;8;6;yellow;0;775;us;92;679;40;mww;69727;12814;-881265;Intipucá, El Salvador;North America;El Salvador
+M 6.6 - 25 km ESE of Loncopué, Argentina;66;17/07/2023 03.05;7;5;green;0;899;us;70;1634;28;mww;171371;-381911;-703731;Loncopué, Argentina;South America;Argentina
+M 7.2 - 98 km S of Sand Point, Alaska;72;16/07/2023 06.48;6;6;green;1;860;us;173;907;36;mww;32571;543844;-160699;Sand Point, Alaska;North America;Alaska
+M 7.3 - Alaska Peninsula;73;16/07/2023 06.48;0;5;;1;820;at;79;879451;1728;Mi;21;5449;-160796;Alaska Peninsula;North America;Alaska
+M 6.6 - 277 km NNE of Codrington, Antigua and Barbuda;66;10/07/2023 20.28;5;4;green;1;802;us;95;2454;37;mww;10;200196;-610955;Codrington, Antigua and Barbuda;North America;Antigua and Barbuda
+M 6.9 - Tonga;69;02/07/2023 10.27;4;4;green;1;741;us;136;1179;23;mww;229;-17853;-174937;Tonga;Oceania;Tonga
+M 7.2 - south of the Fiji Islands;72;15/06/2023 18.06;8;6;green;1;804;us;85;259;24;mww;167404;-229824;-177208;the Fiji Islands;Oceania;Fiji
+M 6.6 - Panama-Colombia border region;66;25/05/2023 03.05;6;6;green;1;733;us;50;2163;129;mww;10;88894;-771231;Panama-Colombia border region;North America;Colombia
+M 7.1 - southeast of the Loyalty Islands;71;20/05/2023 01.51;3;4;green;1;777;us;98;2812;56;mww;35981;-230622;170456;the Loyalty Islands;Oceania;France
+M 7.7 - southeast of the Loyalty Islands;77;19/05/2023 02.57;5;4;green;1;927;us;277;3111;15;mww;18027;-232286;170694;the Loyalty Islands;Oceania;France
+M 7.6 - 95 km WNW of Hihifo, Tonga;76;10/05/2023 16.02;8;6;green;1;907;us;111;3631;17;mww;210097;-156002;-174608;Hihifo, Tonga;Oceania;Tonga
+M 6.6 - south of the Fiji Islands;66;28/04/2023 03.13;0;2;green;0;670;us;52;5123;50;mww;598467;-252657;178424;the Fiji Islands;Oceania;Fiji
+M 7.1 - 170 km SSE of Teluk Dalam, Indonesia;71;24/04/2023 20.00;9;7;green;0;838;us;70;2282;58;mww;15462;-781;985339;Teluk Dalam, Indonesia;Asia;Indonesia
+M 7.1 - Kermadec Islands, New Zealand;71;24/04/2023 00.41;8;7;green;1;777;us;126;708;23;mww;43063;-300249;-177897;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.7 - south of the Fiji Islands;67;18/04/2023 04.31;0;3;green;1;691;us;166;4719;10;mww;595854;-222844;179391;the Fiji Islands;Oceania;Fiji
+M 7.0 - 96 km N of Tuban, Indonesia;7;14/04/2023 09.55;5;3;green;0;818;us;131;1881;31;mww;594028;-60255;112033;Tuban, Indonesia;Asia;Indonesia
+M 6.5 - near the east coast of the Kamchatka Peninsula, Russia;65;03/04/2023 03.06;7;6;yellow;1;655;us;104;266;30;mww;105631;527772;158484;the Kamchatka Peninsula, Russia;Asia;Russia
+M 7.0 - New Guinea, Papua New Guinea;7;02/04/2023 18.04;7;7;green;1;781;us;105;645;31;mww;62603;-42924;143155;New Guinea, Papua New Guinea;Asia;Papua New Guinea
+M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina;65;22/03/2023 16.00;4;4;green;0;656;us;97;1622;33;mww;209976;-234797;-665108;San Antonio de los Cobres, Argentina;South America;Argentina
+M 6.5 - 40 km SSE of Jurm, Afghanistan;65;21/03/2023 16.47;7;5;green;0;1350;us;134;253;13;mww;187589;365227;709787;Jurm, Afghanistan;Asia;Afghanistan
+M 6.8 - near the coast of Ecuador;68;18/03/2023 17.12;9;7;orange;1;1159;us;152;709;28;mww;65842;-2851;-798001;Ecuador;South America;Ecuador
+M 7.0 - Kermadec Islands region;7;16/03/2023 00.56;8;5;green;1;756;us;116;1789;22;mww;22065;-301147;-176112;Kermadec Islands region;Oceania;New Zealand
+M 6.9 - Kermadec Islands, New Zealand;69;04/03/2023 06.41;5;5;green;1;735;us;108;784;18;mww;205681;-294748;-178787;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.5 - 86 km WSW of Port-Olry, Vanuatu;65;02/03/2023 18.04;7;6;green;1;653;us;66;5483;45;mww;10;-153597;166385;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.5 - 108 km NW of Kimbe, Papua New Guinea;65;01/03/2023 05.36;4;2;green;1;652;us;115;2739;20;mww;598925;-48138;149487;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 67 km W of Murghob, Tajikistan;68;23/02/2023 00.37;9;7;green;0;737;us;128;1783;20;mww;20522;380726;732077;Murghob, Tajikistan;Asia;Tajikistan
+M 7.5 - 4 km SSE of Ekinözü, Turkey;75;06/02/2023 10.24;9;9;orange;0;1411;us;135;85;17;mww;10;380235;37203;Ekinözü, Turkey;Asia;Turkiye
+M 6.7 - 18 km ESE of Nurda??, Turkey;67;06/02/2023 01.28;9;8;yellow;0;800;us;108;218;44;mww;14497;374135;368306;Nurda??, Turkey;Asia;Turkiye
+M 7.8 - Central Turkey;78;06/02/2023 01.17;9;9;red;0;2910;us;118;1919;32;mww;17925;372012;369997;Central Turkey;Asia;Turkiye
+M 7.0 - 153 km NW of Tobelo, Indonesia;7;18/01/2023 06.06;3;5;green;1;756;us;130;1974;17;mwc;28566;27401;127051;Tobelo, Indonesia;Asia;Indonesia
+M 7.6 - Pulau Pulau Tanimbar, Indonesia;76;09/01/2023 17.47;5;7;green;0;957;us;114;1575;21;mww;105249;-70852;130039;Pulau Pulau Tanimbar, Indonesia;Asia;Indonesia
+M 7.0 - Vanuatu;7;08/01/2023 12.32;8;7;green;1;768;us;116;6096;36;mww;29;-149383;166878;Vanuatu;Oceania;Vanuatu
+M 6.8 - 109 km NE of Hihifo, Tonga;68;04/12/2022 19.24;5;5;green;1;720;us;152;2587;26;mww;38;-153983;-172968;Hihifo, Tonga;Oceania;Tonga
+M 7.0 - 18 km SW of Malango, Solomon Islands;7;22/11/2022 02.03;8;7;green;1;768;us;117;509;17;mww;14;-97963;159596;Malango, Solomon Islands;Oceania;Solomon Islands
+M 6.9 - 204 km SW of Bengkulu, Indonesia;69;18/11/2022 13.37;4;4;green;0;735;us;99;2229;34;mww;25;-49559;100738;Bengkulu, Indonesia;Asia;Indonesia
+M 7.3 - 205 km ESE of Neiafu, Tonga;73;11/11/2022 10.48;5;5;green;1;833;us;149;1865;21;mww;37;-192918;-172129;Neiafu, Tonga;Oceania;Tonga
+M 7.0 - south of the Fiji Islands;7;09/11/2022 09.51;4;3;green;1;755;us;142;4578;26;mwb;660;-260442;178381;the Fiji Islands;Oceania;Fiji
+M 6.8 - south of the Fiji Islands;68;09/11/2022 09.38;1;3;green;1;711;us;136;4678;22;mww;630379;-259678;178363;the Fiji Islands;Oceania;Fiji
+M 6.7 - 60 km SSW of Boca Chica, Panama;67;20/10/2022 11.57;7;6;green;1;797;us;145;1151;37;mww;20;76712;-823396;Boca Chica, Panama;North America;Panama
+M 6.8 - 55 km SSW of Aguililla, Mexico;68;22/09/2022 06.16;8;7;yellow;1;1179;us;175;2137;92;mww;20;1833;-102913;Aguililla, Mexico;North America;Mexico
+M 7.6 - 35 km SSW of Aguililla, Mexico;76;19/09/2022 18.05;9;8;yellow;1;1799;us;271;1153;69;mww;26943;183667;-103252;Aguililla, Mexico;North America;Mexico
+M 6.9 - 90 km E of Yujing, Taiwan;69;18/09/2022 06.44;9;9;yellow;1;887;us;215;401;34;mww;10;231444;121307;Yujing, Taiwan;Asia;Taiwan
+M 6.5 - 96 km SE of Lugu, Taiwan;65;17/09/2022 13.41;7;7;green;1;756;us;178;43;54;mww;10;23029;121348;Lugu, Taiwan;Asia;Taiwan
+M 7.0 - 209 km SSE of Isangel, Vanuatu;7;14/09/2022 11.04;7;5;green;1;761;us;192;2977;45;mww;137;-212077;170239;Isangel, Vanuatu;Oceania;Vanuatu
+M 7.6 - 70 km E of Kainantu, Papua New Guinea;76;10/09/2022 23.47;8;8;yellow;1;965;us;272;3158;12;mww;116;-62237;146471;Kainantu, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 44 km SE of Kangding, China;66;05/09/2022 04.52;9;8;orange;0;1043;us;141;8454;34;mww;12;297263;102279;Kangding, China;Asia;People's Republic of China
+M 6.6 - south of the Kermadec Islands;66;14/08/2022 13.44;7;6;green;1;672;us;68;5293;34;mww;30;-326922;-178959;the Kermadec Islands;Oceania;New Zealand
+M 7.0 - 11 km NE of Bantay, Philippines;7;27/07/2022 00.43;9;8;yellow;1;1351;us;152;5276;22;mww;33729;175978;120809;Bantay, Philippines;Asia;Philippines
+M 6.5 - 107 km SSW of Tarauacá, Brazil;65;08/06/2022 00.55;3;2;green;0;653;us;236;1999;31;mww;62273;-90618;-711647;Tarauacá, Brazil;South America;Brazil
+M 7.2 - 10 km W of Azángaro, Peru;72;26/05/2022 12.02;7;5;green;1;876;us;144;2494;40;mww;236;-148628;-703081;Azángaro, Peru;South America;Peru
+M 6.8 - 86 km NNW of San Antonio de los Cobres, Argentina;68;10/05/2022 23.06;6;5;green;1;762;us;162;1505;30;mww;220;-236141;-667236;San Antonio de los Cobres, Argentina;South America;Argentina
+M 6.6 - 55 km WSW of Masachapa, Nicaragua;66;21/04/2022 07.42;6;5;green;1;762;us;0;914;94;mww;27;115538;-869919;Masachapa, Nicaragua;North America;Nicaragua
+M 7.0 - southeast of the Loyalty Islands;7;31/03/2022 05.44;6;4;green;1;763;us;0;2705;26;mww;10;-225732;170349;the Loyalty Islands;Oceania;France
+M 6.9 - 284 km ESE of Tadine, New Caledonia;69;30/03/2022 20.56;6;4;green;1;738;us;0;2697;42;mww;10;-2272;170277;Tadine, New Caledonia;Oceania;France
+M 6.7 - 65 km S of Hualien City, Taiwan;67;22/03/2022 17.41;8;7;green;1;806;us;0;289;32;mww;24;233421;121636;Hualien City, Taiwan;Asia;Taiwan
+M 7.3 - 57 km ENE of Namie, Japan;73;16/03/2022 14.36;9;8;red;1;2397;us;0;2936;29;mww;41;377015;141587;Namie, Japan;Asia;Japan
+M 6.7 - 166 km W of Pariaman, Indonesia;67;13/03/2022 21.09;9;6;green;0;708;us;0;2188;43;mww;28;-6831;986034;Pariaman, Indonesia;Asia;Indonesia
+M 6.6 - Kermadec Islands, New Zealand;66;02/03/2022 12.52;2;7;green;1;670;us;0;827;46;mww;24;-300528;-17774;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.8 - south of the Fiji Islands;68;16/02/2022 20.21;2;3;green;1;712;us;0;578;12;mww;535;-237852;-179968;the Fiji Islands;Oceania;Fiji
+M 6.5 - 49 km NW of Barranca, Peru;65;03/02/2022 15.58;8;6;green;0;690;us;0;3026;22;mww;110;-4455;-769395;Barranca, Peru;South America;Peru
+M 6.5 - Kermadec Islands region;65;29/01/2022 02.46;7;4;green;1;651;us;0;1088;57;mww;8;-29535;-176729;Kermadec Islands region;Oceania;New Zealand
+M 6.6 - 80 km SW of Labuan, Indonesia;66;14/01/2022 09.05;8;6;green;0;785;us;0;2418;22;mww;33;-69291;105251;Labuan, Indonesia;Asia;Indonesia
+M 6.5 - 71 km SE of Nikolski, Alaska;65;11/01/2022 12.39;0;3;;1;650;at;97;161607;108;Mi;37;52502;-16808;Nikolski, Alaska;North America;United States
+M 6.5 - 71 km SE of Nikolski, Alaska;65;11/01/2022 12.39;0;3;;1;650;pt;23;0;2088;Mi;37;52502;-16808;Nikolski, Alaska;North America;United States
+M 6.6 - 53 km SE of Nikolski, Alaska;66;11/01/2022 12.39;8;5;green;1;674;us;0;507;49;mww;19;526252;-16815;Nikolski, Alaska;North America;United States
+M 6.7 - 91 km SE of Nikolski, Alaska;67;11/01/2022 11.35;0;4;;1;691;at;50;936943;126;Mi;33;5248;-167736;Nikolski, Alaska;North America;United States
+M 6.7 - 91 km SE of Nikolski, Alaska;67;11/01/2022 11.35;0;4;;1;691;pt;20;0;2052;Mi;33;5248;-167736;Nikolski, Alaska;North America;United States
+M 6.8 - 100 km SE of Nikolski, Alaska;68;11/01/2022 11.35;7;6;green;1;730;us;0;92;61;mww;20;526563;-167917;Nikolski, Alaska;North America;United States
+M 6.6 - 48 km WNW of Pólis, Cyprus;66;11/01/2022 01.07;6;6;green;0;976;us;0;1168;21;mww;21;351456;319095;Pólis, Cyprus;Europe;Cyprus
+M 6.6 - northern Qinghai, China;66;07/01/2022 17.45;9;8;orange;0;1012;us;0;2685;13;mww;13;378167;101299;northern Qinghai, China;Asia;People's Republic of China
+M 7.3 - 125 km NNE of Lospalos, Timor Leste;73;29/12/2021 18.25;8;7;green;0;921;us;0;3713;19;mww;16549;-75924;127581;Lospalos, Timor Leste;Asia;Indonesia
+M 7.3 - Flores Sea;73;14/12/2021 03.20;9;5;green;1;854;us;0;1025;32;mww;1427;-76033;1222;Flores Sea;Asia;Indonesia
+M 7.5 - 43 km NNW of Barranca, Peru;75;28/11/2021 10.52;8;8;yellow;1;1094;us;0;4951;40;mww;126;-44898;-768461;Barranca, Peru;South America;Peru
+M 6.6 - 177 km SE of Hirara, Japan;66;10/11/2021 15.45;7;4;green;1;688;us;0;3259;15;mww;12;235414;12648;Hirara, Japan;Asia;Japan
+M 6.9 - 112 km E of Chignik, Alaska;69;11/10/2021 09.10;8;6;green;1;995;ak;0;0;0;mww;516;562581;-156492;Chignik, Alaska;North America;United States of America
+M 6.9 - Vanuatu region;69;09/10/2021 10.58;4;3;green;1;740;us;0;4778;31;mww;535;-211704;17454;Vanuatu region;Oceania;Vanuatu
+M 7.3 - Vanuatu region;73;02/10/2021 06.29;4;4;green;1;826;us;0;4493;32;mww;527;-211036;174895;Vanuatu region;Oceania;Vanuatu
+M 6.5 - 80 km SW of Jiquilillo, Nicaragua;65;22/09/2021 09.57;7;5;green;1;684;us;0;993;114;mww;21;121598;-878542;Jiquilillo, Nicaragua;North America;Nicaragua
+M 7.0 - Acapulco, Mexico;7;08/09/2021 01.47;8;8;red;1;2504;us;0;7;43;mww;20;169502;-997877;Acapulco, Mexico;North America;Mexico
+M 7.1 - South Sandwich Islands region;71;22/08/2021 21.33;1;4;green;1;776;us;0;9799;32;mww;6;-603026;-249992;South Sandwich Islands region;Antarctica;Antarctica
+M 6.6 - South Sandwich Islands region;66;22/08/2021 00.45;1;3;green;1;670;us;0;8865;19;mww;7;-601023;-244608;South Sandwich Islands region;Antarctica;Antarctica
+M 6.9 - 17 km N of Port-Olry, Vanuatu;69;18/08/2021 10.10;8;7;green;1;741;us;0;579;54;mww;93;-14892;167085;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.9 - South Sandwich Islands region;69;16/08/2021 11.10;6;4;green;1;734;us;0;8363;48;mww;167;-583814;-233318;South Sandwich Islands region;Antarctica;Antarctica
+M 7.2 - Nippes, Haiti;72;14/08/2021 12.29;9;8;red;1;2331;us;0;1178;23;mww;10;183521;-734804;Nippes, Haiti;North America;Haiti
+M 6.9 - 136 km SE of Perryville, Alaska;69;14/08/2021 11.57;5;4;green;1;738;ak;0;0;0;mww;333;552364;-157707;Perryville, Alaska;North America;United States
+M 6.9 - 125 km SE of Perryville, Alaska;69;14/08/2021 11.57;5;4;green;1;738;us;0;1173;36;mww;2074;552657;-15768;Perryville, Alaska;North America;United States
+M 8.1 - South Sandwich Islands region;81;12/08/2021 18.35;0;7;green;0;1009;us;0;7463;78;mww;2279;-584157;-253206;South Sandwich Islands region;Antarctica;Antarctica
+M 7.5 - South Sandwich Islands region;75;12/08/2021 18.32;9;6;green;1;868;us;0;7227;38;mww;4723;-575959;-251874;South Sandwich Islands region;Antarctica;Antarctica
+M 7.1 - 60 km ENE of Pondaguitan, Philippines;71;11/08/2021 17.46;9;7;green;1;846;us;0;1273;25;mww;5514;64547;126742;Pondaguitan, Philippines;Asia;Philippines
+M 8.2 - 91 km ESE of Perryville, Alaska;82;29/07/2021 06.15;8;6;green;1;1237;us;0;875;66;mww;4666;554742;-157917;Perryville, Alaska;North America;United States
+M 8.2 - 99 km SE of Perryville, Alaska;82;29/07/2021 06.15;8;7;yellow;1;1252;ak;0;0;0;mww;35;553154;-157829;Perryville, Alaska;North America;United States
+M 6.7 - 15 km S of Hukay, Philippines;67;23/07/2021 20.48;8;5;green;1;935;us;0;8139;12;mww;110;136989;120713;Hukay, Philippines;Asia;Philippines
+M 6.7 - 71 km S of Burica, Panama;67;21/07/2021 21.15;6;6;green;1;830;us;0;1395;61;mww;10;75904;-828813;Burica, Panama;North America;Panama
+M 6.5 - Kermadec Islands, New Zealand;65;20/06/2021 17.05;0;4;green;1;650;us;0;7994;24;mww;25;-302144;-177773;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.5 - 265 km SSE of Alo, Wallis and Futuna;65;21/05/2021 22.13;5;7;green;1;652;us;0;4518;44;mww;10;-164796;-177356;Alo, Wallis and Futuna;Oceania;France
+M 7.3 - Southern Qinghai, China;73;21/05/2021 18.04;9;9;orange;0;1025;us;0;4655;9;mww;10;345861;982551;Southern Qinghai, China;Asia;People's Republic of China
+M 6.7 - 260 km S of Sinabang, Indonesia;67;14/05/2021 06.33;8;4;green;0;698;us;0;1487;37;mww;11;1684;966475;Sinabang, Indonesia;Asia;Indonesia
+M 6.7 - Mauritius - Reunion region;67;12/05/2021 14.05;9;3;green;0;694;us;0;10669;45;mww;10;-172495;663745;Mauritius - Reunion region;Africa;Mauritius and France 
+M 6.9 - ;69;01/05/2021 01.27;7;6;green;1;919;us;0;2619;35;mww;43;382296;141665;;Asia;Japan
+M 6.5 - 207 km WSW of Haveluloto, Tonga;65;25/04/2021 22.28;4;4;green;0;651;us;0;5931;20;mww;246;-216857;-177064;Haveluloto, Tonga;Oceania;Tonga
+M 6.5 - 225 km WNW of Pangai, Tonga;65;24/04/2021 00.23;6;4;green;0;652;us;0;10405;19;mww;301;-189204;-176235;Pangai, Tonga;Oceania;Tonga
+M 7.0 - 30 km E of Ishinomaki, Japan;7;20/03/2021 09.09;7;7;yellow;1;1052;us;0;2378;35;mww;43;384752;141607;Ishinomaki, Japan;Asia;Japan
+M 6.6 - 171 km SSE of Ust’-Kamchatsk Staryy, Russia;66;16/03/2021 18.38;5;5;green;1;672;us;0;3183;18;mww;1323;547018;163208;Ust’-Kamchatsk Staryy, Russia;Asia;Russia
+M 6.5 - Kermadec Islands region;65;04/03/2021 23.12;0;4;green;0;650;us;0;11764;25;mwb;24;-284792;-176619;Kermadec Islands region;Oceania;New Zealand
+M 8.1 - Kermadec Islands, New Zealand;81;04/03/2021 19.28;9;8;green;1;1021;us;0;739;21;mww;2893;-297466;-177224;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 7.4 - Kermadec Islands, New Zealand;74;04/03/2021 17.41;3;7;green;1;843;us;0;437;30;mww;43;-296131;-177842;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 7.3 - 182 km NE of Gisborne, New Zealand;73;04/03/2021 13.27;7;6;green;1;932;us;0;918;24;mww;10;-37596;179544;Gisborne, New Zealand;Oceania;New Zealand
+M 7.1 - 73 km ENE of Namie, Japan;71;13/02/2021 14.07;9;8;orange;1;1612;us;0;3085;11;mww;4398;376856;141992;Namie, Japan;Asia;Japan
+M 7.7 - southeast of the Loyalty Islands;77;10/02/2021 13.19;9;4;green;1;918;us;0;7989;15;mww;10;-232787;171489;the Loyalty Islands;Oceania;France
+M 6.9 - South Shetland Islands;69;23/01/2021 23.36;9;5;green;1;739;us;0;155;16;mww;15;-618484;-55559;South Shetland Islands;Antarctica;Antarctica
+M 7.0 - 211 km SE of Pondaguitan, Philippines;7;21/01/2021 12.23;7;5;green;1;802;us;0;2821;15;mww;80;50074;127517;Pondaguitan, Philippines;Asia;Philippines
+M 6.7 - 29 km SSW of Turt, Mongolia;67;11/01/2021 21.32;8;8;green;0;776;us;0;2043;22;mww;10;512407;100443;Turt, Mongolia;Asia;Mongolia
+M 6.7 - 146 km WNW of Corral, Chile;67;27/12/2020 21.39;5;5;green;1;776;us;0;1319;19;mww;10;-393264;-749067;Corral, Chile;South America;Chile
+M 7.0 - 13 km NNE of Néon Karlovásion, Greece;7;30/10/2020 11.51;8;7;orange;0;1527;us;0;1518;18;mww;21;378973;267953;Néon Karlovásion, Greece;Europe;Greece
+M 7.6 - 99 km SE of Sand Point, Alaska;76;19/10/2020 20.54;9;7;yellow;1;1165;us;0;23;36;mww;2837;54662;-159675;Sand Point, Alaska;North America;United States of America
+M 6.5 - 94 km NW of Vallenar, Chile;65;01/09/2020 21.09;6;6;green;0;674;us;0;388;49;mww;16;-279285;-713937;Vallenar, Chile;South America;Chile
+M 6.8 - 86 km NW of Vallenar, Chile;68;01/09/2020 04.09;6;7;green;1;824;us;0;312;69;mww;21;-28013;-711958;Vallenar, Chile;South America;Chile
+M 6.9 - 222 km SSE of Katabu, Indonesia;69;21/08/2020 04.09;4;3;green;0;749;us;0;2267;20;mww;624;-66704;123493;Katabu, Indonesia;Asia;Indonesia
+M 6.9 - 122 km WSW of Bengkulu, Indonesia;69;18/08/2020 22.29;4;4;green;0;735;us;0;1716;25;mww;26;-42791;101215;Bengkulu, Indonesia;Asia;Indonesia
+M 6.8 - 138 km WSW of Bengkulu, Indonesia;68;18/08/2020 22.23;5;4;green;0;716;us;0;1816;34;mww;22;-43724;101095;Bengkulu, Indonesia;Asia;Indonesia
+M 6.6 - 13 km E of San Pedro, Philippines;66;18/08/2020 00.03;9;8;yellow;1;784;us;0;5128;14;mww;10;120065;12413;San Pedro, Philippines;Asia;Philippines
+M 7.8 - 99 km SSE of Perryville, Alaska;78;22/07/2020 06.12;9;7;green;1;1111;us;0;621;60;mww;28;551079;-158477;Perryville, Alaska;North America;United States of America
+M 7.0 - 114 km NNW of Popondetta, Papua New Guinea;7;17/07/2020 02.50;6;7;green;1;820;us;0;1671;18;mww;73;-7847;147755;Popondetta, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 97 km N of Batang, Indonesia;66;06/07/2020 22.54;4;2;green;0;684;us;0;1458;14;mww;53376;-56368;110678;Batang, Indonesia;Asia;Indonesia
+M 7.4 - 9 km SE of Santa María Xadani, Mexico;74;23/06/2020 15.29;8;8;orange;1;1494;us;0;151;30;mww;20;159163;-959533;Santa María Xadani, Mexico;North America;Mexico
+M 7.4 - south of the Kermadec Islands;74;18/06/2020 12.49;7;7;green;1;873;us;0;4035;23;mww;10;-332938;-177838;the Kermadec Islands;Oceania;New Zealand 
+M 6.6 - 130 km WNW of Naze, Japan;66;13/06/2020 15.51;5;4;green;1;734;us;0;2015;18;mww;165;289386;128262;Naze, Japan;Asia;Japan
+M 6.8 - 48 km SW of San Pedro de Atacama, Chile;68;03/06/2020 07.35;6;6;green;1;835;us;0;1164;21;mww;112;-232966;-684204;San Pedro de Atacama, Chile;South America;Chile
+M 6.5 - Monte Cristo Range, NV Earthquake;65;15/05/2020 11.03;7;8;green;0;1320;nn;27;357;5579;ml;27;381689;-11785;Monte Cristo Range, NV Earthquake;North America;United States of America
+M 6.6 - 175 km SSE of Lata, Solomon Islands;66;12/05/2020 22.41;4;6;green;1;671;us;0;3403;12;mww;107;-120662;166648;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - Banda Sea;68;06/05/2020 13.53;4;6;green;0;738;us;0;1921;16;mww;96;-67762;129785;Banda Sea;Asia;Indonesia
+M 6.5 - 91 km S of Néa Anatolí, Greece;65;02/05/2020 12.51;7;6;green;0;678;us;0;1293;19;mww;10;341818;257101;Néa Anatolí, Greece;North America;United States of America
+M 6.5 - Stanley, Idaho;65;31/03/2020 23.52;8;8;green;0;1410;us;0;885;31;mww;1206;444646;-115118;Stanley, Idaho;North America;United States of America
+M 7.5 - 221 km SSE of Severo-Kuril’sk, Russia;75;25/03/2020 02.49;6;5;green;1;879;us;0;4109;12;mww;578;489638;157695;Severo-Kuril’sk, Russia;Asia;Russia
+M 7.0 - 95 km ENE of Kuril’sk, Russia;7;13/02/2020 10.33;5;6;yellow;1;770;us;0;4501;25;mww;143;456161;148959;Kuril’sk, Russia;Asia;Russia
+M 7.7 - 123 km NNW of Lucea, Jamaica;77;28/01/2020 19.10;9;6;yellow;1;1812;us;0;1657;26;mww;1486;194193;-78756;Lucea, Jamaica;North America;Jamaica
+M 6.7 - 13 km N of Do?anyol, Turkey;67;24/01/2020 17.55;8;9;orange;0;1247;us;0;87;49;mww;10;384312;390609;Doanyol, Turkey;Asia;Turkey
+M 6.8 - 7 km S of Magsaysay, Philippines;68;15/12/2019 06.11;9;7;yellow;1;825;us;0;546;39;mww;18;66969;125174;Magsaysay, Philippines;Asia;Philippines
+M 7.1 - 138km E of Bitung, Indonesia;71;14/11/2019 16.17;6;6;green;1;799;us;0;1271;11;mww;33;16213;126416;Bitung, Indonesia;Asia;Indonesia
+M 6.5 - 166km SSW of Ndoi Island, Fiji;65;08/11/2019 10.44;0;2;green;0;650;us;0;4765;25;mww;577;-219449;-179511;Ndoi Island, Fiji;Oceania;Fiji
+M 6.6 - 136 km W of Neiafu, Tonga;66;04/11/2019 22.43;4;4;green;1;673;us;0;5086;48;mww;10;-185747;-175272;Neiafu, Tonga;Oceania;Tonga
+M 6.5 - 2km ESE of Kisante, Philippines;65;31/10/2019 01.11;9;7;green;1;733;us;0;428;19;mww;10;69098;125178;Kisante, Philippines;Asia;Philippines
+M 6.6 - 10 km NE of Columbio, Philippines;66;29/10/2019 01.04;9;7;yellow;1;780;us;0;646;24;mww;15;67567;125008;Columbio, Philippines;Asia;Philippines
+M 6.7 - 70 km WSW of Constitución, Chile;67;29/09/2019 15.57;7;6;green;1;844;us;0;1269;98;mww;11;-354758;-73163;Constitución, Chile;South America;Chile
+M 6.5 - 11km S of Kairatu, Indonesia;65;25/09/2019 23.46;7;7;yellow;1;656;us;0;3909;15;mww;1226;-34528;12837;Kairatu, Indonesia;Asia;Indonesia
+M 6.6 - 34km NNE of Ndoi Island, Fiji;66;01/09/2019 15.54;2;3;;1;671;us;0;4121;19;mww;591;-203641;-17857;Ndoi Island, Fiji;Oceania;Fiji
+M 6.6 - 131km S of Bristol Island, South Sandwich Islands;66;27/08/2019 23.55;0;4;green;1;670;us;0;12896;19;mww;16;-602152;-265801;Bristol Island, South Sandwich Islands;Antarctica ;United Kingdom of Great Britain and Northern Ireland (the)
+M 6.9 - 152 km SW of Labuan, Indonesia;69;02/08/2019 12.03;4;6;green;0;875;us;0;2839;23;mww;49;-72822;104791;Labuan, Indonesia;Asia;Indonesia
+M 6.8 - 96 km SW of San Antonio, Chile;68;01/08/2019 18.28;6;6;green;1;947;us;0;817;35;mww;25;-342364;-723102;San Antonio, Chile;South America;Chile
+M 6.6 - 62km E of Lakatoro, Vanuatu;66;31/07/2019 15.02;0;4;green;1;670;us;0;6024;30;mww;181;-161985;167998;Lakatoro, Vanuatu;Oceania;Vanuatu
+M 7.2 - 93km NNE of Laiwui, Indonesia;72;14/07/2019 09.10;7;7;green;1;809;us;0;1504;38;mww;1898;-5858;128034;Laiwui, Indonesia;Asia;Indonesia
+M 6.6 - 200km W of Broome, Australia;66;14/07/2019 05.39;5;5;green;0;791;us;0;2978;32;mww;10;-182242;120358;Broome, Australia;Oceania;Australia
+M 6.9 - 134km WSW of Kota Ternate, Indonesia;69;07/07/2019 15.08;7;5;green;0;747;us;0;1205;21;mww;35;5126;126189;Kota Ternate, Indonesia;Asia;Indonesia
+M 7.1 - 18km W of Searles Valley, CA;71;06/07/2019 03.19;9;9;yellow;0;1646;ci;77;4616;43;mw;8;357695;-117599;Searles Valley, CA;North America;United States of America
+M 7.3 - 292km NW of Saumlaki, Indonesia;73;24/06/2019 02.53;4;6;green;1;952;us;0;2629;16;mww;212;-64078;129169;Saumlaki, Indonesia;Asia;Indonesia
+M 7.3 - 116km NE of L'Esperance Rock, New Zealand;73;15/06/2019 22.55;8;6;green;1;830;us;0;1402;11;mww;46;-306441;-1781;L'Esperance Rock, New Zealand;Oceania;New Zealand
+M 6.6 - 32 km S of La Libertad, El Salvador;66;30/05/2019 09.03;7;6;yellow;1;886;us;0;1193;22;mww;5792;131994;-893056;La Libertad, El Salvador;North America;El Salvador
+M 8.0 - 78 km NE of Navarro, Peru;8;26/05/2019 07.41;9;8;orange;1;1890;us;0;318;17;mww;12257;-58119;-752697;Navarro, Peru;South America;Peru
+M 7.6 - 46km SSE of Namatanai, Papua New Guinea;76;14/05/2019 12.58;7;7;green;1;929;us;0;453;16;mww;10;-4051;152597;Namatanai, Papua New Guinea;Oceania;Papua New Guinea
+M 7.1 - 33km NW of Bulolo, Papua New Guinea;71;06/05/2019 21.19;7;6;yellow;1;826;us;0;2514;16;mww;146;-69746;146449;Bulolo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 98km SSW of Luwuk, Indonesia;68;12/04/2019 11.40;5;6;green;1;717;us;0;791;28;mww;1546;-18146;12258;Luwuk, Indonesia;Asia;Indonesia
+M 6.5 - 83km ENE of Bristol Island, South Sandwich Islands;65;09/04/2019 17.53;0;5;green;1;650;us;0;7568;18;mww;38;-586262;-25304;Bristol Island, South Sandwich Islands;Antarctica ;United Kingdom of Great Britain and Northern Ireland (the)
+M 7.0 - 22 km NNE of Azángaro, Peru;7;01/03/2019 08.50;7;4;green;1;869;us;0;2501;42;mww;267;-147131;-701546;Azángaro, Peru;South America;Peru
+M 7.5 - 111km ESE of Palora, Ecuador;75;22/02/2019 10.17;7;7;yellow;1;1145;us;0;2045;15;mww;145;-21862;-770505;Palora, Ecuador;South America;Ecuador
+M 6.7 - 5 km SW of Puerto Madero, Mexico;67;01/02/2019 16.14;6;6;yellow;1;909;us;0;289;43;mww;66;146802;-924527;Puerto Madero, Mexico;North America;Mexico
+M 6.7 - Prince Edward Islands region;67;22/01/2019 19.01;0;3;green;0;691;us;0;7527;17;mww;13;-431219;423568;Prince Edward Islands region;Africa;South Africa 
+M 6.7 - 10 km SSW of Coquimbo, Chile;67;20/01/2019 01.32;8;8;orange;1;1600;us;0;173;22;mww;63;-300404;-713815;Coquimbo, Chile;South America;Chile
+M 6.6 - 94 km NW of Sola, Vanuatu;66;15/01/2019 18.06;5;4;green;1;671;us;0;7818;18;mww;35;-13336;166875;Sola, Vanuatu;Oceania;Vanuatu
+M 6.6 - Molucca Sea;66;06/01/2019 17.27;2;4;green;1;672;us;0;1596;33;mww;4321;2258;126758;Molucca Sea;Asia;Indonesia
+M 6.8 - 90km W of Tarauaca, Brazil;68;05/01/2019 19.25;3;3;green;0;715;us;0;1181;16;mww;57041;-8144;-71587;Tarauaca, Brazil;South America;Brazil
+M 7.0 - 96 km ESE of Pondaguitan, Philippines;7;29/12/2018 03.39;5;5;green;1;803;us;0;1769;21;mww;6021;58983;126921;Pondaguitan, Philippines;Asia;Philippines
+M 7.3 - 187 km SE of Ust’-Kamchatsk Staryy, Russia;73;20/12/2018 17.01;3;7;green;1;822;us;0;4126;23;mww;1656;550999;164699;Ust’-Kamchatsk Staryy, Russia;Asia;Russia
+M 7.1 - South Sandwich Islands region;71;11/12/2018 02.26;0;5;green;1;776;us;0;7043;20;mww;133;-585446;-263856;South Sandwich Islands region;Antarctica ;South Georgia and the South Sandwich Islands
+M 6.6 - 199 km ESE of Tadine, New Caledonia;66;05/12/2018 06.43;0;4;green;1;670;us;0;2679;31;mww;10;-220629;169733;Tadine, New Caledonia;Oceania;France
+M 7.5 - 166 km ESE of Tadine, New Caledonia;75;05/12/2018 04.18;3;6;green;1;871;us;0;2405;18;mww;10;-219496;169427;Tadine, New Caledonia;Oceania;France
+M 7.1 - 1 km SE of Point MacKenzie, Alaska;71;30/11/2018 17.29;8;8;orange;1;1790;ak;0;0;0;mw;467;613464;-149955;Point MacKenzie, Alaska;North America;United States of America
+M 6.8 - 187 km E of Levuka, Fiji;68;18/11/2018 20.25;0;3;green;1;711;us;0;2879;39;mww;540;-178735;-178927;Levuka, Fiji;Oceania;Fiji
+M 6.7 - 120 km NW of Olonkinbyen, Svalbard and Jan Mayen;67;09/11/2018 01.49;3;4;green;1;693;us;0;7853;19;mww;10;716312;-112431;Olonkinbyen, Svalbard and Jan Mayen;Europe;Norway 
+M 6.8 - 32 km SW of Lithakiá, Greece;68;25/10/2018 22.54;8;7;yellow;0;954;us;0;2268;15;mww;14;375203;205565;Lithakiá, Greece;Europe;Greece
+M 6.5 - 237 km SW of Port McNeill, Canada;65;22/10/2018 06.22;2;4;green;0;655;us;0;1692;68;mww;10;49297;-129724;Port McNeill, Canada;North America;Canada
+M 6.8 - 210 km SW of Port McNeill, Canada;68;22/10/2018 06.16;4;4;green;1;776;us;0;1505;36;mww;10;493346;-129289;Port McNeill, Canada;North America;Canada
+M 6.5 - 223 km SW of Port McNeill, Canada;65;22/10/2018 05.39;3;4;green;1;669;us;0;1611;63;mww;10;492586;-129412;Port McNeill, Canada;North America;Canada
+M 6.5 - 171 km E of Tadine, New Caledonia;65;16/10/2018 01.03;0;4;green;1;650;us;0;2109;22;mww;17;-217427;169522;Tadine, New Caledonia;Oceania;France
+M 6.7 - 269 km WNW of Ozernovskiy, Russia;67;13/10/2018 11.10;0;3;green;1;691;us;0;2705;17;mww;461;528549;153243;Ozernovskiy, Russia;Asia;Russia
+M 6.5 - 154 km S of Severo-Kuril’sk, Russia;65;10/10/2018 23.16;0;4;green;1;650;us;0;3923;14;mww;20;492902;156297;Severo-Kuril’sk, Russia;Asia;Russia
+M 7.0 - 119 km E of Kimbe, Papua New Guinea;7;10/10/2018 20.48;6;6;green;1;758;us;0;1778;18;mww;39;-57012;151205;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 279 km E of Levuka, Fiji;67;30/09/2018 10.52;2;3;green;1;691;us;0;3745;23;mww;550;-183604;-178063;Levuka, Fiji;Oceania;Fiji
+M 7.5 - 72 km N of Palu, Indonesia;75;28/09/2018 10.02;8;8;red;0;2026;us;0;1649;13;mww;20;-2559;119846;Palu, Indonesia;Asia;Indonesia
+M 6.5 - south of the Fiji Islands;65;16/09/2018 21.11;4;1;green;0;651;us;0;5139;18;mww;576;-25415;178199;the Fiji Islands;Oceania;Fiji
+M 6.9 - Kermadec Islands region;69;10/09/2018 04.19;3;4;green;0;735;us;0;2785;18;mww;115;-317447;-179373;Kermadec Islands region;Oceania;New Zealand
+M 6.5 - 66 km NW of Kirakira, Solomon Islands;65;09/09/2018 19.31;3;6;green;1;651;us;0;1638;25;mww;68;-100207;161503;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.9 - 45 km S of Levuka, Fiji;79;06/09/2018 15.49;7;4;green;1;979;us;0;1431;12;mww;67081;-184743;17935;Levuka, Fiji;Oceania;Fiji
+M 6.6 - 27 km ESE of Chitose, Japan;66;05/09/2018 18.07;8;9;orange;1;1075;us;0;113;32;mww;35;426861;141929;Chitose, Japan;Asia;Japan
+M 7.1 - 238 km ESE of Tadine, New Caledonia;71;29/08/2018 03.51;2;5;green;1;776;us;0;2548;23;mww;2143;-220295;170126;Tadine, New Caledonia;Oceania;France
+M 7.1 - 136 km W of Iñapari, Peru;71;24/08/2018 09.04;0;3;green;0;776;us;0;377;12;mww;630;-110355;-708284;Iñapari, Peru;South America;Peru
+M 6.5 - 78 km E of Lakatoro, Vanuatu;65;21/08/2018 22.32;6;7;green;1;652;us;0;4797;10;mww;9;-160315;168143;Lakatoro, Vanuatu;Oceania;Vanuatu
+M 7.3 - 40 km ENE of Carúpano, Venezuela;73;21/08/2018 21.31;8;6;yellow;1;1570;us;0;1822;15;mww;14682;107731;-629019;Carúpano, Venezuela;South America;Venezuela
+M 6.9 - 20 km NNW of Labuan Lombok, Indonesia;69;19/08/2018 14.56;7;7;green;0;1206;us;0;2453;31;mww;21;-8319;116627;Labuan Lombok, Indonesia;Asia;Indonesia
+M 8.2 - 267 km E of Levuka, Fiji;82;19/08/2018 00.19;5;4;green;1;1050;us;0;363;13;mww;600;-181125;-178153;Levuka, Fiji;Oceania;Fiji
+M 6.5 - 124 km N of Labuan Bajo, Indonesia;65;17/08/2018 15.35;5;3;green;0;743;us;0;2719;23;mww;529;-73718;119802;Labuan Bajo, Indonesia;Asia;Indonesia
+M 6.5 - 108 km WSW of Adak, Alaska;65;15/08/2018 21.56;6;6;green;1;655;us;0;576;22;mww;3393;514234;-178026;Adak, Alaska;North America;United States of America
+M 6.9 - 36 km NW of Labuan Lombok, Indonesia;69;05/08/2018 11.46;9;8;orange;0;1704;us;0;2271;15;mww;34;-82581;116438;Labuan Lombok, Indonesia;Asia;Indonesia
+M 6.9 - 18 km SSW of Leilani Estates, Hawaii;69;04/05/2018 22.32;7;8;yellow;1;1392;hv;63;11;210;mw;581;193182;-155;Leilani Estates, Hawaii;North America;United States of America
+M 6.8 - 38 km SE of Boyuibe, Bolivia;68;02/04/2018 13.40;5;3;green;0;733;us;0;532;16;mww;559;-206588;-630058;Boyuibe, Bolivia;South America;Bolivia
+M 6.9 - 150 km E of Kimbe, Papua New Guinea;69;29/03/2018 21.25;9;6;green;1;741;us;0;1487;18;mww;35;-55321;1515;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 140 km E of Kimbe, Papua New Guinea;67;26/03/2018 09.51;5;6;green;1;696;us;0;1507;15;mww;40;-55024;151402;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 103 km E of Kokopo, Papua New Guinea;68;08/03/2018 17.39;6;6;green;1;719;us;0;1049;16;mww;2286;-43762;1532;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 62 km SW of Tari, Papua New Guinea;67;06/03/2018 14.13;8;7;green;1;697;us;0;5457;19;mww;2049;-63043;142612;Tari, Papua New Guinea;Oceania;Papua New Guinea
+M 7.5 - 32 km SW of Tari, Papua New Guinea;75;25/02/2018 17.44;9;8;yellow;1;943;us;0;548;17;mww;2521;-60699;142754;Tari, Papua New Guinea;Oceania;Papua New Guinea
+M 7.2 - 4 km S of Pinotepa de Don Luis, Mexico;72;16/02/2018 23.39;7;7;yellow;1;1384;us;0;142;82;mww;22;163855;-979787;Pinotepa de Don Luis, Mexico;North America;Mexico
+M 7.9 - 261 km SE of Chiniak, Alaska;79;23/01/2018 09.31;9;4;green;1;1870;us;0;2585;30;mww;1406;560039;-149166;Chiniak, Alaska;North America;United States of America
+M 7.1 - 37 km W of Atiquipa, Peru;71;14/01/2018 09.18;9;7;green;1;1075;us;0;429;23;mww;39;-157675;-747092;Atiquipa, Peru;South America;Peru
+M 7.5 - 203 km NNE of Barra Patuca, Honduras;75;10/01/2018 02.51;8;5;green;1;1623;us;0;4581;12;mww;19;174825;-8352;Barra Patuca, Honduras;North America;Honduras
+M 6.5 - 12 km SSW of Kawalu, Indonesia;65;15/12/2017 16.47;8;7;green;0;998;us;0;2365;28;mww;90;-74921;108174;Kawalu, Indonesia;Asia;Indonesia
+M 6.5 - Bouvet Island region;65;13/12/2017 18.03;1;5;green;1;651;us;0;17654;23;mww;17;-542189;21628;Bouvet Island region;Antarctica ;Bouvet Island
+M 7.0 - 85 km ENE of Tadine, New Caledonia;7;19/11/2017 22.43;4;6;green;1;771;us;0;617;14;mww;10;-213246;168671;Tadine, New Caledonia;Oceania;France
+M 6.6 - 74 km E of Tadine, New Caledonia;66;19/11/2017 15.09;4;5;green;1;676;us;0;529;21;mww;13;-215027;168598;Tadine, New Caledonia;Oceania;France
+M 6.5 - 18 km W of Parrita, Costa Rica;65;13/11/2017 02.28;8;8;yellow;1;1153;us;0;225;37;mww;1936;95147;-844865;Parrita, Costa Rica;North America;Costa Rica
+M 7.3 - 29 km S of ?alabja, Iraq;73;12/11/2017 18.18;8;9;red;0;2790;us;0;284;33;mww;19;349109;459592;Halabja, Iraq;Asia;Iran
+M 6.5 - 67 km WSW of Angoram, Papua New Guinea;65;07/11/2017 21.26;6;5;green;1;661;us;0;4449;10;mww;11057;-42433;143485;Angoram, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 97 km NE of Hihifo, Tonga;68;04/11/2017 09.00;5;5;green;1;727;us;0;4852;21;mww;10;-153197;-173168;Hihifo, Tonga;Oceania;Tonga
+M 6.6 - 101 km E of Tadine, New Caledonia;66;01/11/2017 02.23;3;5;green;1;674;us;0;788;29;mww;22;-216484;168859;Tadine, New Caledonia;Oceania;France
+M 6.7 - 132 km E of Tadine, New Caledonia;67;31/10/2017 00.42;3;4;green;1;691;us;0;1062;55;mww;24;-216971;169148;Tadine, New Caledonia;Oceania;France
+M 6.7 - 181 km NNE of Maumere, Indonesia;67;24/10/2017 10.47;3;3;green;0;694;us;0;1634;16;mww;55381;-72168;123074;Maumere, Indonesia;Asia;Indonesia
+M 6.5 - 247 km ESE of Attu Station, Alaska;65;08/10/2017 22.34;3;5;green;1;651;us;0;1154;11;mww;119;523909;176769;Attu Station, Alaska;North America;United States of America
+M 7.1 - 1 km S of Matzaco, Mexico;71;19/09/2017 18.14;9;8;;0;1686;us;0;984;23;mww;48;185499;-984887;Matzaco, Mexico;North America;Mexico
+M 8.2 - near the coast of Chiapas, Mexico;82;08/09/2017 04.49;9;7;red;1;2910;us;0;944;22;mww;4739;150222;-938993;Chiapas, Mexico;North America;Mexico
+M 6.5 - 168 km SW of Mawu, China;65;08/08/2017 13.19;5;7;yellow;0;707;us;0;11411;22;mww;9;331926;103855;Mawu, China;Asia;People's Republic of China
+M 6.6 - 11 km ENE of Kos, Greece;66;20/07/2017 22.31;7;7;yellow;0;1064;us;0;913;16;mww;7;369293;274139;Kos, Greece;Europe;Greece
+M 7.7 - Komandorskiye Ostrova, Russia region;77;17/07/2017 23.34;8;7;green;1;918;us;0;3564;13;mww;10;544434;168857;Komandorskiye Ostrova, Russia region;Asia;Russia
+M 6.6 - Auckland Islands, New Zealand region;66;11/07/2017 07.00;5;4;green;1;704;us;0;3773;37;mww;10;-494837;164016;Auckland Islands, New Zealand region;Oceania;New Zealand
+M 6.5 - 2 km S of Lim-oo, Philippines;65;06/07/2017 08.03;9;8;yellow;1;740;us;0;4139;30;mww;9;111269;124629;Lim-oo, Philippines;Asia;Philippines
+M 6.8 - 28 km SW of Puerto San José, Guatemala;68;22/06/2017 12.31;6;6;yellow;1;1034;us;0;1065;38;mww;3812;137174;-909718;Puerto San José, Guatemala;North America;Guatemala
+M 6.9 - 2 km SSW of San Pablo, Guatemala;69;14/06/2017 07.29;8;6;yellow;1;1188;us;0;247;35;mww;93;149091;-920092;San Pablo, Guatemala;North America;Guatemala
+M 6.8 - 200 km NW of Attu Station, Alaska;68;02/06/2017 22.24;0;4;green;1;711;us;0;2308;12;mww;5;540312;17092;Attu Station, Alaska;North America;United States of America
+M 6.6 - 37 km WNW of Poso, Indonesia;66;29/05/2017 14.35;7;7;green;0;678;us;0;2353;18;mww;12;-12923;120431;Poso, Indonesia;Asia;Indonesia
+M 6.5 - South Sandwich Islands region;65;10/05/2017 23.23;0;4;green;1;650;us;0;6489;17;mww;15;-56414;-257432;South Sandwich Islands region;Antarctica ;South Georgia and the South Sandwich Islands
+M 6.8 - 59 km NNE of Port-Olry, Vanuatu;68;09/05/2017 13.52;6;5;green;1;713;us;0;7495;19;mww;169;-145884;167377;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.9 - 31 km SW of Burias, Philippines;69;28/04/2017 20.23;9;6;green;1;814;us;0;1636;14;mww;26;55043;125066;Burias, Philippines;Asia;Philippines
+M 6.9 - 40 km W of Valparaíso, Chile;69;24/04/2017 21.38;9;7;yellow;1;1642;us;0;356;39;mww;28;-330375;-720617;Valparaíso, Chile;South America;Chile
+M 6.5 - 132 km WSW of Moijabana, Botswana;65;03/04/2017 17.40;7;8;green;0;1297;us;0;236;15;mww;29;-226784;251558;Moijabana, Botswana;Africa;Botswana
+M 6.6 - 81 km NNE of Ust’-Kamchatsk Staryy, Russia;66;29/03/2017 04.09;6;7;yellow;1;671;us;0;4591;14;mww;17;569401;162786;Ust’-Kamchatsk Staryy, Russia;Asia;Russia
+M 6.9 - south of the Fiji Islands;69;24/02/2017 17.28;2;3;green;1;733;us;0;6012;19;mww;4145;-232593;-178804;the Fiji Islands;Oceania;Fiji
+M 6.5 - 41 km E of Padilla, Bolivia;65;21/02/2017 14.09;3;3;green;0;653;us;0;4242;14;mww;59598;-192814;-639047;Padilla, Bolivia;South America;Bolivia
+M 6.5 - 11 km N of Mabua, Philippines;65;10/02/2017 14.03;8;7;yellow;1;718;us;0;2822;36;mww;15;99071;125452;Mabua, Philippines;Asia;Philippines
+M 7.9 - 35 km WNW of Panguna, Papua New Guinea;79;22/01/2017 04.30;9;7;yellow;1;987;us;0;3625;9;mww;135;-62464;155172;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 65 km W of Kirakira, Solomon Islands;65;19/01/2017 23.04;6;6;green;1;654;us;0;164;21;mww;36;-103506;161335;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.3 - 189 km SSE of Tabiauan, Philippines;73;10/01/2017 06.13;6;3;green;1;849;us;0;3813;18;mww;62717;44782;122617;Tabiauan, Philippines;Asia;Philippines
+M 6.9 - 225 km SW of Nadi, Fiji;69;03/01/2017 21.52;6;4;green;1;742;us;0;2495;13;mww;12;-193733;176052;Nadi, Fiji;Oceania;Fiji
+M 7.6 - 41 km SW of Quellón, Chile;76;25/12/2016 14.22;9;8;yellow;1;1152;us;0;355;29;mww;38;-434064;-739413;Quellón, Chile;South America;Chile
+M 6.7 - 151 km NE of Lospalos, Timor Leste;67;21/12/2016 00.17;5;5;green;0;726;us;0;338;17;mww;152;-75082;127921;Lospalos, Timor Leste;Asia;Timor Leste
+M 7.9 - 140 km E of Kokopo, Papua New Guinea;79;17/12/2016 10.51;9;7;yellow;1;972;us;0;1389;13;mww;9454;-45049;153522;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.9 - 92 km WSW of Kirakira, Solomon Islands;69;09/12/2016 19.10;8;6;green;1;737;us;0;1747;26;mww;1973;-10749;161132;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 79 km WSW of Kirakira, Solomon Islands;65;08/12/2016 21.56;0;5;green;0;650;us;0;1937;18;mww;1226;-108416;161314;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.8 - 69 km WSW of Kirakira, Solomon Islands;78;08/12/2016 17.38;9;8;green;1;961;us;0;1836;13;mww;40;-106812;161327;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 164 km W of Ferndale, California;66;08/12/2016 14.49;5;4;green;1;1120;us;0;1405;55;mww;845;404535;-126194;Ferndale, California;North America;United States of America
+M 6.5 - 14 km WNW of Reuleuet, Indonesia;65;06/12/2016 22.03;9;8;yellow;0;731;us;0;778;27;mww;13;52834;961678;Reuleuet, Indonesia;Asia;Indonesia
+M 6.6 - 122 km N of Murghob, Tajikistan;66;25/11/2016 14.24;8;7;green;0;693;us;0;1697;20;mww;17;392732;739776;Murghob, Tajikistan;Asia;People's Republic of China
+M 6.9 - 156 km SSW of Puerto El Triunfo, El Salvador;69;24/11/2016 18.43;5;4;green;1;855;us;0;1796;20;mww;10;119097;-888968;Puerto El Triunfo, El Salvador;North America;El Salvador
+M 6.9 - 35 km ESE of Namie, Japan;69;21/11/2016 20.59;9;6;green;1;1144;us;0;671;10;mww;9;373931;141387;Namie, Japan;Asia;Japan
+M 6.5 - 74 km NE of Amberley, New Zealand;65;14/11/2016 00.34;7;7;yellow;1;664;us;0;283;56;mww;9;-426058;173254;Amberley, New Zealand;Oceania;New Zealand
+M 6.5 - 92 km SSW of Blenheim, New Zealand;65;13/11/2016 11.32;6;7;yellow;1;656;us;0;135;58;mww;10;-423205;173669;Blenheim, New Zealand;Oceania;New Zealand
+M 7.8 - 53 km NNE of Amberley, New Zealand;78;13/11/2016 11.02;9;9;orange;1;1545;us;0;481;21;mww;1511;-427373;173054;Amberley, New Zealand;Oceania;New Zealand
+M 6.6 - 5 km ESE of Preci, Italy;66;30/10/2016 06.40;9;8;red;0;2840;us;0;174;25;mww;8;428621;130961;Preci, Italy;Europe;Italy
+M 6.6 - 161 km NNE of Pamanukan, Indonesia;66;19/10/2016 00.26;3;3;green;0;677;us;0;2022;16;mww;614;-48626;108163;Pamanukan, Indonesia;Asia;Indonesia
+M 6.8 - 76 km WNW of Kandrian, Papua New Guinea;68;17/10/2016 06.14;3;6;green;1;716;us;0;3727;11;mww;42;-60033;148887;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 6.9 - Fiji region;69;24/09/2016 21.28;2;3;green;1;733;us;0;4051;9;mww;5964;-197819;-178244;Fiji region;Oceania;Fiji
+M 7.0 - 175 km NE of Gisborne, New Zealand;7;01/09/2016 16.37;5;6;green;1;897;us;0;698;21;mww;19;-373586;179146;Gisborne, New Zealand;Oceania;New Zealand
+M 6.8 - 90 km NE of Rabaul, Papua New Guinea;68;31/08/2016 03.11;4;3;green;1;713;us;0;803;12;mww;476;-36849;152792;Rabaul, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 26 km W of Chauk, Myanmar;68;24/08/2016 10.34;6;6;yellow;0;981;us;0;1802;17;mww;82;209228;94569;Chauk, Myanmar;Asia;Myanmar
+M 7.2 - southeast of the Loyalty Islands;72;12/08/2016 01.26;6;5;green;1;799;us;0;4823;14;mww;1637;-224765;173117;the Loyalty Islands;Oceania;France
+M 7.7 - Pagan region, Northern Mariana Islands;77;29/07/2016 21.18;5;6;green;1;971;us;0;3294;14;mww;196;185429;145507;Pagan region, Northern Mariana Islands;Oceania;United States of America
+M 6.6 - 80 km W of Sungai Penuh, Indonesia;66;01/06/2016 22.56;4;6;green;0;671;us;0;2435;16;mww;50;-20967;100665;Sungai Penuh, Indonesia;Asia;Indonesia
+M 7.2 - South Sandwich Islands region;72;28/05/2016 09.46;1;6;green;1;798;us;0;5803;24;mww;78;-562409;-269353;South Sandwich Islands region;Antarctica ;South Georgia and the South Sandwich Islands
+M 6.9 - 24 km NW of Rosa Zarate, Ecuador;69;18/05/2016 16.46;8;7;green;1;780;us;0;1192;17;mww;2995;4947;-79616;Rosa Zarate, Ecuador;South America;Ecuador
+M 6.7 - 32 km SE of Muisne, Ecuador;67;18/05/2016 07.57;5;7;green;1;744;us;0;1352;21;mww;16;4261;-797899;Muisne, Ecuador;South America;Ecuador
+M 7.0 - 3 km NW of Norsup, Vanuatu;7;28/04/2016 19.33;7;7;green;1;755;us;0;616;14;mww;24;-160429;167379;Norsup, Vanuatu;Oceania;Vanuatu
+M 7.8 - 27 km SSE of Muisne, Ecuador;78;16/04/2016 23.58;9;9;orange;1;1163;us;0;144;15;mww;2059;3819;-799218;Muisne, Ecuador;South America;Ecuador
+M 7.0 - 6 km ESE of Kumamoto, Japan;7;15/04/2016 16.25;9;9;red;1;2074;us;0;349;32;mww;10;327906;130754;Kumamoto, Japan;Asia;Japan
+M 6.9 - 76 km SE of Mawlaik, Myanmar;69;13/04/2016 13.55;6;6;yellow;0;903;us;0;3001;14;mww;136;230944;948654;Mawlaik, Myanmar;Asia;Myanmar
+M 6.6 - 42 km WSW of Ashk?sham, Afghanistan;66;10/04/2016 10.28;6;4;green;0;738;us;0;789;17;mww;212;364725;711311;Ashk?sham, Afghanistan;Asia;Afghanistan
+M 6.7 - 104 km W of Sola, Vanuatu;67;07/04/2016 03.32;7;5;green;1;692;us;0;6787;25;mww;2759;-139805;166594;Sola, Vanuatu;Oceania;Vanuatu
+M 6.7 - 102 km WSW of Sola, Vanuatu;67;06/04/2016 06.58;7;6;green;1;691;us;0;6697;19;mww;24;-140683;166624;Sola, Vanuatu;Oceania;Vanuatu
+M 6.9 - 82 km NNW of Port-Olry, Vanuatu;69;03/04/2016 08.23;7;6;green;1;734;us;0;1166;25;mww;26;-143235;166855;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 7.8 - southwest of Sumatra, Indonesia;78;02/03/2016 12.49;4;3;green;0;948;us;0;7009;20;mww;24;-49521;943299;Sumatra, Indonesia;Asia;Indonesia
+M 7.2 - 80 km S of Mil’kovo, Russia;72;30/01/2016 03.25;3;7;green;1;799;us;0;958;17;mww;177;539776;158546;Mil’kovo, Russia;Asia;Russia
+M 7.1 - 47 km ESE of Pedro Bay, Alaska;71;24/01/2016 10.30;7;7;green;1;1496;ak;0;0;0;mw;1256;596204;-153339;Pedro Bay, Alaska;North America;United States of America
+M 6.6 - 203 km SW of La Cruz de Loreto, Mexico;66;21/01/2016 18.06;3;4;green;1;673;us;0;2413;74;mww;10;188239;-106934;La Cruz de Loreto, Mexico;North America;Mexico
+M 6.7 - 52 km SE of Shizunai-furukawach?, Japan;67;14/01/2016 03.25;5;6;green;1;717;us;0;281;22;mww;46;419723;142781;Shizunai-furukawach?, Japan;Asia;Japan
+M 6.5 - 227 km SE of Sarangani, Philippines;65;11/01/2016 16.38;3;6;green;1;651;us;0;3144;22;mww;13;38965;126862;Sarangani, Philippines;Asia;Indonesia
+M 6.7 - 29 km W of Imph?l, India;67;03/01/2016 23.05;8;7;orange;0;1515;us;0;1794;16;mww;55;248036;936505;Imphal, India;Asia;India
+M 6.6 - 4 km W of Manuel Ávila Camacho (Ponte Duro), Mexico;66;17/12/2015 19.49;8;6;green;1;765;us;0;41;35;mww;85;158015;-93633;Manuel Ávila Camacho (Ponte Duro), Mexico;North America;Mexico
+M 6.9 - 107 km SE of Amahai, Indonesia;69;09/12/2015 10.21;8;5;green;0;738;us;0;2979;14;mww;21;-41064;129508;Amahai, Indonesia;Asia;Indonesia
+M 7.2 - 104 km W of Murghob, Tajikistan;72;07/12/2015 07.50;4;7;green;0;827;us;0;1116;18;mww;22;382107;727797;Murghob, Tajikistan;Asia;Tajikistan
+M 6.7 - 125 km SSW of Tarauacá, Brazil;67;26/11/2015 05.45;2;3;green;0;691;us;0;2033;19;mww;60275;-91825;-712574;Tarauacá, Brazil;South America;Brazil
+M 7.6 - 185 km WNW of Iñapari, Peru;76;24/11/2015 22.50;5;4;green;0;896;us;0;2852;10;mww;62056;-100598;-710184;Iñapari, Peru;South America;Peru
+M 7.6 - 155 km WNW of Iñapari, Peru;76;24/11/2015 22.45;6;5;green;1;957;us;0;3287;10;mww;60621;-105372;-709437;Iñapari, Peru;South America;Peru
+M 6.8 - 153 km WSW of Buala, Solomon Islands;68;18/11/2015 18.31;5;6;green;1;715;us;0;1599;19;mww;1259;-88994;158422;Buala, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 19 km SSW of Lefkáda, Greece;65;17/11/2015 07.10;7;7;orange;0;1018;us;0;0;0;mww;11;3867;206;Lefkáda, Greece;Europe;Greece
+M 6.7 - 140 km WSW of Makurazaki, Japan;67;13/11/2015 20.51;5;4;green;0;702;us;0;1444;17;mww;12;310009;128873;Makurazaki, Japan;Asia;Japan
+M 6.9 - 85 km NW of Coquimbo, Chile;69;11/11/2015 02.46;5;6;green;0;744;us;0;821;43;mww;10;-295097;-720585;Coquimbo, Chile;South America;Chile
+M 6.9 - 81 km NW of Coquimbo, Chile;69;11/11/2015 01.54;6;6;green;1;761;us;0;784;32;mww;12;-295067;-720068;Coquimbo, Chile;South America;Chile
+M 6.6 - Nicobar Islands, India region;66;08/11/2015 16.47;7;4;green;0;675;us;0;2792;31;mww;10;68431;94648;Nicobar Islands, India region;Asia;India
+M 6.8 - 39 km SW of Ovalle, Chile;68;07/11/2015 07.31;7;7;green;1;841;us;0;258;41;mww;46;-308796;-714519;Ovalle, Chile;South America;Chile
+M 6.5 - 47 km NW of Maubara, Timor Leste;65;04/11/2015 03.44;5;7;green;0;657;us;0;153;21;mww;20;-83381;124875;Maubara, Timor Leste;Asia;Indonesia
+M 7.5 - Hindu Kush region, Afghanistan;75;26/10/2015 09.09;8;7;orange;0;1448;us;0;622;18;mww;231;365244;703676;Hindu Kush region, Afghanistan;Asia;Afghanistan
+M 7.1 - 31 km NE of Port-Olry, Vanuatu;71;20/10/2015 21.52;6;6;green;1;780;us;0;592;11;mww;135;-148595;167303;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.6 - 28 km N of Sorong, Indonesia;66;24/09/2015 15.53;7;7;green;0;671;us;0;2486;13;mww;18;-6212;131262;Sorong, Indonesia;South America;Indonesia
+M 6.6 - 22 km WSW of Illapel, Chile;66;21/09/2015 17.40;5;7;green;1;820;us;0;1064;14;mww;35;-317275;-713792;Illapel, Chile;South America;Chile
+M 6.7 - 61 km WNW of Illapel, Chile;67;17/09/2015 04.10;5;7;green;0;718;us;0;853;35;mww;23;-315173;-71804;Illapel, Chile;South America;Chile
+M 6.5 - 54 km WNW of Illapel, Chile;65;17/09/2015 03.55;6;7;green;0;657;us;0;749;62;mww;27;-314244;-716876;Illapel, Chile;South America;Chile
+M 7.0 - 25 km WNW of Illapel, Chile;7;16/09/2015 23.18;8;7;green;0;799;us;0;903;13;mww;2841;-315622;-714262;Illapel, Chile;South America;Chile
+M 8.3 - 48 km W of Illapel, Chile;83;16/09/2015 22.54;9;8;orange;1;1960;us;0;684;19;mww;2244;-315729;-716744;Illapel, Chile;South America;Chile
+M 6.7 - 95 km SW of Topolobampo, Mexico;67;13/09/2015 08.14;5;5;green;1;708;us;0;1256;123;mww;10;24913;-109623;Topolobampo, Mexico;North America;Mexico
+M 6.5 - 177 km SE of Gizo, Solomon Islands;65;12/08/2015 18.49;0;5;green;1;650;us;0;2045;16;mww;643;-93293;157877;Gizo, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 186 km WNW of Malango, Solomon Islands;66;10/08/2015 04.12;3;5;green;1;671;us;0;1872;20;mww;22;-93438;158053;Malango, Solomon Islands;Oceania;Solomon Islands
+M 7.0 - 234 km W of Abepura, Indonesia;7;27/07/2015 21.41;9;7;green;1;762;us;0;6278;12;mww;48;-26286;138528;Abepura, Indonesia;Asia;Indonesia
+M 6.9 - Fox Islands, Aleutian Islands, Alaska;69;27/07/2015 04.49;4;7;green;1;734;us;0;444;39;mww;29;52376;-169446;Fox Islands, Aleutian Islands, Alaska;North America;United States of America
+M 7.0 - 80 km WNW of Lata, Solomon Islands;7;18/07/2015 02.27;8;6;green;1;759;us;0;5205;22;mww;11;-104012;165141;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 128 km NE of Bathsheba, Barbados;65;16/07/2015 15.16;4;4;green;1;686;us;0;1218;20;mww;20;138672;-585479;Bathsheba, Barbados;North America;Barbados
+M 6.7 - 150 km WNW of Malango, Solomon Islands;67;10/07/2015 04.12;4;5;green;1;691;us;0;1529;11;mww;12;-9307;158403;Malango, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - Bonin Islands, Japan region;65;23/06/2015 12.18;3;4;green;0;652;us;0;2277;11;mww;460;277375;139725;Bonin Islands, Japan region;Asia;Japan
+M 7.8 - Bonin Islands, Japan region;78;30/05/2015 11.23;6;3;green;1;1151;us;0;1675;12;mww;664;278386;140493;Bonin Islands, Japan region;Asia;Japan
+M 6.8 - 117 km SSE of Ugashik, Alaska;68;29/05/2015 07.00;5;6;green;1;762;ak;0;0;0;mw;726;56594;-15643;Ugashik, Alaska;North America;United States of America
+M 6.8 - 159 km ESE of Kirakira, Solomon Islands;68;22/05/2015 23.59;1;5;green;1;711;us;0;3619;18;mww;10;-111093;163215;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.9 - 205 km ESE of Kirakira, Solomon Islands;69;22/05/2015 21.45;1;4;green;1;732;us;0;4024;22;mww;1119;-110559;163696;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - 178 km W of Lata, Solomon Islands;68;20/05/2015 22.48;1;4;green;1;711;us;0;4395;15;mww;11;-108759;164169;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - 32 km SE of ?funato, Japan;68;12/05/2015 21.12;8;6;green;1;831;us;0;1422;8;mww;35;389056;142032;funato, Japan;Asia;Japan
+M 7.3 - Nepal;73;12/05/2015 07.05;8;7;orange;0;1563;us;0;677;11;mww;15;278087;860655;Nepal;Asia;Nepal
+M 7.1 - 143 km SW of Panguna, Papua New Guinea;71;07/05/2015 07.10;1;6;green;1;776;us;0;3835;11;mww;10;-72175;154557;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.5 - 131 km SSW of Kokopo, Papua New Guinea;75;05/05/2015 01.44;7;8;green;1;869;us;0;1295;22;mww;55;-54624;151875;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 109 km SSW of Kokopo, Papua New Guinea;68;01/05/2015 08.06;5;6;green;1;714;us;0;1074;23;mww;44;-52005;151777;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 126 km SSW of Kokopo, Papua New Guinea;67;30/04/2015 10.45;5;6;green;1;692;us;0;1239;12;mww;31;-5375;151771;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 21 km SSE of Kod?ri??, Nepal;67;26/04/2015 07.09;7;7;yellow;0;1016;us;0;727;13;mww;2291;277711;860173;Kodari, Nepal;Asia;Nepal
+M 6.6 - 71 km NNE of Bharatpur, Nepal;66;25/04/2015 06.45;8;7;yellow;0;733;us;0;1778;16;mww;10;282244;848216;Bharatpur, Nepal;Asia;Nepal
+M 7.8 - 67 km NNE of Bharatpur, Nepal;78;25/04/2015 06.11;8;9;red;0;2820;us;0;1857;12;mww;822;282305;847314;Bharatpur, Nepal;Asia;Nepal
+M 6.5 - 181 km SSW of Alo, Wallis and Futuna;65;17/04/2015 15.52;0;5;green;1;650;us;0;3702;42;mww;10;-158815;-1786;Alo, Wallis and Futuna;Oceania;France
+M 6.5 - 96 km ENE of Hihifo, Tonga;65;30/03/2015 08.48;2;5;green;1;650;us;0;4629;36;mww;11;-154994;-173029;Hihifo, Tonga;Oceania;Tonga
+M 7.5 - 53 km SE of Kokopo, Papua New Guinea;75;29/03/2015 23.48;6;7;green;1;872;us;0;666;19;mww;41;-47294;152562;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 150 km NNE of Maumere, Indonesia;7;27/02/2015 13.45;4;6;green;0;760;us;0;1362;12;mww;55206;-72968;122535;Maumere, Indonesia;Asia;Indonesia
+M 6.7 - 83 km ENE of Miyako, Japan;67;16/02/2015 23.06;5;5;green;1;714;us;0;1925;20;mww;23;398558;142881;Miyako, Japan;Asia;Japan
+M 6.7 - 103 km W of El Aguilar, Argentina;67;11/02/2015 18.57;4;6;green;1;700;us;0;211;16;mww;223;-231125;-66688;El Aguilar, Argentina;South America;Argentina
+M 6.8 - 81 km NNE of Port-Vila, Vanuatu;68;23/01/2015 03.47;1;4;green;1;711;us;0;2019;13;mww;21996;-170309;16852;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 6.5 - 236 km S of Punta de Burica, Panama;65;07/01/2015 05.07;1;4;green;1;650;us;0;4318;61;mww;8;59045;-826576;Punta de Burica, Panama; North America;Panama
+M 6.6 - 22 km ESE of Punta de Burica, Panama;66;08/12/2014 08.54;7;6;green;1;709;us;0;2485;43;mww;20;79401;-826865;Punta de Burica, Panama; North America;Panama
+M 6.6 - 115 km W of Panguna, Papua New Guinea;66;07/12/2014 01.22;1;5;green;1;670;us;0;3246;12;mww;23;-65108;15446;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 106 km WSW of Sangay, Philippines;66;02/12/2014 05.11;1;3;green;0;670;us;0;26;9;mww;614;61572;123126;Sangay, Philippines;Asia;Philippines
+M 6.8 - 157 km NW of Ternate, Indonesia;68;26/11/2014 14.33;6;5;green;1;713;us;0;1421;19;mww;39;19604;126575;Ternate, Indonesia;Asia;Indonesia
+M 6.5 - 123 km WNW of Tobelo, Indonesia;65;21/11/2014 10.10;5;5;green;1;652;us;0;1549;9;mww;35;22999;127056;Tobelo, Indonesia;Asia;Indonesia
+M 6.7 - 183 km NE of Gisborne, New Zealand;67;16/11/2014 22.33;7;4;green;1;698;us;0;1079;25;mww;22;-376478;179662;Gisborne, New Zealand;Oceania;New Zealand
+M 7.1 - 155 km NW of Ternate, Indonesia;71;15/11/2014 02.31;4;6;green;1;779;us;0;1397;18;mww;45;18929;126522;Ternate, Indonesia;Asia;Indonesia
+M 6.6 - 76 km NE of Finschhafen, Papua New Guinea;66;07/11/2014 03.33;2;6;green;1;671;us;0;3557;13;mww;5319;-59873;148232;Finschhafen, Papua New Guinea;Oceania;Papua New Guinea
+M 7.1 - Fiji region;71;01/11/2014 18.57;3;6;green;1;776;us;0;4415;13;mww;434;-196903;-177759;Fiji region;Oceania;Fiji
+M 7.3 - 74 km S of Intipucá, El Salvador;73;14/10/2014 03.51;8;6;yellow;1;982;us;0;1078;18;mww;40;125262;-881225;Intipucá, El Salvador;North America;El Salvador
+M 6.7 - 43 km NW of Piti Village, Guam;67;17/09/2014 06.14;5;5;green;1;724;us;0;46;11;mww;130;137641;144429;Piti Village, Guam;Oceania;United States of America
+M 6.8 - 38 km NW of Aniso, Peru;68;24/08/2014 23.21;6;6;green;1;741;us;0;4107;18;mww;101;-14598;-735714;Aniso, Peru;South America;Peru
+M 6.9 - Federated States of Micronesia region;69;03/08/2014 00.22;0;4;green;1;732;us;0;6393;12;mww;13;8295;146169;Micronesia region;Oceania;Federated States of Micronesia
+M 6.9 - Fiji region;69;21/07/2014 14.54;0;6;green;1;732;us;0;3934;15;mww;61542;-198015;-1784;Fiji region;Oceania;Fiji
+M 6.5 - 139 km ESE of Namie, Japan;65;11/07/2014 19.22;5;4;green;1;706;us;0;2421;9;mww;20;370052;142452;Namie, Japan;Asia;Japan
+M 6.9 - 4 km W of Puerto Madero, Mexico;69;07/07/2014 11.23;8;7;orange;1;1079;us;0;263;51;mww;53;14724;-924614;Puerto Madero, Mexico;North America;Mexico
+M 6.5 - 217 km SSE of Kokopo, Papua New Guinea;65;04/07/2014 15.00;0;4;green;1;650;us;0;2124;15;mww;20;-62304;152807;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 201 km SSE of Mata-Utu, Wallis and Futuna;67;29/06/2014 17.15;0;5;green;1;691;us;0;6713;45;mww;18;-149831;-17551;Mata-Utu, Wallis and Futuna;Oceania;Papua New Guinea
+M 6.9 - South Sandwich Islands region;69;29/06/2014 07.52;0;5;green;1;732;us;0;4838;25;mww;8;-554703;-283669;South Sandwich Islands region;Antarctica ;South Georgia and the South Sandwich Islands
+M 7.9 - Rat Islands, Aleutian Islands, Alaska;79;23/06/2014 20.53;6;8;green;1;963;us;0;133;22;mww;109;518486;178735;Rat Islands, Aleutian Islands, Alaska;North America;United States of America
+M 6.7 - Kermadec Islands, New Zealand;67;23/06/2014 20.06;0;5;green;0;691;us;0;748;43;mwc;2659;-299414;-177607;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.5 - Kermadec Islands, New Zealand;65;23/06/2014 19.21;0;5;green;0;650;us;0;778;30;mwc;10;-299379;-177516;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.9 - Kermadec Islands, New Zealand;69;23/06/2014 19.19;0;5;green;1;732;us;0;751;35;mww;20;-299772;-177725;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.9 - 21 km SSW of Kamariótissa, Greece;69;24/05/2014 09.25;9;7;green;0;951;us;0;402;25;mww;643;402893;253889;Kamariótissa, Greece;Europe;Greece
+M 6.5 - 110 km SE of Punta de Burica, Panama;65;13/05/2014 06.35;7;5;green;1;694;us;0;3121;33;mww;10;72096;-823045;Punta de Burica, Panama;North America;Panama
+M 6.6 - 239 km SSE of Isangel, Vanuatu;66;01/05/2014 06.36;0;5;green;1;670;us;0;334;10;mww;106;-214542;170355;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.5 - 107 km WSW of Vernon, Canada;65;24/04/2014 03.10;4;6;green;1;838;us;0;0;0;mww;10;496388;-127732;Vernon, Canada;North America;Canada
+M 7.5 - 70 km SW of Panguna, Papua New Guinea;75;19/04/2014 13.28;0;6;green;1;865;us;0;382;16;mww;4337;-67547;155024;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 57 km SW of Panguna, Papua New Guinea;66;19/04/2014 01.04;0;6;green;1;670;us;0;3803;11;mww;29;-66558;155087;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.2 - 9 km ENE of Coyuquilla Norte, Mexico;72;18/04/2014 14.27;8;7;yellow;1;1017;us;0;225;46;mww;24;17397;-100972;Coyuquilla Norte, Mexico;North America;Mexico
+M 6.6 - 75 km S of Kirakira, Solomon Islands;66;13/04/2014 13.24;0;6;green;0;670;us;0;2666;22;mww;10;-111284;162052;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.4 - 112 km S of Kirakira, Solomon Islands;74;13/04/2014 12.36;0;6;green;1;842;us;0;2885;17;mww;39;-114633;162051;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.6 - 93 km SSE of Kirakira, Solomon Islands;76;12/04/2014 20.14;0;7;green;1;889;us;0;2828;13;mww;2256;-112701;162148;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 15 km N of Belén, Nicaragua;66;11/04/2014 20.29;6;5;green;1;677;us;0;761;20;mww;135;11642;-858779;Belén, Nicaragua;North America;Nicaragua
+M 6.5 - 78 km SW of Panguna, Papua New Guinea;65;11/04/2014 08.16;0;6;green;1;650;us;0;3787;16;mww;20;-67878;15495;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.1 - 56 km WSW of Panguna, Papua New Guinea;71;11/04/2014 07.07;0;7;green;1;776;us;0;3729;21;mww;6053;-65858;155048;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.7 - 53 km SW of Iquique, Chile;77;03/04/2014 02.43;8;9;yellow;1;1057;us;0;1029;44;mww;224;-205709;-704931;Iquique, Chile;South America;Chile
+M 6.5 - 45 km WSW of Iquique, Chile;65;03/04/2014 01.58;7;7;green;0;670;us;0;828;82;mww;2407;-203113;-705756;Iquique, Chile;South America;Chile
+M 6.9 - 90 km WNW of Iquique, Chile;69;01/04/2014 23.57;0;5;green;0;732;us;0;828;119;mww;2842;-198927;-709455;Iquique, Chile;South America;Chile
+M 8.2 - 93 km NW of Iquique, Chile;82;01/04/2014 23.46;9;8;yellow;1;1332;us;0;609;23;mww;25;-196097;-707691;Iquique, Chile;South America;Chile
+M 6.7 - 63 km WNW of Iquique, Chile;67;16/03/2014 21.16;7;7;green;1;718;us;0;1008;44;mww;20;-199807;-707022;Iquique, Chile;South America;Chile
+M 6.8 - 77 km WNW of Indianola, California;68;10/03/2014 05.18;5;5;green;1;1211;nc;112;6568;229;mw;16441;408287;-125134;Indianola, California;North America;United States of America
+M 6.5 - 109 km NW of Nago, Japan;65;02/03/2014 20.11;4;5;green;1;668;us;0;1001;17;mww;119;274312;127367;Nago, Japan;Asia;Japan
+M 6.5 - 171 km NNE of Greenland, Barbados;65;18/02/2014 09.27;5;4;green;1;681;us;0;1635;30;mww;1483;146682;-589272;Greenland, Barbados;North America;Barbados
+M 6.9 - 272 km ESE of Hotan, China;69;12/02/2014 09.19;3;8;yellow;0;733;us;0;7496;18;mww;10;359053;825864;Hotan, China;Asia;People's Republic of China
+M 6.5 - 32 km E of Port-Olry, Vanuatu;65;07/02/2014 08.40;0;5;green;1;650;us;0;409;20;mww;122;-150691;167372;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.5 - south of the Kermadec Islands;65;02/02/2014 09.26;0;3;green;1;650;us;0;3651;22;mww;4426;-329076;-177881;the Kermadec Islands;Oceania;New Zealand
+M 6.5 - 32 km W of Sola, Vanuatu;65;01/01/2014 16.03;0;4;green;1;650;us;0;3997;14;mww;187;-138633;167249;Sola, Vanuatu;Oceania;Vanuatu
+M 6.5 - Fiji region;65;23/11/2013 07.48;3;4;green;0;651;us;0;5194;22;mww;371;-171171;-176545;Fiji region;Oceania;Fiji
+M 7.7 - Scotia Sea;77;17/11/2013 09.04;1;8;green;1;912;us;0;805;23;mww;10;-602738;-464011;Scotia Sea;Antarctica ;United Kingdom of Great Britain and Northern Ireland (the)
+M 6.9 - Scotia Sea;69;16/11/2013 03.34;0;5;green;1;732;us;0;8284;17;mww;997;-602627;-470621;Scotia Sea;Antarctica ;United Kingdom of Great Britain and Northern Ireland (the)
+M 6.6 - 41 km SSW of Coquimbo, Chile;66;31/10/2013 23.03;6;7;green;1;723;us;0;636;31;mww;27;-302921;-715215;Coquimbo, Chile;South America;Chile
+M 7.1 - off the east coast of Honshu, Japan;71;25/10/2013 17.10;6;4;green;1;872;us;0;3968;10;mww;35;371557;144661;off the east coast of Honshu, Japan;Asia;Japan
+M 6.6 - 98 km SW of Etchoropo, Mexico;66;19/10/2013 17.54;8;5;green;1;692;us;0;198;44;mww;945;260913;-110321;Etchoropo, Mexico;North America;Mexico
+M 6.8 - 62 km WSW of Panguna, Papua New Guinea;68;16/10/2013 10.30;0;6;green;1;711;us;0;579;9;mww;35;-64456;154931;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.1 - 4 km SE of Sagbayan, Philippines;71;15/10/2013 00.12;9;8;orange;1;1092;us;0;3144;12;mww;1904;98796;124117;Sagbayan, Philippines;Asia;Philippines
+M 6.6 - 36 km W of Kíssamos, Greece;66;12/10/2013 13.11;5;6;yellow;0;691;us;0;1984;40;mww;40;355142;232523;Kíssamos, Greece;Europe;Greece
+M 6.7 - Sea of Okhotsk;67;01/10/2013 03.38;0;3;green;0;691;us;0;2958;11;mww;573;531995;152786;Okhotsk;Asia;Russia
+M 6.5 - Kermadec Islands, New Zealand;65;30/09/2013 05.55;0;4;green;1;650;us;0;1709;21;mww;4154;-309255;-178323;Kermadec Islands, New Zealand;Oceania;New Zealand
+M 6.8 - 129 km WSW of Khuzdar, Pakistan;68;28/09/2013 07.34;7;7;orange;0;1005;us;0;7359;17;mww;12;271825;655052;Khuzdar, Pakistan;Asia;Pakistan
+M 7.1 - 16 km WSW of Atiquipa, Peru;71;25/09/2013 16.42;8;7;green;1;843;us;0;4446;17;mww;40;-158385;-745112;Atiquipa, Peru;South America;Peru
+M 7.7 - 113 km NW of Bela, Pakistan;77;24/09/2013 11.29;5;8;red;0;2015;us;0;7241;17;mww;15;26951;655009;Bela, Pakistan;Asia;Pakistan
+M 6.5 - 81 km SSW of Atka, Alaska;65;04/09/2013 02.32;0;6;green;1;650;us;0;735;24;mww;20;515573;-174767;Atka, Alaska;North America;United States of America
+M 6.5 - Izu Islands, Japan region;65;04/09/2013 00.18;5;3;green;0;739;us;0;3276;26;mww;402;299377;138833;Izu Islands, Japan region;Asia;Japan
+M 6.5 - 180 km NE of Lospalos, Timor Leste;65;01/09/2013 11.52;4;5;green;0;668;us;0;3097;11;mww;112;-744;128221;Lospalos, Timor Leste;Asia;Timor Leste
+M 7.0 - 101 km SW of Atka, Alaska;7;30/08/2013 16.25;5;6;green;0;758;us;0;624;53;mww;29;51537;-17523;Atka, Alaska;North America;United States of America
+M 6.5 - 29 km SE of Blenheim, New Zealand;65;16/08/2013 02.31;9;7;yellow;1;690;us;0;0;0;mww;82;-41734;174152;Blenheim, New Zealand;Oceania;New Zealand
+M 6.7 - 101 km WSW of Bahía Solano, Colombia;67;13/08/2013 15.43;4;5;green;1;715;us;0;3741;22;mww;12;57732;-781999;Bahía Solano, Colombia;South America;Colombia
+M 6.5 - 38 km ESE of Blenheim, New Zealand;65;21/07/2013 05.09;6;7;yellow;1;693;us;229;0;20;mww;17;-41704;174337;Blenheim, New Zealand;Oceania;New Zealand
+M 7.3 - South Sandwich Islands region;73;15/07/2013 14.03;0;6;green;1;820;us;398;0;43;mww;11;-60857;-2507;South Sandwich Islands region;Antarctica ;United Kingdom of Great Britain and Northern Ireland (the)
+M 6.6 - 26 km NE of Kandrian, Papua New Guinea;66;07/07/2013 20.30;4;6;green;0;674;us;139;0;14;mww;56;-6029;149706;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 7.3 - 190 km ENE of Kokopo, Papua New Guinea;73;07/07/2013 18.35;0;4;green;1;820;us;117;0;24;mww;3855;-3917;153927;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 44 km W of Masachapa, Nicaragua;65;15/06/2013 17.34;5;6;green;1;679;us;698;0;27;mww;30;11763;-86926;Masachapa, Nicaragua;North America;Nicaragua
+M 6.7 - south of Java, Indonesia;67;13/06/2013 16.47;5;4;green;0;710;us;515;0;24;mww;9;-10004;107236;Java, Indonesia;Asia;Indonesia
+M 6.7 - Sea of Okhotsk;67;24/05/2013 14.56;0;3;green;1;691;us;217;0;252;mwb;624;52235;151444;Okhotsk;Asia;Russia
+M 8.3 - Sea of Okhotsk;83;24/05/2013 05.44;5;5;green;1;1115;us;385;0;10;mww;5981;54892;153221;Okhotsk;Asia;Russia
+M 7.4 - 292 km SW of Vaini, Tonga;74;23/05/2013 17.19;0;6;green;1;842;us;626;0;16;mww;1737;-23009;-177232;Vaini, Tonga;Oceania;Tonga
+M 6.8 - Pagan region, Northern Mariana Islands;68;14/05/2013 00.32;0;3;green;0;711;us;131;0;18;mww;6022;18728;145288;Pagan region, Northern Mariana Islands;Oceania;United States of America
+M 6.5 - 33 km N of Rabaul, Papua New Guinea;65;23/04/2013 23.14;0;6;green;1;650;us;264;0;166;mww;10;-3898;152127;Rabaul, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 56 km WSW of Linqiong, China;66;20/04/2013 00.02;8;8;red;0;2083;us;548;0;126;mww;14;30308;102888;Linqiong, China;Asia;People's Republic of China
+M 7.2 - 252 km ENE of Kuril’sk, Russia;72;19/04/2013 03.05;5;7;green;1;804;us;770;0;101;mww;110;46221;150788;Kuril’sk, Russia;Asia;Russia
+M 6.6 - 23 km ESE of Aitape, Papua New Guinea;66;16/04/2013 22.55;7;7;green;1;672;us;445;0;11;mww;13;-3214;142542;Aitape, Papua New Guinea;Oceania;Papua New Guinea
+M 7.7 - 79 km ESE of Kh?sh, Iran;77;16/04/2013 10.44;8;8;yellow;0;1421;us;506;0;266;mww;80;28033;61996;Khsh, Iran;Asia;Iran
+M 6.6 - 98 km W of Panguna, Papua New Guinea;66;14/04/2013 01.32;0;5;green;1;670;us;491;0;115;mww;31;-6475;154607;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 260 km WSW of Abepura, Indonesia;7;06/04/2013 04.42;3;7;green;1;755;us;640;0;114;mww;66;-3517;138476;Abepura, Indonesia;Asia;Indonesia
+M 6.5 - 36 km E of Finschhafen, Papua New Guinea;65;10/03/2013 22.51;0;6;green;1;650;us;317;0;142;mww;28;-6598;148174;Finschhafen, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 87 km SE of Ozernovskiy, Russia;65;01/03/2013 13.20;3;6;green;0;651;us;480;0;207;mww;29;50958;157408;Ozernovskiy, Russia;Asia;Russia
+M 6.9 - 81 km SE of Ozernovskiy, Russia;69;28/02/2013 14.05;5;6;green;1;736;us;531;0;207;mww;41;50954;157283;Ozernovskiy, Russia;Asia;Russia
+M 6.6 - 183 km SW of Belaya Gora, Russia;66;14/02/2013 13.13;0;7;green;1;670;us;697;0;153;mww;11;67631;142508;Belaya Gora, Russia;Asia;Russia
+M 6.6 - 30 km SSW of Lata, Solomon Islands;66;09/02/2013 21.02;0;6;green;1;670;us;421;0;166;mww;18;-10994;165741;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.9 - 2 km NNE of Yacuanquer, Colombia;69;09/02/2013 14.16;5;5;green;1;904;us;562;0;237;mww;145;1135;-77393;Yacuanquer, Colombia;South America;Colombia
+M 7.1 - 32 km SE of Lata, Solomon Islands;71;08/02/2013 15.26;9;6;green;1;780;us;334;0;165;mww;21;-10928;166018;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - 22 km ESE of Lata, Solomon Islands;68;08/02/2013 11.12;0;7;green;1;711;us;400;0;175;mww;12;-10838;165969;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.7 - 33 km SSW of Lata, Solomon Islands;67;07/02/2013 18.59;0;6;green;1;691;us;387;0;265;mww;11;-10997;165655;Lata, Solomon Islands;Oceania;Solomon Islands
+M 7.0 - 33 km NW of Lata, Solomon Islands;7;06/02/2013 01.54;0;6;green;0;754;us;445;0;175;mww;88;-10499;165588;Lata, Solomon Islands;Oceania;Solomon Islands
+M 7.1 - 112 km WSW of Lata, Solomon Islands;71;06/02/2013 01.23;0;5;green;0;776;us;550;0;184;mww;10;-11183;164882;Lata, Solomon Islands;Oceania;Solomon Islands
+M 8.0 - 75 km W of Lata, Solomon Islands;8;06/02/2013 01.12;8;7;green;1;993;us;460;0;209;mww;24;-10799;165114;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.9 - 18 km SSW of Obihiro, Japan;69;02/02/2013 14.17;6;7;yellow;0;814;us;686;0;28;mww;107;4277;143092;Obihiro, Japan;Asia;Japan
+M 6.8 - 54 km N of Vallenar, Chile;68;30/01/2013 20.15;6;7;green;0;771;us;596;0;193;mww;45;-28094;-70653;Vallenar, Chile;South America;Chile
+M 7.5 - 110 km SW of Edna Bay, Alaska;75;05/01/2013 08.58;6;6;;0;1425;ak;0;0;0;mw;87;55228;-134859;Edna Bay, Alaska;North America;United States of America
+M 6.7 - 59 km SSW of Sola, Vanuatu;67;21/12/2012 22.28;0;4;;0;691;us;521;0;137;mww;2007;-14344;167286;Sola, Vanuatu;Oceania;Vanuatu
+M 7.1 - Banda Sea;71;10/12/2012 16.53;5;5;;0;843;us;517;0;87;mww;155;-6533;129825;Banda Sea;Asia;Indonesia
+M 7.3 - 234 km SE of ?funato, Japan;73;07/12/2012 08.18;6;5;;0;1014;us;918;0;148;mww;31;3789;143949;ofunato, Japan;Asia;Japan
+M 6.5 - 32 km SW of Champerico, Guatemala;65;11/11/2012 22.14;4;5;;0;708;us;598;0;573;mww;20;14129;-92164;Champerico, Guatemala;North America;Guatemala
+M 6.8 - 51 km NNE of Shwebo, Myanmar;68;11/11/2012 01.12;7;6;;0;795;us;391;0;137;mww;137;23005;95885;Shwebo, Myanmar;Asia;Myanmar
+M 7.4 - 33 km S of Champerico, Guatemala;74;07/11/2012 16.35;8;7;yellow;0;1455;us;751;0;255;mww;24;13988;-91895;Champerico, Guatemala;North America;Guatemala
+M 7.8 - 206 km SW of Prince Rupert, Canada;78;28/10/2012 03.04;8;7;;0;1726;us;807;0;427;mww;14;52788;-132101;Prince Rupert, Canada;North America;Canada
+M 6.5 - Costa Rica;65;24/10/2012 00.45;6;6;;0;745;us;691;0;344;mww;17;10086;-85298;Costa Rica;North America;Costa Rica
+M 6.6 - 163 km ENE of Tual, Indonesia;66;12/10/2012 00.31;3;5;;0;675;us;291;0;177;mww;13;-4892;13403;Tual, Indonesia;Asia;Indonesia
+M 7.3 - 11 km WNW of San Agustín, Colombia;73;30/09/2012 16.31;7;6;;0;1221;us;934;0;155;mww;170;1929;-76362;San Agustín, Colombia;South America;Colombia
+M 7.6 - 11 km ENE of Hojancha, Costa Rica;76;05/09/2012 14.42;8;7;;0;1555;us;703;0;343;mww;35;10085;-85315;Hojancha, Costa Rica;North America;Costa Rica
+M 7.6 - 89 km E of Sulangan, Philippines;76;31/08/2012 12.47;8;5;;0;1115;us;682;0;102;mww;28;10811;126638;Sulangan, Philippines;Asia;Philippines
+M 7.3 - 126 km S of Puerto El Triunfo, El Salvador;73;27/08/2012 04.37;5;5;;0;994;us;417;0;37;mww;28;12139;-8859;Puerto El Triunfo, El Salvador;North America;El Salvador
+M 6.6 - 140 km WNW of Tobelo, Indonesia;66;26/08/2012 15.05;4;5;;0;678;us;497;0;146;mww;911;219;126837;Tobelo, Indonesia;Asia;Indonesia
+M 7.7 - 156 km ENE of Poronaysk, Russia;77;14/08/2012 02.59;7;4;;0;941;us;862;0;138;mww;5832;498;145064;Poronaysk, Russia;Asia;Russia
+M 6.5 - 105 km ESE of Kokopo, Papua New Guinea;65;28/07/2012 20.03;5;6;;0;653;us;576;0;117;mww;41;-4651;153173;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 76 km W of Neiafu, Tonga;66;28/04/2012 10.08;4;5;;0;675;us;529;0;157;mww;1347;-18685;-174705;Neiafu, Tonga;Oceania;Tonga
+M 6.7 - 86 km SSE of Manokwari, Indonesia;67;21/04/2012 01.16;0;7;;0;691;us;370;0;154;mww;16;-1617;134276;Manokwari, Indonesia;Asia;Indonesia
+M 6.8 - 140 km N of Lae, Papua New Guinea;68;17/04/2012 07.13;6;5;;0;732;us;597;0;126;mww;198;-5462;147117;Lae, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 22 km NW of Hacienda La Calera, Chile;67;17/04/2012 03.50;0;7;;0;691;us;518;0;269;mww;29;-32625;-71365;Hacienda La Calera, Chile;South America;Chile
+M 7.0 - 69 km ENE of San Luis, Mexico;7;12/04/2012 07.15;7;7;;0;1000;us;474;0;959;mww;13;28696;-113104;San Luis, Mexico;North America;Mexico
+M 6.5 - 41 km NW of El Habillal, Mexico;65;11/04/2012 22.55;7;6;;0;1171;us;599;0;541;mwb;20;18229;-102689;El Habillal, Mexico;North America;Mexico
+M 8.2 - off the west coast of northern Sumatra;82;11/04/2012 10.43;9;6;green;0;1213;us;341;0;149;mwc;251;802;92463;off the west coast of northern Sumatra;Asia;Indonesia
+M 8.6 - off the west coast of northern Sumatra;86;11/04/2012 08.38;9;7;yellow;0;2048;official;499;0;166;mw;20;2327;93063;off the west coast of northern Sumatra;Asia;Indonesia
+M 7.1 - 23 km NE of Constitución, Chile;71;25/03/2012 22.37;7;7;;0;1496;us;553;0;152;mww;407;-352;-72217;Constitución, Chile;South America;Chile
+M 6.6 - 11 km ENE of Kainantu, Papua New Guinea;66;21/03/2012 22.15;6;6;;0;709;us;640;0;101;mww;118;-6242;145955;Kainantu, Papua New Guinea;Oceania;Papua New Guinea
+M 7.4 - 6 km E of Santiago Llano Grande, Mexico;74;20/03/2012 18.02;9;8;;0;1752;us;672;0;379;mww;20;16493;-98231;Santiago Llano Grande, Mexico;North America;Mexico
+M 6.7 - 38 km NE of Saryg-Sep, Russia;67;26/02/2012 06.17;7;7;;0;833;us;596;0;134;mww;12;51708;95991;Saryg-Sep, Russia;Asia;Russia
+M 6.7 - 2 km NNE of Jimalalud, Philippines;67;06/02/2012 03.49;9;7;;0;1551;us;572;0;111;mww;11;9999;123206;Jimalalud, Philippines;Asia;Philippines
+M 7.1 - 125 km W of Port-Vila, Vanuatu;71;02/02/2012 13.34;5;5;;0;793;us;573;0;12;mww;23;-17827;167133;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 7.2 - off the west coast of northern Sumatra;72;10/01/2012 18.36;4;4;;0;838;us;443;0;17;mww;19;2433;9321;off the west coast of northern Sumatra;Asia;Indonesia
+M 6.6 - 45 km NNE of Saryg-Sep, Russia;66;27/12/2011 15.21;0;7;;0;670;us;545;0;176;mww;15;51842;95911;Saryg-Sep, Russia;Asia;Russia
+M 7.1 - 25 km SSE of Wau, Papua New Guinea;71;14/12/2011 05.04;6;6;;0;834;us;485;0;106;mww;135;-7551;146809;Wau, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 6 km SSW of Nuevo Balsas, Mexico;65;11/12/2011 01.47;8;7;;0;1400;us;578;0;386;mww;59;17986;-99789;Nuevo Balsas, Mexico;North America;Mexico
+M 6.9 - 39 km SW of Santiago, Peru;69;28/10/2011 18.54;6;7;;0;847;us;474;0;465;mww;24;-14438;-75966;Santiago, Peru;South America;Peru
+M 7.1 - 27 km NNE of Van, Turkey;71;23/10/2011 10.41;9;9;;0;1096;us;693;0;197;mww;18;38721;43508;Van, Turkey;Asia;Turkey
+M 6.5 - 4 km ESE of Finschhafen, Papua New Guinea;65;14/10/2011 03.35;3;6;;0;655;us;423;0;126;mww;37;-657;147881;Finschhafen, Papua New Guinea;Oceania;Papua New Guinea
+M 6.9 - 43 km NW of Mangan, India;69;18/09/2011 12.40;8;8;;0;1562;us;383;0;13;mww;50;2773;88155;Mangan, India;Asia;India
+M 6.7 - 99 km NE of Miyako, Japan;67;16/09/2011 19.26;5;5;;0;712;us;667;0;109;mwc;30;40273;142779;Miyako, Japan;Asia;Japan
+M 6.7 - 68 km WSW of Kabanjahe, Indonesia;67;05/09/2011 17.55;5;6;;0;915;us;447;0;153;mww;91;2965;97893;Kabanjahe, Indonesia;Asia;Indonesia
+M 7.0 - 133 km SSE of Isangel, Vanuatu;7;03/09/2011 22.55;7;5;;0;761;us;406;0;153;mww;1851;-20671;169716;Isangel, Vanuatu;Oceania;Vanuatu
+M 7.0 - 64 km ESE of Contamana, Peru;7;24/08/2011 17.46;6;6;;0;913;us;471;0;269;mww;147;-7641;-74525;Contamana, Peru;South America;Peru
+M 7.1 - 64 km S of Port-Vila, Vanuatu;71;20/08/2011 18.19;5;6;;0;787;us;564;0;123;mww;28;-18311;168218;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 6.5 - 65 km SSW of Port-Vila, Vanuatu;65;20/08/2011 17.13;0;5;;0;650;us;322;0;15;mwc;35;-18308;168156;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 7.2 - 71 km SSW of Port-Vila, Vanuatu;72;20/08/2011 16.55;8;6;;0;813;us;280;0;184;mww;32;-18365;168143;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 6.6 - 103 km NE of Angoram, Papua New Guinea;66;31/07/2011 23.38;3;6;;0;674;us;229;0;166;mww;10;-3518;144828;Angoram, Papua New Guinea;Oceania;Papua New Guinea
+M 7.6 - Kermadec Islands region;76;06/07/2011 19.03;3;7;;0;893;us;567;0;335;mww;17;-29539;-17634;Kermadec Islands region;Oceania;New Zealand
+M 6.7 - 41 km NNE of Miyako, Japan;67;22/06/2011 21.50;6;6;;0;749;us;592;0;249;mww;33;39955;142205;Miyako, Japan;Asia;Japan
+M 6.8 - 124 km NE of Wé, New Caledonia;68;10/05/2011 08.55;4;5;;0;734;us;519;0;125;mww;11;-20244;168226;Wé, New Caledonia;Oceania;New Caledonia
+M 6.8 - 79 km W of Kirakira, Solomon Islands;68;23/04/2011 04.16;5;6;;0;719;us;445;0;13;mww;79;-10375;1612;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 17 km SSW of Ishikawa, Japan;66;11/04/2011 08.16;7;7;;0;822;us;586;0;101;mww;11;37001;140401;Ishikawa, Japan;Asia;Japan
+M 7.1 - 29 km ESE of Ishinomaki, Japan;71;07/04/2011 14.32;8;8;;0;1114;us;446;0;177;mww;42;38276;141588;Ishinomaki, Japan;Asia;Japan
+M 6.6 - 7 km SW of Helio García Alfaro, Mexico;66;07/04/2011 13.11;7;6;;0;897;us;518;0;372;mww;1662;17208;-94338;Helio García Alfaro, Mexico;North America;Mexico
+M 6.9 - 27 km NNW of Tachilek, Myanmar;69;24/03/2011 13.55;7;9;;0;1154;us;335;0;182;mww;8;20687;99822;Tachilek, Myanmar;Asia;Myanmar
+M 6.6 - 50 km ESE of ?tsuchi, Japan;66;11/03/2011 11.36;6;5;;0;673;us;668;0;95;ms;257;39241;142463;tsuchi, Japan;Asia;Japan
+M 6.5 - 81 km NE of Hasaki, Japan;65;11/03/2011 08.19;0;4;;0;650;us;369;0;187;mb;68;36166;141562;Hasaki, Japan;Asia;Japan
+M 7.7 - 272 km ESE of Kamaishi, Japan;77;11/03/2011 06.25;7;4;;0;931;us;507;0;108;mwc;186;38058;14459;Kamaishi, Japan;Asia;Japan
+M 7.9 - 47 km E of ?arai, Japan;79;11/03/2011 06.15;8;7;;0;1140;us;163;0;484;mwc;426;36281;141111;Arai, Japan;Asia;Japan
+M 9.1 - 2011 Great Tohoku Earthquake, Japan;91;11/03/2011 05.46;9;8;;0;2184;official;541;0;95;mww;29;38297;142373;2011 Great Tohoku Earthquake, Japan;Asia;Japan
+M 7.3 - 120 km SE of ?funato, Japan;73;09/03/2011 02.45;5;5;;0;972;us;550;0;174;mww;32;38435;142842;funato, Japan;Asia;Japan
+M 6.7 - 38 km W of Constitución, Chile;67;14/02/2011 03.40;5;6;;0;731;us;358;0;339;mww;21;-3538;-72834;Constitución, Chile;South America;Chile
+M 6.9 - 21 km N of Tomé, Chile;69;11/02/2011 20.05;7;7;;0;988;us;382;0;347;mww;26;-36422;-7296;Tomé, Chile;South America;Chile
+M 7.2 - 46 km WSW of Dalbandin, Pakistan;72;18/01/2011 20.23;7;7;;0;1449;us;372;0;253;mww;68;28777;63951;Dalbandin, Pakistan;Asia;Pakistan
+M 7.0 - 118 km NNE of Tadine, New Caledonia;7;13/01/2011 16.16;2;5;;0;755;us;578;0;133;mww;9;-20628;168471;Tadine, New Caledonia;Oceania;New Caledonia
+M 7.2 - 42 km NNW of Carahue, Chile;72;02/01/2011 20.20;8;7;;0;1054;us;397;0;301;mww;24;-38355;-73326;Carahue, Chile;South America;Chile
+M 7.3 - 141 km W of Isangel, Vanuatu;73;25/12/2010 13.16;0;5;;0;820;us;409;0;12;mwc;16;-19702;167947;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.7 - 111 km SE of Bam, Iran;67;20/12/2010 18.41;3;7;;0;708;us;279;0;243;mwc;12;28412;5918;Bam, Iran;Asia;Iran
+M 6.6 - 52 km ENE of Kandrian, Papua New Guinea;66;02/12/2010 03.12;0;6;;0;670;us;306;0;185;mwb;33;-6001;149977;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 7.8 - 215 km SW of Sungai Penuh, Indonesia;78;25/10/2010 14.42;4;7;;0;946;us;379;0;23;mwc;201;-3487;100082;Sungai Penuh, Indonesia;Asia;Indonesia
+M 6.7 - 97 km SSW of El Huitusi, Mexico;67;21/10/2010 17.53;5;5;;0;776;us;352;0;503;mwc;13;24696;-109156;El Huitusi, Mexico;North America;Mexico
+M 7.0 - Near the south coast of Papua, Indonesia;7;29/09/2010 17.11;8;5;;0;772;us;271;0;151;mwc;26;-4963;13376;Papua, Indonesia;Asia;Indonesia
+M 7.0 - 19 km NE of Methven, New Zealand;7;03/09/2010 16.35;8;8;;0;1245;us;365;0;158;mwc;12;-43522;17183;Methven, New Zealand;Oceania;New Zealand
+M 7.1 - Ecuador;71;12/08/2010 11.54;6;5;;0;945;us;672;0;124;mwc;2067;-1266;-77306;Ecuador;South America;Ecuador
+M 7.3 - 33 km NW of Port-Vila, Vanuatu;73;10/08/2010 05.23;7;7;;0;850;us;405;0;202;mwc;25;-17541;168069;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 7.0 - 72 km ESE of Kimbe, Papua New Guinea;7;04/08/2010 22.01;4;6;;0;757;us;396;0;127;mww;44;-5746;150765;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 118 km ESE of Madang, Papua New Guinea;65;04/08/2010 07.15;5;4;;0;659;us;403;0;111;mwc;220;-5486;146822;Madang, Papua New Guinea;Oceania;Papua New Guinea
+M 7.6 - 61 km W of Bantogon, Philippines;76;23/07/2010 22.51;5;3;;0;902;us;340;0;151;mwc;578;6497;12348;Bantogon, Philippines;Asia;Philippines
+M 7.3 - New Britain region, Papua New Guinea;73;18/07/2010 13.34;8;7;;0;831;us;397;0;182;mwc;35;-5931;15059;New Britain region, Papua New Guinea;Oceania;Papua New Guinea
+M 6.9 - 56 km SE of Kimbe, Papua New Guinea;69;18/07/2010 13.04;4;7;;0;737;us;456;0;157;mwc;28;-5966;150428;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 30 km SSE of Cañete, Chile;66;14/07/2010 08.32;6;7;;0;753;us;295;0;528;mwc;22;-38067;-7331;Cañete, Chile;South America;Chile
+M 6.7 - 55 km WSW of Kirakira, Solomon Islands;67;26/06/2010 05.30;5;6;;0;696;us;392;0;187;mwc;35;-10627;161447;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 135 km SSE of Biak, Indonesia;66;16/06/2010 03.58;0;7;;0;670;us;309;0;25;mwc;105;-2329;136484;Biak, Indonesia;Asia;Indonesia
+M 7.0 - 121 km SSE of Biak, Indonesia;7;16/06/2010 03.16;3;7;;0;755;us;307;0;181;mwc;18;-2174;136543;Biak, Indonesia;Asia;Indonesia
+M 7.5 - Nicobar Islands, India region;75;12/06/2010 19.26;6;5;;0;1144;us;514;0;186;mwc;35;7881;91936;Nicobar Islands, India region;Asia;India
+M 7.2 - 100 km WNW of Sola, Vanuatu;72;27/05/2010 17.14;5;6;;0;804;us;327;0;117;mwc;31;-13698;166643;Sola, Vanuatu;Oceania;Vanuatu
+M 7.2 - 45 km SSW of Meulaboh, Indonesia;72;09/05/2010 05.59;5;6;;0;918;us;611;0;206;mwc;38;3748;96018;Meulaboh, Indonesia;Asia;Indonesia
+M 6.9 - 233 km NNW of Qamdo, China;69;13/04/2010 23.49;6;9;;0;773;us;410;0;149;mwc;17;33165;96548;Qamdo, China;Asia;People's Republic of China
+M 6.9 - 99 km WSW of Kirakira, Solomon Islands;69;11/04/2010 09.40;4;5;;0;740;us;399;0;121;mwc;21;-10878;161116;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.8 - 75 km E of Sinabang, Indonesia;78;06/04/2010 22.15;0;7;;0;936;us;352;0;192;mwc;31;2383;97048;Sinabang, Indonesia;Asia;Indonesia
+M 7.2 - 12km SW of Delta, B.C., MX;72;04/04/2010 22.40;9;9;red;0;2910;ci;10;5137;239;mw;9987;322862;-115295;Delta, B.C., MX;North America;Mexico
+M 6.6 - 217 km N of Bamboo Flat, India;66;30/03/2010 16.54;5;6;;0;701;us;413;0;167;mwc;34;13667;92831;Bamboo Flat, India;Asia;India
+M 6.7 - 52 km NNW of Tomé, Chile;67;16/03/2010 02.21;5;6;;0;856;us;312;0;347;mwc;18;-36217;-73257;Tomé, Chile;South America;Chile
+M 6.5 - 59 km ENE of Namie, Japan;65;14/03/2010 08.08;6;5;;0;810;us;491;0;27;mwc;32;37745;14159;Namie, Japan;Asia;Japan
+M 7.0 - 52 km NW of Santa Cruz, Chile;7;11/03/2010 14.55;7;7;;0;874;us;403;0;171;mwc;18;-34326;-71799;Santa Cruz, Chile;South America;Chile
+M 6.9 - 61 km NW of Santa Cruz, Chile;69;11/03/2010 14.39;7;7;;0;1280;us;415;0;125;mwc;11;-3429;-71891;Santa Cruz, Chile;South America;Chile
+M 6.8 - 141 km W of Bengkulu, Indonesia;68;05/03/2010 16.07;4;6;;0;717;us;401;0;232;mwc;26;-3762;100991;Bengkulu, Indonesia;Asia;Indonesia
+M 6.6 - 23 km WNW of Talcahuano, Chile;66;05/03/2010 11.47;7;7;;0;736;us;255;0;278;mwb;18;-36665;-73374;Talcahuano, Chile;South America;Chile
+M 6.5 - 48 km NW of Sola, Vanuatu;65;04/03/2010 14.02;0;4;;0;650;us;426;0;187;mwb;176;-13571;167227;Sola, Vanuatu;Oceania;Vanuatu
+M 7.4 - 124 km W of Lebu, Chile;74;27/02/2010 08.01;0;5;;0;842;us;409;0;176;mwc;35;-37773;-75048;Lebu, Chile;South America;Chile
+M 8.8 - 36 km WNW of Quirihue, Chile;88;27/02/2010 06.34;8;8;;0;1991;official;454;0;178;mww;229;-36122;-72898;Quirihue, Chile;South America;Chile
+M 7.0 - 70 km SE of Katsuren-haebaru, Japan;7;26/02/2010 20.31;6;6;;0;1180;us;487;0;157;mwc;25;2593;128425;Katsuren-haebaru, Japan;Asia;Japan
+M 7.0 - 10 km SE of Léogâne, Haiti;7;12/01/2010 21.53;9;9;;0;1623;us;500;0;227;mwc;13;18443;-72571;Léogâne, Haiti;North America;Haiti
+M 6.5 - 37 km WNW of Ferndale, California;65;10/01/2010 00.27;7;7;;0;1360;nc;51;3225;220;mw;28737;40652;-124692;Ferndale, California;North America;United States
+M 6.8 - 127 km SE of Gizo, Solomon Islands;68;05/01/2010 12.15;3;6;;0;713;us;338;0;15;mwc;154;-9019;157551;Gizo, Solomon Islands;Oceania;Solomon Islands
+M 7.1 - 94 km SE of Gizo, Solomon Islands;71;03/01/2010 22.36;5;7;;0;780;us;377;0;15;mwc;10;-8783;157354;Gizo, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 98 km SE of Gizo, Solomon Islands;66;03/01/2010 21.48;5;7;;0;672;us;282;0;166;mwc;10;-8726;157487;Gizo, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 92 km N of Iquique, Chile;65;13/11/2009 03.05;6;7;;0;698;us;390;0;177;mwc;27;-19394;-70321;Iquique, Chile;South America;Chile
+M 7.3 - 77 km ENE of Ba, Fiji;73;09/11/2009 10.44;0;4;;0;820;us;430;0;15;mwc;595;-17239;178331;Ba, Fiji;Oceania;Fiji
+M 6.6 - 29 km NNW of Bima, Indonesia;66;08/11/2009 19.41;7;6;;0;677;us;305;0;204;mwc;18;-8207;118631;Bima, Indonesia;Asia;Indonesia
+M 6.8 - 98 km NNE of Naze, Japan;68;30/10/2009 07.03;0;6;;0;711;us;424;0;214;mwc;34;29218;129782;Naze, Japan;Asia;Japan
+M 6.9 - 268 km WSW of Tual, Indonesia;69;24/10/2009 14.40;4;6;;0;972;us;397;0;11;mwc;130;-6133;130385;Tual, Indonesia;Asia;Indonesia
+M 6.8 - 188 km WNW of Sola, Vanuatu;68;08/10/2009 08.28;0;5;;0;711;us;174;0;302;mwc;35;-13298;16591;Sola, Vanuatu;Oceania;Vanuatu
+M 7.4 - 143 km NW of Sola, Vanuatu;74;07/10/2009 23.13;0;7;;0;842;us;314;0;202;mwc;311;-13093;166497;Sola, Vanuatu;Oceania;Vanuatu
+M 7.8 - 196 km NW of Sola, Vanuatu;78;07/10/2009 22.18;0;6;;0;936;us;195;0;203;mwc;35;-12517;166382;Sola, Vanuatu;Oceania;Vanuatu
+M 7.7 - 148 km NW of Sola, Vanuatu;77;07/10/2009 22.03;4;7;;0;916;us;283;0;232;mww;45;-13006;16651;Sola, Vanuatu;Oceania;Vanuatu
+M 6.6 - 49 km SSE of Sungai Penuh, Indonesia;66;01/10/2009 01.52;7;7;;0;787;us;417;0;301;mwc;9;-2482;101524;Sungai Penuh, Indonesia;Asia;Indonesia
+M 7.6 - 30 km WSW of Pariaman, Indonesia;76;30/09/2009 10.16;8;8;;0;1639;us;498;0;14;mwc;81;-72;99867;Pariaman, Indonesia;Asia;Indonesia
+M 8.1 - 168 km SSW of Matavai, Samoa;81;29/09/2009 17.48;7;6;;0;1055;us;520;0;208;mwc;18;-15489;-172095;Matavai, Samoa;Oceania;Samoa
+M 7.0 - 66 km SSW of Banjar, Indonesia;7;02/09/2009 07.55;7;7;;0;1175;us;312;0;163;mwc;46;-7782;107297;Banjar, Indonesia;Asia;Indonesia
+M 6.7 - 112 km WSW of Padang, Indonesia;67;16/08/2009 07.38;5;6;;0;753;us;369;0;149;mwc;20;-1479;9949;Padang, Indonesia;Asia;Indonesia
+M 6.6 - 244 km SSE of Tateyama, Japan;66;12/08/2009 22.48;4;5;;0;703;us;336;0;141;mwc;53;32821;140395;Tateyama, Japan;Asia;Japan
+M 7.5 - 266 km N of Bamboo Flat, India;75;10/08/2009 19.55;7;6;;0;1248;us;303;0;182;mwc;24;14099;92902;Bamboo Flat, India;Asia;India
+M 7.1 - 161 km S of ?yama, Japan;71;09/08/2009 10.55;5;4;;0;1005;us;447;0;142;mwc;292;33167;137944;yama, Japan;Asia;Japan
+M 6.9 - 96 km WNW of Bahía de Kino, Mexico;69;03/08/2009 17.59;5;7;;0;1202;us;243;0;35;mwc;10;29039;-112903;Bahía de Kino, Mexico;North America;Mexico
+M 7.8 - 97 km WSW of Te Anau, New Zealand;78;15/07/2009 09.22;6;8;;0;1165;us;434;0;168;mwc;12;-45762;166562;Te Anau, New Zealand;Oceania;New Zealand
+M 6.7 - 190 km ESE of Kokopo, Papua New Guinea;67;23/06/2009 14.19;5;5;;0;693;us;269;0;138;mwc;64;-5157;153782;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.3 - 46 km NW of Guanaja, Honduras;73;28/05/2009 08.24;7;8;;0;1560;us;464;0;272;mwc;19;16731;-86217;Guanaja, Honduras;North America;Honduras
+M 7.6 - 191 km S of ‘Ohonua, Tonga;76;19/03/2009 18.17;7;5;;0;916;us;504;0;14;mwc;31;-23043;-17466;‘Ohonua, Tonga;Oceania;Tonga
+M 7.2 - 196 km SSE of Sarangani, Philippines;72;11/02/2009 17.34;3;7;;0;802;us;432;0;186;mwc;20;3886;126387;Sarangani, Philippines;Asia;Philippines
+M 7.4 - 86 km WNW of Manokwari, Indonesia;74;03/01/2009 22.33;7;7;;0;846;us;314;0;211;mwc;23;-691;133305;Manokwari, Indonesia;Asia;Indonesia
+M 6.6 - 50 km S of Jurm, Afghanistan;66;03/01/2009 20.23;5;4;;0;765;us;344;0;226;mwc;2048;36419;70743;Jurm, Afghanistan;Asia;Afghanistan
+M 7.7 - 140 km WNW of Manokwari, Indonesia;77;03/01/2009 19.43;5;7;;0;918;us;288;0;298;mwc;17;-414;132885;Manokwari, Indonesia;Asia;Indonesia
+M 7.4 - 135 km NW of Gorontalo, Indonesia;74;16/11/2008 17.02;9;7;;0;848;us;365;0;337;mww;30;1271;122091;Gorontalo, Indonesia;Asia;Indonesia
+M 6.7 - 19 km SW of Brisas Barra de Suchiate, Mexico;67;16/10/2008 19.41;5;6;;0;731;us;481;0;286;mwc;24;14423;-92364;Brisas Barra de Suchiate, Mexico;North America;Mexico
+M 6.7 - 131 km SE of Nookat, Kyrgyzstan;67;05/10/2008 15.52;0;6;;0;691;us;529;0;223;mwc;274;39533;73824;Nookat, Kyrgyzstan;Asia;Kyrgyzstan
+M 6.8 - 122 km SSE of Obihiro, Japan;68;11/09/2008 00.20;0;6;;0;711;us;500;0;222;mwc;25;41892;143754;Obihiro, Japan;Asia;Japan
+M 6.6 - 73 km WNW of Tobelo, Indonesia;66;11/09/2008 00.00;0;6;;0;670;us;463;0;141;mwc;96;1885;127363;Tobelo, Indonesia;Asia;Indonesia
+M 6.9 - 75 km WNW of Sola, Vanuatu;69;08/09/2008 18.52;0;6;;0;732;us;531;0;149;mwc;110;-13501;166967;Sola, Vanuatu;Oceania;Vanuatu
+M 6.7 - 221 km NE of Jumla, Nepal;67;25/08/2008 13.21;4;7;;0;692;us;325;0;28;mwc;12;30901;8352;Jumla, Nepal;Asia;People's Republic of China
+M 6.8 - 29 km ENE of Morioka, Japan;68;23/07/2008 15.26;8;7;;0;1046;us;633;0;202;mwc;108;39802;141464;Morioka, Japan;Asia;Japan
+M 7.0 - 107 km E of Namie, Japan;7;19/07/2008 02.39;5;5;;0;840;us;577;0;182;mwc;22;37552;142214;Namie, Japan;Asia;Japan
+M 6.9 - 151 km E of Namie, Japan;69;19/07/2008 02.39;5;5;;0;825;duputel;0;0;0;mww;255;3755;142714;Namie, Japan;Asia;Japan
+M 6.6 - 124 km SW of Bamboo Flat, India;66;27/06/2008 11.40;4;5;;0;680;us;630;0;184;mwc;17;11005;91824;Bamboo Flat, India;Asia;India
+M 6.9 - 24 km WSW of Mizusawa, Japan;69;13/06/2008 23.43;7;8;;0;888;us;654;0;171;mwc;78;3903;140881;Mizusawa, Japan;Asia;Japan
+M 7.9 - 58 km W of Tianpeng, China;79;12/05/2008 06.28;9;9;;0;1870;us;774;0;113;mwc;19;31002;103322;Tianpeng, China;Asia;People's Republic of China
+M 6.9 - 78 km NE of Hasaki, Japan;69;07/05/2008 16.45;5;5;;0;910;us;519;0;211;mwc;27;36164;141526;Hasaki, Japan;Asia;Japan
+M 7.3 - 71 km SW of Isangel, Vanuatu;73;09/04/2008 12.46;0;6;;0;820;us;486;0;134;mwc;33;-20071;168892;Isangel, Vanuatu;Oceania;Vanuatu
+M 7.2 - 226 km SE of Hotan, China;72;20/03/2008 22.32;0;7;;0;798;us;532;0;259;mwc;10;3549;81467;Hotan, China;Asia;People's Republic of China
+M 6.9 - Philippine Islands region;69;03/03/2008 14.11;4;5;;0;740;us;544;0;259;mwc;24;13351;12563;Philippine Islands region;Asia;Philippines
+M 6.7 - 155 km SSW of Padang, Indonesia;67;25/02/2008 21.02;5;6;;0;696;us;543;0;151;mwc;25;-2245;99808;Padang, Indonesia;Asia;Indonesia
+M 6.6 - 161 km SSW of Padang, Indonesia;66;25/02/2008 18.06;4;6;;0;674;us;421;0;177;mwc;25;-2332;99891;Padang, Indonesia;Asia;Indonesia
+M 7.2 - 164 km WSW of Sungai Penuh, Indonesia;72;25/02/2008 08.36;4;7;;0;832;us;505;0;184;mwc;25;-2486;99972;Sungai Penuh, Indonesia;Asia;Indonesia
+M 6.5 - 166 km WSW of Sungai Penuh, Indonesia;65;24/02/2008 14.46;4;6;;0;654;us;429;0;283;mwc;22;-2405;99931;Sungai Penuh, Indonesia;Asia;Indonesia
+M 7.4 - 56 km NW of Sinabang, Indonesia;74;20/02/2008 08.08;5;7;;0;914;us;607;0;164;mwc;26;2768;95964;Sinabang, Indonesia;Asia;Indonesia
+M 6.5 - 50 km S of Koróni, Greece;65;14/02/2008 12.08;8;5;;0;692;us;650;0;307;mwc;28;36345;21863;Koróni, Greece;Europe;Greece
+M 6.9 - 35 km S of Methóni, Greece;69;14/02/2008 10.09;6;6;;0;941;us;645;0;306;mwc;29;36501;2167;Methóni, Greece;Europe;Greece
+M 6.5 - 9 km SSW of General Pascual Fentes, Mexico;65;12/02/2008 12.50;7;6;;0;723;us;521;0;276;mwc;83;16357;-94304;General Pascual Fentes, Mexico;North America;Mexico
+M 6.6 - 46 km SSE of Gisborne, New Zealand;66;20/12/2007 07.55;7;6;;0;808;us;461;0;188;mwc;20;-39011;178291;Gisborne, New Zealand;Oceania;New Zealand
+M 6.7 - 80 km NNE of Antofagasta, Chile;67;16/12/2007 08.09;5;7;;0;704;us;481;0;303;mwb;45;-22954;-70182;Ant;South America;Chile
+M 7.4 - 18 km WNW of Basse-Pointe, Martinique;74;29/11/2007 19.00;7;7;;0;1542;us;663;0;134;mwb;156;14944;-61274;Basse-Pointe, Martinique;North America;Martinique
+M 6.6 - 60 km SSE of Kirakira, Solomon Islands;66;27/11/2007 11.49;3;6;;0;672;us;280;0;269;mwc;16;-1095;162149;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 34 km N of Dompu, Indonesia;65;25/11/2007 19.53;5;7;;0;653;us;272;0;276;mwc;18;-8224;118467;Dompu, Indonesia;Asia;Indonesia
+M 6.5 - 28 km NNW of Dompu, Indonesia;65;25/11/2007 16.02;7;7;;0;657;us;353;0;275;mwc;20;-8292;11837;Dompu, Indonesia;Asia;Indonesia
+M 6.8 - 107 km N of Lae, Papua New Guinea;68;22/11/2007 08.48;6;6;;0;722;us;341;0;159;mwc;53;-5757;147098;Lae, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 30 km E of Macas, Ecuador;68;16/11/2007 03.13;7;6;;0;790;us;649;0;27;mwc;1229;-2312;-77838;Macas, Ecuador;South America;Ecuador
+M 6.8 - 82 km NNE of Antofagasta, Chile;68;15/11/2007 15.05;6;7;;0;716;us;285;0;401;mwc;26;-22925;-70237;Ant;South America;Chile
+M 7.7 - 36 km ESE of Tocopilla, Chile;77;14/11/2007 15.40;8;7;;0;995;us;610;0;224;mwc;40;-22247;-6989;Tocopilla, Chile;South America;Chile
+M 6.8 - 138 km W of Bengkulu, Indonesia;68;24/10/2007 21.02;3;5;;0;713;us;494;0;239;mwc;21;-3899;10102;Bengkulu, Indonesia;Asia;Indonesia
+M 6.8 - 70 km N of Te Anau, New Zealand;68;15/10/2007 12.29;4;7;;0;744;us;338;0;19;mwc;18;-44796;167553;Te Anau, New Zealand;Oceania;New Zealand
+M 6.8 - 154 km ESE of Kokopo, Papua New Guinea;68;26/09/2007 12.36;4;5;;0;713;us;348;0;155;mwc;40;-499;1535;Kokopo, Papua New Guinea;Asia;Papua New Guinea
+M 6.7 - 118 km SSW of Padang, Indonesia;67;20/09/2007 08.31;3;5;;0;696;us;503;0;269;mwc;30;-1999;100141;Padang, Indonesia;Asia;Indonesia
+M 7.0 - 153 km SSW of Padang, Indonesia;7;13/09/2007 03.35;4;7;;0;768;us;537;0;231;mwc;22;-213;99627;Padang, Indonesia;Asia;Indonesia
+M 6.5 - Kepulauan Mentawai region, Indonesia;65;13/09/2007 02.30;0;5;;0;650;us;409;0;262;mwc;289;-1689;99668;Kepulauan Mentawai region, Indonesia;Asia;Indonesia
+M 7.9 - 87 km SW of Sungai Penuh, Indonesia;79;12/09/2007 23.49;8;7;;0;1133;us;446;0;291;mwc;35;-2625;100841;Sungai Penuh, Indonesia;Asia;Indonesia
+M 7.8 - 148 km WSW of Sungai Penuh, Indonesia;78;12/09/2007 23.49;7;8;;0;1152;duputel;0;0;0;mww;405;-252;100139;Sungai Penuh, Indonesia;Asia;Indonesia
+M 8.4 - 122 km SW of Bengkulu, Indonesia;84;12/09/2007 11.10;0;6;;0;1086;official;411;0;323;mww;34;-4438;101367;Bengkulu, Indonesia;Asia;Indonesia
+M 6.8 - 39 km WNW of Timbiquí, Colombia;68;10/09/2007 01.49;5;6;;0;747;us;653;0;176;mwc;15;2966;-77963;Timbiquí, Colombia;South America;Colombia
+M 7.2 - 97 km S of Lata, Solomon Islands;72;02/09/2007 01.05;0;5;;0;798;us;312;0;213;mwc;35;-1161;165762;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.5 - 31 km WSW of Malango, Solomon Islands;65;16/08/2007 08.39;5;6;;0;675;us;382;0;128;mwc;15;-9834;159465;Malango, Solomon Islands;Oceania;Solomon Islands
+M 8.0 - 41 km SW of San Vicente de Cañete, Peru;8;15/08/2007 23.40;9;8;;0;1385;us;625;0;257;mwc;39;-13386;-76603;San Vicente de Cañete, Peru;South America;Peru
+M 7.5 - 35 km NNE of Rengasdengklok, Indonesia;75;08/08/2007 17.05;0;5;;0;865;us;228;0;307;mwc;280;-5859;107419;Rengasdengklok, Indonesia;Asia;Indonesia
+M 7.2 - 56 km E of Luganville, Vanuatu;72;01/08/2007 17.08;7;7;;0;803;us;494;0;204;mwb;120;-15595;16768;Luganville, Vanuatu;Oceania;Vanuatu
+M 6.9 - 140 km NNW of Tobelo, Indonesia;69;26/07/2007 05.40;3;5;;0;734;us;374;0;241;mwb;25;2872;127464;Tobelo, Indonesia;Asia;Indonesia
+M 6.8 - 133 km WNW of Mikuni, Japan;68;16/07/2007 14.17;5;4;;0;779;us;664;0;182;mwb;3504;36808;13485;Mikuni, Japan;Asia;Japan
+M 6.6 - 20 km NNW of Kashiwazaki, Japan;66;16/07/2007 01.13;8;8;;0;831;us;782;0;167;mwc;12;37535;138446;Kashiwazaki, Japan;Asia;Japan
+M 6.7 - 43 km SSE of Iztapa, Guatemala;67;13/06/2007 19.29;6;6;;0;972;us;468;0;377;mwc;23;13554;-90618;Iztapa, Guatemala;North America;Guatemala
+M 6.9 - 113 km SSE of Panguna, Papua New Guinea;69;01/04/2007 21.11;0;7;;0;732;us;305;0;153;mwc;10;-7306;155741;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 99 km SSE of Panguna, Papua New Guinea;66;01/04/2007 20.47;0;7;;0;670;us;251;0;16;mb;10;-7169;155777;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 8.1 - 45 km SSE of Gizo, Solomon Islands;81;01/04/2007 20.39;9;8;;0;1025;us;439;0;147;mwc;24;-8466;157043;Gizo, Solomon Islands;Oceania;Solomon Islands
+M 6.7 - 46 km NW of Nanao, Japan;67;25/03/2007 00.41;7;8;;0;782;us;493;0;239;mwc;8;37336;136588;Nanao, Japan;Asia;Japan
+M 7.1 - 119 km S of Isangel, Vanuatu;71;25/03/2007 00.40;3;6;;0;779;us;426;0;253;mwb;34;-20617;169357;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.7 - 206 km SSW of Sofifi, Indonesia;67;20/02/2007 08.04;0;6;;0;691;us;253;0;403;mwc;12;-1034;126976;Ternate, Indonesia;Asia;Indonesia
+M 7.5 - 126 km WNW of Ternate, Indonesia;75;21/01/2007 11.27;6;5;;0;874;us;570;0;216;mwc;22;1065;126282;the Kuril Islands;Asia;Russia
+M 8.1 - east of the Kuril Islands;81;13/01/2007 04.23;4;5;;0;1034;us;606;0;14;mwc;10;46243;154524;Hengchun, Taiwan;Asia;Taiwan
+M 6.9 - 26 km W of Hengchun, Taiwan;69;26/12/2006 12.34;6;7;;0;798;us;466;0;316;mwc;10;21974;120493;Hengchun, Taiwan;Asia;Taiwan
+M 7.1 - 30 km SW of Hengchun, Taiwan;71;26/12/2006 12.26;8;7;;0;1023;us;744;0;291;mwb;10;21799;120547;Kuril Islands;Asia;Russia
+M 8.3 - Kuril Islands;83;15/11/2006 11.14;4;7;;0;1064;us;576;0;209;mwc;10;46592;153266;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 155 km SE of Kimbe, Papua New Guinea;66;07/11/2006 17.38;0;6;;0;670;us;352;0;186;mwc;11;-6482;151195;San Vicente de Cañete, Peru;South America;Peru
+M 6.7 - 52 km SW of San Vicente de Cañete, Peru;67;20/10/2006 10.48;5;6;;0;732;us;444;0;534;mwc;23;-13457;-76677;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 100 km ESE of Kimbe, Papua New Guinea;67;17/10/2006 01.25;5;6;;0;692;us;533;0;156;mwc;32;-5881;150982;Puako, Hawaii;North America;United States of America
+M 6.7 - 14 km SW of Puako, Hawaii;67;15/10/2006 17.07;8;9;;0;1481;hv;43;0;124;md;38182;19877;-155935;Hihifo, Tonga;Oceania;Tonga
+M 6.9 - 201 km ESE of Hihifo, Tonga;69;28/09/2006 06.22;3;3;;0;737;us;702;0;209;mwc;28;-16592;-172033;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 49 km S of Panguna, Papua New Guinea;68;01/09/2006 10.18;0;6;;0;711;us;459;0;284;mwb;38;-6759;155512;Ozernovskiy, Russia;Asia;Russia
+M 6.5 - 81 km ESE of Ozernovskiy, Russia;65;24/08/2006 21.50;0;6;;0;650;us;700;0;474;mwb;43;51148;157522;Norsup, Vanuatu;Oceania;Vanuatu
+M 6.8 - 51 km NE of Norsup, Vanuatu;68;07/08/2006 22.18;5;5;;0;713;us;551;0;262;mwb;150;-15798;167789;Singaparna, Indonesia;Asia;Indonesia
+M 7.7 - 226 km SSW of Singaparna, Indonesia;77;17/07/2006 08.19;7;5;;0;947;us;357;0;368;mwc;20;-9284;107419;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 111 km E of Kimbe, Papua New Guinea;65;28/05/2006 03.12;0;6;;0;650;us;477;0;203;mwc;34;-5724;151133;Tilichiki, Russia;Asia;Russia
+M 6.6 - 42 km NNW of Tilichiki, Russia;66;22/05/2006 11.12;0;7;;0;670;us;548;0;28;mwc;19;60772;165743;Singkil, Indonesia;Asia;Indonesia
+M 6.8 - 256 km SSW of Singkil, Indonesia;68;16/05/2006 15.28;4;5;;0;719;us;701;0;163;mwb;12;93;9705;Pangai, Tonga;Oceania;Tonga
+M 8.0 - 47 km SSE of Pangai, Tonga;8;03/05/2006 15.26;7;7;;0;1013;us;626;0;207;mwc;55;-20187;-174123;Pangai, Tonga;Oceania;Tonga
+M 8.0 - 50 km ESE of Pangai, Tonga;8;03/05/2006 15.26;8;9;;0;1026;duputel;0;0;0;mww;605;-1999;-173907;Copiapó, Chile;South America;Chile
+M 6.5 - 73 km WNW of Copiapó, Chile;65;30/04/2006 21.40;7;7;;0;653;us;282;0;463;mwc;12;-27211;-71056;Copiapó, Chile;South America;Chile
+M 6.7 - 78 km WNW of Copiapó, Chile;67;30/04/2006 19.17;6;7;;0;696;us;277;0;256;mwb;12;-27017;-71022;Tilichiki, Russia;Asia;Russia
+M 6.6 - 80 km E of Tilichiki, Russia;66;29/04/2006 16.58;0;8;;0;670;us;645;0;284;mwc;11;60491;167516;Tilichiki, Russia;Asia;Russia
+M 7.6 - 80 km NE of Tilichiki, Russia;76;20/04/2006 23.25;0;8;;0;889;us;579;0;185;mwc;22;60949;167089;Lautoka, Fiji;Oceania;Fiji
+M 6.5 - 130 km NNW of Lautoka, Fiji;65;07/04/2006 08.30;3;5;;0;654;us;247;0;255;mwc;14;-16527;176989;Ambon, Indonesia;Asia;Indonesia
+M 6.7 - 108 km W of Ambon, Indonesia;67;14/03/2006 06.57;0;7;;0;691;us;306;0;213;mwb;301;-3595;127214;Chipinge, Zimbabwe;Africa;Mozambique
+M 7.0 - 160 km SE of Chipinge, Zimbabwe;7;22/02/2006 22.19;5;9;;0;891;us;412;0;232;mwb;11;-21324;33583;Kýthira, Greece;Europe;Greece
+M 6.7 - 26 km NE of Kýthira, Greece;67;08/01/2006 11.34;7;6;;0;934;us;769;0;197;mwb;66;36311;23212;Bahía de Kino, Mexico;North America;Mexico
+M 6.6 - 75 km SSW of Bahía de Kino, Mexico;66;04/01/2006 08.32;7;6;;0;703;us;323;0;482;mwc;14;28164;-112117;Ashksham, Afghanistan;Asia;Afghanistan
+M 6.5 - 53 km SW of Ashk?sham, Afghanistan;65;12/12/2005 21.47;6;5;;0;721;us;529;0;205;mwb;2246;36357;71093;Kalemie, Democratic Republic;Africa;Democratic Republic of the Congo
+M 6.8 - 76 km ESE of Kalemie, Democratic Republic of the Congo;68;05/12/2005 12.19;5;7;;0;744;us;561;0;20;mwc;22;-6224;2983;Ishinomaki, Japan;Asia;Japan
+M 6.5 - 80 km ESE of Ishinomaki, Japan;65;02/12/2005 13.13;4;5;;0;683;us;464;0;488;mwc;29;38089;142122;Sinabang, Indonesia;Asia;Indonesia
+M 6.5 - 57 km SE of Sinabang, Indonesia;65;19/11/2005 14.10;3;6;;0;651;us;358;0;207;mwb;21;2164;96786;San Pedro de Atacama, Chile;South America;Chile
+M 6.8 - 68 km NNE of San Pedro de Atacama, Chile;68;17/11/2005 19.26;0;6;;0;711;us;509;0;301;mwb;147;-22361;-67895;Muzaffarabad, Pakistan;Asia;Pakistan
+M 7.6 - 21 km NNE of Muzaffar?b?d, Pakistan;76;08/10/2005 03.50;9;9;;0;1267;us;724;0;211;mwc;26;34539;73588;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 129 km SSW of Kokopo, Papua New Guinea;66;29/09/2005 15.50;0;6;;0;670;us;402;0;177;mwc;25;-5437;15184;Yurimaguas, Peru;South America;Peru
+M 7.5 - 39 km NW of Yurimaguas, Peru;75;26/09/2005 01.55;8;7;;0;1018;us;696;0;262;mwb;115;-5678;-76398;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.6 - 135 km E of Kokopo, Papua New Guinea;76;09/09/2005 07.26;5;7;;0;891;us;502;0;20;mwc;90;-4539;153474;Ishinomaki, Japan;Asia;Japan
+M 7.2 - 66 km ESE of Ishinomaki, Japan;72;16/08/2005 02.46;7;7;;0;1104;us;698;0;196;mwc;36;38276;142039;Nicobar Islands, India region;Asia;India
+M 7.2 - Nicobar Islands, India region;72;24/07/2005 15.42;4;5;;0;808;us;636;0;264;mwc;16;792;9219;Singkil, Indonesia;Asia;Indonesia
+M 6.7 - 94 km WSW of Singkil, Indonesia;67;05/07/2005 01.52;3;6;;0;693;us;398;0;223;mwc;21;1819;97082;San Juan del Sur, Nicaragua;North America;Nicaragua
+M 6.6 - 32 km W of San Juan del Sur, Nicaragua;66;02/07/2005 02.16;6;5;;0;719;us;446;0;211;mwc;27;11245;-86172;Big Lagoon, California;North America;USA
+M 7.2 - 153 km W of Big Lagoon, California;72;15/06/2005 02.50;5;4;;0;1318;us;420;0;314;mwc;16;41292;-125953;Iquique, Chile;South America;Chile
+M 7.8 - 102 km ENE of Iquique, Chile;78;13/06/2005 22.44;8;7;;0;1020;us;714;0;161;mwb;1156;-19987;-69197;Singkil, Indonesia;Asia;Indonesia
+M 6.9 - 89 km WSW of Singkil, Indonesia;69;19/05/2005 01.54;5;7;;0;740;us;635;0;26;mwc;30;1989;97041;Padangsidempuan, Indonesia;Asia;Indonesia
+M 6.7 - 125 km SW of Padangsidempuan, Indonesia;67;14/05/2005 05.05;6;5;;0;731;us;695;0;209;mwb;34;587;98459;Padang, Indonesia;Asia;Indonesia
+M 6.5 - 106 km SW of Padang, Indonesia;65;10/04/2005 11.14;3;6;;0;657;us;478;0;212;mwc;30;-1714;99779;Padang, Indonesia;Asia;Indonesia
+M 6.7 - 113 km SW of Padang, Indonesia;67;10/04/2005 10.29;5;6;;0;717;us;656;0;212;mwc;19;-1644;99607;Singkil, Indonesia;Asia;Indonesia
+M 8.6 - 78 km WSW of Singkil, Indonesia;86;28/03/2005 16.09;0;8;;0;1138;official;510;0;221;mww;30;2085;97108;Maebaru-ch?, Japan;Asia;Japan
+M 6.6 - 28 km NNW of Maebaru-ch??, Japan;66;20/03/2005 01.53;8;7;;0;805;us;401;0;229;mwc;10;33807;130131;Banda Sea;Asia;Indonesia
+M 7.1 - Banda Sea;71;02/03/2005 10.42;0;5;;0;776;us;569;0;181;mwb;2017;-6527;129933;Sinabang, Indonesia;Asia;Indonesia
+M 6.8 - 99 km WNW of Sinabang, Indonesia;68;26/02/2005 12.56;0;6;;0;711;us;444;0;338;mwb;36;2908;95592;Katabu, Indonesia;Asia;Indonesia
+M 6.5 - 81 km SSW of Katabu, Indonesia;65;19/02/2005 00.04;0;7;;0;650;us;371;0;318;mwb;10;-5562;122129;Pulau-Pulau Talaud, Indonesia;Asia;Indonesia
+M 6.5 - Pulau-Pulau Talaud, Indonesia;65;15/02/2005 14.42;3;5;;0;652;us;286;0;473;mwc;397;4756;126421;Sola, Vanuatu;Oceania;Vanuatu
+M 6.7 - 52 km SW of Sola, Vanuatu;67;08/02/2005 14.48;0;4;;0;691;us;457;0;302;mwb;2063;-14252;167259;Palimbang, Philippines;Asia;Philippines
+M 7.1 - 138 km SW of Palimbang, Philippines;71;05/02/2005 12.23;7;3;;0;782;us;640;0;264;mwc;525;5293;123337;Katsuura, Japan;Asia;Japan
+M 6.6 - 161 km SE of Katsuura, Japan;66;19/01/2005 06.11;6;4;;0;676;us;225;0;785;mwc;278;34064;141491;Nicobar Islands, India region;Asia;India
+M 6.6 - Nicobar Islands, India region;66;26/12/2004 09.20;0;5;;0;670;us;353;0;319;mwc;161;8879;92375;Sabang, Indonesia;Asia;Indonesia
+M 7.2 - 284 km WNW of Sabang, Indonesia;72;26/12/2004 04.21;5;6;;0;802;us;385;0;279;mwc;392;691;92958;2004 Sumatra - Andaman Islands Earthquake;Asia;Indonesia
+M 9.1 - 2004 Sumatra - Andaman Islands Earthquake;91;26/12/2004 00.58;0;8;;0;1274;official;601;0;22;mw;30;3295;95982;Macquarie Island;Oceania;Australia
+M 8.1 - north of Macquarie Island;81;23/12/2004 14.59;0;5;;0;1009;us;331;0;593;mwc;10;-49312;161345;George Town, Cayman Islands;North America;Cayman Islands
+M 6.8 - 36 km S of George Town, Cayman Islands;68;14/12/2004 23.20;5;6;;0;858;us;639;0;218;mwb;10;18958;-81409;Nemuro, Japan;Asia;Japan
+M 6.8 - 54 km SSW of Nemuro, Japan;68;06/12/2004 14.15;4;7;;0;724;us;759;0;236;mwb;35;429;145228;Nemuro, Japan;Asia;Japan
+M 7.0 - 51 km SW of Nemuro, Japan;7;28/11/2004 18.32;4;7;;0;771;us;929;0;239;mwb;39;43006;145119;Nabire, Indonesia;Asia;Indonesia
+M 7.1 - 29 km SSW of Nabire, Indonesia;71;26/11/2004 02.25;0;7;;0;776;us;439;0;288;mwc;10;-3609;135404;Riverton, New Zealand;Oceania;New Zealand
+M 7.1 - 255 km W of Riverton, New Zealand;71;22/11/2004 20.26;5;5;;0;782;us;585;0;147;mwc;10;-46676;164721;Pizarro, Colombia;South America;Colombia
+M 7.2 - 32 km SSW of Pizarro, Colombia;72;15/11/2004 09.06;8;8;;0;820;us;708;0;502;mwb;15;4695;-77508;Maubara, Timor Leste;Asia;Indonesia
+M 7.5 - 63 km NW of Maubara, Timor Leste;75;11/11/2004 21.26;5;7;;0;870;us;301;0;338;mwc;10;-8152;124868;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.7 - 80 km SSE of Kirakira, Solomon Islands;67;11/11/2004 17.34;0;6;;0;691;us;233;0;215;mwb;10;-11128;162208;Port McNeill, Canada;North America;Canada
+M 6.7 - 189 km SW of Port McNeill, Canada;67;02/11/2004 10.02;7;4;;0;703;us;459;0;373;mwb;10;49277;-128772;Ojiya, Japan;Asia;Japan
+M 6.6 - 8 km SSW of Ojiya, Japan;66;23/10/2004 08.56;0;8;;0;670;us;782;0;37;mwc;16;37226;138779;Yonakuni, Japan;Asia;Japan
+M 6.7 - 31 km WNW of Yonakuni, Japan;67;15/10/2004 04.08;5;6;;0;705;us;698;0;247;mwb;94;2453;122694;Masachapa, Nicaragua;North America;Nicaragua
+M 7.0 - 43 km SSW of Masachapa, Nicaragua;7;09/10/2004 21.26;0;6;;0;754;us;441;0;322;mwc;35;11422;-86665;Talisay, Philippines;Asia;Philippines
+M 6.5 - 9 km W of Talisay, Philippines;65;08/10/2004 14.36;5;5;;0;665;us;526;0;183;mwb;105;13925;120534;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - 60 km SSE of Kirakira, Solomon Islands;68;08/10/2004 08.27;0;6;;0;711;us;545;0;157;mwb;36;-10951;162161;Shing, Japan;Asia;Japan
+M 6.6 - 129 km ESE of Shing?, Japan;66;06/09/2004 23.29;0;4;;0;670;us;478;0;298;mwc;10;33205;137227;Shing, Japan;Asia;Japan
+M 7.4 - 118 km ESE of Shing?, Japan;74;05/09/2004 14.57;0;5;;0;842;us;594;0;275;mwb;10;33184;137071;Shing, Japan;Asia;Japan
+M 7.2 - 94 km SE of Shing?, Japan;72;05/09/2004 10.07;0;5;;0;798;us;643;0;284;mwc;14;3307;136618;Teno, Chile;South America;Chile
+M 6.5 - 67 km ESE of Teno, Chile;65;28/08/2004 13.41;0;7;;0;650;us;349;0;301;mwb;5;-35173;-70525;Manokwari, Indonesia;Asia;Indonesia
+M 6.5 - 117 km WNW of Manokwari, Indonesia;65;28/07/2004 03.56;0;7;;0;650;us;305;0;39;mwc;134;-443;133091;Atlasovo, Russia;Asia;Russia
+M 6.9 - 24 km ENE of Atlasovo, Russia;69;10/06/2004 15.19;0;5;;0;732;us;798;0;312;mwb;1886;55682;160003;Cañete, Chile;South America;Chile
+M 6.6 - 11 km N of Cañete, Chile;66;03/05/2004 04.36;0;7;;0;670;us;282;0;469;mwb;21;-37695;-73406;Naisano Dua, Indonesia;Asia;Indonesia
+M 6.7 - 105 km WNW of Naisano Dua, Indonesia;67;23/04/2004 01.50;0;5;;0;691;us;386;0;276;mwb;658;-9362;122839;Sola, Vanuatu;Oceania;Vanuatu
+M 6.5 - 86 km NNW of Sola, Vanuatu;65;09/04/2004 15.23;0;4;;0;650;us;424;0;299;mwb;2284;-13174;167198;Afghanistan-Tajikistan-Pakistan region;Asia;Afghanistan
+M 6.6 - Afghanistan-Tajikistan-Pakistan region;66;05/04/2004 21.24;0;4;;0;670;us;728;0;183;mwb;1871;36512;71029;Nabire, Indonesia;Asia;Indonesia
+M 6.7 - 38 km SSW of Nabire, Indonesia;67;08/02/2004 08.58;0;7;;0;691;us;256;0;333;mwc;257;-3665;135339;Papua, Indonesia;Asia;Indonesia
+M 7.3 - Near the south coast of Papua, Indonesia;73;07/02/2004 02.42;0;7;;0;820;us;390;0;23;mwb;10;-4003;135023;Nabire, Indonesia;Asia;Indonesia
+M 7.0 - 28 km S of Nabire, Indonesia;7;05/02/2004 21.05;0;7;;0;754;us;367;0;33;mwc;166;-3615;135538;Ambon, Indonesia;Asia;Indonesia
+M 6.7 - 107 km NW of Ambon, Indonesia;67;28/01/2004 22.15;0;6;;0;691;us;243;0;425;mwb;174;-312;1274;Tadine, New Caledonia;Oceania;New Caledonia
+M 7.3 - 201 km ESE of Tadine, New Caledonia;73;27/12/2003 16.00;0;4;;0;820;us;235;0;466;mwc;10;-22015;169766;Bam, Iran;Asia;Iran
+M 6.6 - 13 km SSW of Bam, Iran;66;26/12/2003 01.56;0;9;;0;670;us;552;0;448;mwc;10;28995;58311;Progreso, Panama;North America;Panama
+M 6.5 - 3 km SSE of Progreso, Panama;65;25/12/2003 07.11;0;6;;0;650;us;405;0;484;mwb;33;8416;-82824;San Simeon, California;North America;United States of America
+M 6.5 - 10 km NE of San Simeon, California;65;22/12/2003 19.15;7;9;;0;1390;nc;65;4685;71;mw;8382;357005;-121101;Yujing, Taiwan;Asia;Taiwan
+M 6.8 - 92 km E of Yujing, Taiwan;68;10/12/2003 04.38;0;7;;0;711;us;447;0;277;mwb;10;23039;121362;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 82 km E of Kimbe, Papua New Guinea;66;25/11/2003 20.19;0;6;;0;670;us;384;0;251;mwb;35;-5581;15088;Can-Avid, Philippines;Asia;Philippines
+M 6.5 - 4 km NW of Can-Avid, Philippines;65;18/11/2003 17.14;0;6;;0;650;us;487;0;459;mwb;35;12025;125416;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.6 - 51 km NW of Isangel, Vanuatu;66;06/11/2003 10.38;0;5;;0;670;us;475;0;262;mwb;1137;-19262;168892;Ishinomaki, Japan;Asia;Japan
+M 7.0 - 133 km ESE of Ishinomaki, Japan;7;31/10/2003 01.06;0;5;;0;754;us;568;0;612;mwb;10;37812;142619;Kushiro, Japan;Asia;Japan
+M 6.7 - 39 km SSE of Kushiro, Japan;67;08/10/2003 09.06;0;6;;0;691;us;556;0;554;mwc;32;42648;14457;Aktash, Russia;Asia;Russia
+M 6.7 - 9 km S of Aktash, Russia;67;01/10/2003 01.03;0;7;;0;691;us;643;0;245;mwb;10;50211;87721;Kushiro, Japan;Asia;Japan
+M 6.5 - 58 km S of Kushiro, Japan;65;29/09/2003 02.36;0;5;;0;650;us;586;0;713;mwc;25;4245;14438;Aktash, Russia;Asia;Russia
+M 7.3 - 29 km S of Aktash, Russia;73;27/09/2003 11.33;0;7;;0;820;us;667;0;245;mwb;16;50038;87813;Shizunai-furukawach, Japan;Asia;Japan
+M 7.4 - 119 km ESE of Shizunai-furukawach?, Japan;74;25/09/2003 21.08;0;7;;0;842;us;514;0;788;mwc;33;41774;143593;Kushiro, Japan;Asia;Japan
+M 8.2 - 134 km SSW of Kushiro, Japan;816;25/09/2003 19.50;0;9;;0;1024;official;0;0;0;mww;27;41815;14391;Taungdwingyi, Myanmar;Asia;Myanmar
+M 6.6 - 16 km SE of Taungdwingyi, Myanmar;66;21/09/2003 18.16;0;7;;0;670;us;518;0;247;mwb;10;19917;95672;Te Anau, New Zealand;Oceania;New Zealand
+M 7.2 - 56 km NW of Te Anau, New Zealand;72;21/08/2003 12.12;0;7;;0;798;us;428;0;175;mwc;28;-45104;167144;Scotia Sea;Antarctica;United Kingdom of Great Britain and Northern Ireland (the)
+M 7.6 - Scotia Sea;76;04/08/2003 04.37;0;6;;0;889;us;315;0;252;mwc;10;-60532;-43411;Rabaul, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 41 km N of Rabaul, Papua New Guinea;65;15/07/2003 18.46;0;6;;0;650;us;156;0;314;mwb;33;-3828;152174;Ovalle, Chile;South America;Chile
+M 6.8 - 42 km W of Ovalle, Chile;68;20/06/2003 13.30;0;7;;0;711;us;398;0;391;mwc;33;-30608;-71637;Atlasovo, Russia;Asia;Russia
+M 6.9 - 25 km ESE of Atlasovo, Russia;69;16/06/2003 22.08;0;5;;0;732;us;733;0;267;mwb;1748;55492;159999;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 87 km SSE of Kokopo, Papua New Guinea;66;07/06/2003 00.32;0;6;;0;670;us;419;0;278;mwc;33;-5095;152502;Tobelo, Indonesia;Asia;Indonesia
+M 7.0 - 116 km NE of Tobelo, Indonesia;7;26/05/2003 19.23;0;6;;0;754;us;473;0;303;mwc;31;2354;128855;funato, Japan;Asia;Japan
+M 7.0 - 27 km SSW of ?funato, Japan;7;26/05/2003 09.24;0;7;;0;754;us;690;0;191;mwb;68;38849;141568;Dellys, Algeria;Africa;Algeria
+M 6.8 - 25 km WNW of Dellys, Algeria;68;21/05/2003 18.44;0;9;;0;711;us;534;0;194;mwc;12;36964;3634;Ruteng, Indonesia;Asia;Indonesia
+M 6.5 - 46 km NE of Ruteng, Indonesia;65;25/03/2003 02.53;0;7;;0;650;us;247;0;287;mwc;33;-8294;120743;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 114 km ESE of Kokopo, Papua New Guinea;68;11/03/2003 07.27;0;7;;0;711;us;431;0;384;mwc;402;-4694;153238;Cuyutlán, Mexico;North America;Mexico
+M 7.6 - 16 km SSW of Cuyutlán, Mexico;76;22/01/2003 02.06;0;7;;0;889;us;551;0;0;mwb;24;1877;-104104;Puerto San José, Guatemala;North America;Guatemala
+M 6.5 - 33 km S of Puerto San José, Guatemala;65;21/01/2003 02.46;0;6;;0;650;us;316;0;0;mwc;24;13626;-90774;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 7.3 - 126 km W of Kirakira, Solomon Islands;73;20/01/2003 08.43;0;6;;0;820;us;457;0;0;mwc;33;-10491;16077;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 191 km SE of Kokopo, Papua New Guinea;67;10/01/2003 13.11;0;5;;0;691;us;323;0;0;mwb;719;-5311;153701;New Ireland region, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - New Ireland region, Papua New Guinea;67;12/12/2002 08.30;0;6;;0;691;us;453;0;0;mwb;34;-4786;153275;Cantwell, Alaska;North America;United States of America
+M 7.9 - 75 km E of Cantwell, Alaska;79;03/11/2002 22.12;8;9;;0;1750;ak;0;0;0;mw;42;635141;-147453;Sinabang, Indonesia;Asia;Indonesia
+M 7.4 - 50 km NW of Sinabang, Indonesia;74;02/11/2002 01.26;0;7;;0;842;us;418;0;0;mwb;30;2824;96085;Cantwell, Alaska;North America;United States of America
+M 6.6 - 53 km ENE of Cantwell, Alaska;66;23/10/2002 11.27;0;7;;0;670;ak;0;0;0;mw;42;635144;-147912;Manokwari, Indonesia;Asia;Indonesia
+M 6.7 - 72 km S of Manokwari, Indonesia;67;10/10/2002 12.28;0;7;;0;691;us;250;0;0;ms;10;-1511;133973;Manokwari, Indonesia;Asia;Indonesia
+M 7.6 - 102 km SSE of Manokwari, Indonesia;76;10/10/2002 10.50;0;7;;0;889;us;375;0;0;mwc;10;-1757;134297;Bamboo Flat, India;Asia;India
+M 6.5 - 152 km NNE of Bamboo Flat, India;65;13/09/2002 22.28;0;6;;0;650;us;646;0;0;mwc;21;13036;93068;Aitape, Papua New Guinea;Oceania;Papua New Guinea
+M 7.6 - 68 km ESE of Aitape, Papua New Guinea;76;08/09/2002 18.44;0;7;;0;889;us;428;0;0;mwc;13;-3302;142945;San Jose Village, Northern Mariana Islands;Oceania;Northern Mariana Islands
+M 6.5 - 114 km SSE of San Jose Village, Northern Mariana Islands;65;14/08/2002 13.57;0;4;;0;650;us;260;0;0;mwc;30;14101;146199;Punta de Burica, Panama;North America;Panama
+M 6.5 - 14 km SE of Punta de Burica, Panama;65;31/07/2002 00.16;0;7;;0;650;us;533;0;0;mwc;10;7929;-82793;Abhar, Iran;Asia;Iran
+M 6.5 - 59 km SSW of Abhar, Iran;65;22/06/2002 02.58;0;8;;0;650;us;555;0;0;mwc;10;35626;49047;Monte Patria, Chile;South America;Chile
+M 6.6 - 20 km SW of Monte Patria, Chile;66;18/06/2002 13.56;0;7;;0;670;us;420;0;0;mwb;54;-30805;-71124;Sola, Vanuatu;Oceania;Vanuatu
+M 6.7 - 190 km NW of Sola, Vanuatu;67;17/06/2002 21.26;0;5;;0;691;us;272;0;0;mwc;33;-12592;166383;Merizo Village, Guam;Oceania;United States of America
+M 7.1 - 20 km SSW of Merizo Village, Guam;71;26/04/2002 16.06;0;7;;0;776;us;257;0;0;mwc;857;13088;144619;Copiapó, Chile;South America;Chile
+M 6.7 - 31 km SW of Copiapó, Chile;67;18/04/2002 16.08;0;7;;0;691;us;462;0;0;mwb;62;-27535;-70586;Nuxco, Mexico;North America;Mexico
+M 6.8 - 27 km SSW of Nuxco, Mexico;68;18/04/2002 05.02;0;6;;0;711;us;292;0;0;mwc;249;16985;-100865;Hualien City, Taiwan;Asia;Taiwan
+M 7.1 - 67 km ENE of Hualien City, Taiwan;71;31/03/2002 06.52;0;6;;0;776;us;550;0;0;mwc;328;24279;122179;Calama, Chile;South America;Chile
+M 6.5 - 107 km NE of Calama, Chile;65;28/03/2002 04.56;0;5;;0;650;us;486;0;0;mwc;1251;-21663;-68329;Mindanao, Philippines;Asia;Philippines
+M 7.5 - Mindanao, Philippines;75;05/03/2002 21.16;0;7;;0;865;us;321;0;0;mwc;31;6033;124249;Jurm, Afghanistan;Asia;Afghanistan
+M 7.4 - 51 km SW of Jurm, Afghanistan;74;03/03/2002 12.08;0;5;;0;842;us;138;0;0;mwc;2256;36502;70482;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 125 km E of Kimbe, Papua New Guinea;66;05/02/2002 13.27;0;6;;0;670;us;444;0;0;mwc;39;-5345;151248;Sultanda??, Turkey;Asia;Turkey
+M 6.5 - 5 km NE of Sultanda??, Turkey;65;03/02/2002 07.11;0;7;;0;650;us;482;0;0;mwc;5;38573;31271;Aitape, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 11 km SE of Aitape, Papua New Guinea;67;10/01/2002 11.14;0;8;;0;691;us;333;0;0;mwc;11;-3212;142427;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 6.6 - 33 km WNW of Port-Vila, Vanuatu;66;03/01/2002 10.17;0;6;;0;670;us;386;0;0;mwc;10;-17664;168004;Port-Vila, Vanuatu;Oceania;Vanuatu
+M 7.2 - 50 km WNW of Port-Vila, Vanuatu;72;02/01/2002 17.22;0;6;;0;798;us;427;0;0;mwc;21;-176;167856;Malango, Solomon Islands;Oceania;Solomon Islands
+M 6.8 - 22 km WNW of Malango, Solomon Islands;68;23/12/2001 22.52;0;7;;0;711;us;385;0;0;mwc;16;-9613;15953;Yonakuni, Japan;Asia;Japan
+M 6.8 - 62 km SSW of Yonakuni, Japan;68;18/12/2001 04.02;0;5;;0;711;us;499;0;0;mwc;14;23954;122734;Hanamaki, Japan;Asia;Japan
+M 6.5 - 3 km NW of Hanamaki, Japan;65;02/12/2001 13.01;0;5;;0;650;us;605;0;0;mwc;1238;39402;141089;Southern Qinghai, China;Asia;People's Republic of China
+M 7.8 - Southern Qinghai, China;78;14/11/2001 09.26;0;9;;0;936;us;368;0;0;mwc;10;35946;90541;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 40 km S of Kimbe, Papua New Guinea;7;31/10/2001 09.10;0;7;;0;754;us;254;0;0;mwc;33;-5912;150196;Kendari, Indonesia;Asia;Indonesia
+M 7.5 - 155 km E of Kendari, Indonesia;75;19/10/2001 03.28;0;6;;0;865;us;234;0;0;mwc;33;-4102;123907;Inarajan Village, Guam;Oceania;Guam
+M 7.0 - 69 km SSE of Inarajan Village, Guam;7;12/10/2001 15.02;0;6;;0;754;us;482;0;0;mwc;37;12686;14498;Manokwari, Indonesia;Asia;Indonesia
+M 6.5 - 108 km WNW of Manokwari, Indonesia;65;11/09/2001 14.56;0;6;;0;650;us;174;0;0;mwc;33;-578;13313;Kokhanok, Alaska;North America;United States of America
+M 6.6 - 74 km S of Kokhanok, Alaska;66;28/07/2001 07.32;6;6;;0;754;ak;0;0;0;mw;1318;58775;-154701;Skýros, Greece;Europe;Greece
+M 6.5 - 32 km WNW of Skýros, Greece;65;26/07/2001 00.21;0;8;;0;650;us;483;0;0;mwc;10;39059;24244;Punta de Bombón, Peru;South America;Peru
+M 7.6 - 51 km SW of Punta de Bombón, Peru;76;07/07/2001 09.38;0;7;;0;889;us;398;0;0;mwc;33;-17543;-72077;Achanizo, Peru;South America;Peru
+M 6.6 - 31 km S of Achanizo, Peru;66;05/07/2001 13.53;0;7;;0;670;us;324;0;0;mwc;62;-16086;-73987;Pacocha, Peru;South America;Peru
+M 6.7 - 34 km WSW of Pacocha, Peru;67;26/06/2001 04.18;0;6;;0;691;us;422;0;0;mwc;24;-17745;-71649;Atico, Peru;South America;Peru
+M 8.4 - 6 km SSW of Atico, Peru;84;23/06/2001 20.33;0;8;;0;1086;official;518;0;0;mww;33;-16265;-73641;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 128 km SSE of Panguna, Papua New Guinea;67;19/04/2001 21.43;0;6;;0;691;us;282;0;0;mwc;17;-741;155865;Kure, Japan;Asia;Japan
+M 6.8 - 16 km SSW of Kure, Japan;68;24/03/2001 06.27;0;7;;0;711;us;596;0;0;mwc;50;34083;132526;Ambon, Indonesia;Asia;Indonesia
+M 6.5 - 41 km SSW of Ambon, Indonesia;65;19/03/2001 05.52;0;6;;0;650;us;206;0;0;mwc;33;-4029;12802;Longbranch, Washington;North America;United States of America
+M 6.8 - 7 km SSE of Longbranch, Washington;68;28/02/2001 18.54;7;7;;0;1441;uw;67;0;31;md;51798;47149;-122727;Ternate, Indonesia;Asia;Indonesia
+M 7.1 - 137 km WNW of Ternate, Indonesia;71;24/02/2001 07.23;0;7;;0;776;us;426;0;0;mwc;35;1271;126249;Bengkulu, Indonesia;Asia;Indonesia
+M 7.4 - 102 km SSE of Bengkulu, Indonesia;74;13/02/2001 19.28;0;6;;0;842;us;221;0;0;mwc;36;-468;102562;Cojutepeque, El Salvador;North America;El Salvador
+M 6.6 - 5 km S of Cojutepeque, El Salvador;66;13/02/2001 14.22;0;8;;0;670;us;273;0;0;mwc;10;13671;-88938;Bhachau, India;Asia;India
+M 7.7 - 17 km NW of Bhach?u, India;77;26/01/2001 03.16;0;9;;0;912;us;472;0;0;mwc;16;23419;70232;Bengkulu, Indonesia;Asia;Indonesia
+M 6.9 - 59 km WSW of Bengkulu, Indonesia;69;16/01/2001 13.25;0;6;;0;732;us;117;0;0;mwb;28;-4022;101776;Puerto El Triunfo, El Salvador;North America;El Salvador
+M 7.7 - 28 km SSW of Puerto El Triunfo, El Salvador;77;13/01/2001 17.33;0;8;;0;912;us;427;0;0;mwc;60;13049;-8866;Old Harbor, Alaska;North America;United States
+M 6.9 - 47 km S of Old Harbor, Alaska;69;10/01/2001 16.02;5;7;;0;745;ak;0;0;0;mw;364;567744;-153281;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 7.1 - 16 km NE of Port-Olry, Vanuatu;71;09/01/2001 16.49;0;7;;0;776;us;372;0;0;mwb;103;-14928;16717;Mindanao, Philippines;Asia;Philippines
+M 6.8 - Mindanao, Philippines;68;01/01/2001 08.54;0;5;;0;711;us;64;0;0;mwc;33;6631;126899;Lukatan, Philippines;Asia;Philippines
+M 7.5 - 21 km SE of Lukatan, Philippines;75;01/01/2001 06.57;0;7;;0;865;us;324;0;0;mwc;33;6898;126579;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 52 km ENE of Kokopo, Papua New Guinea;65;06/12/2000 22.57;0;7;;0;650;us;401;0;0;mwc;31;-4218;152725;Balkanabat, Turkmenistan;Asia;Turkmenistan
+M 7.0 - 37 km E of Balkanabat, Turkmenistan;7;06/12/2000 17.11;0;7;;0;754;us;495;0;0;mwc;30;39566;54799;Badamdar, Azerbaijan;Asia;Azerbaijan
+M 6.5 - 23 km SSE of Badamdar, Azerbaijan;65;25/11/2000 18.10;0;6;;0;650;us;268;0;0;mwc;33;40167;49954;Baku, Azerbaijan;Asia;Azerbaijan
+M 6.8 - 15 km SSE of Baku, Azerbaijan;68;25/11/2000 18.09;0;6;;0;711;us;446;0;0;mwc;504;40245;49946;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 112 km SSW of Kokopo, Papua New Guinea;68;18/11/2000 06.54;0;6;;0;711;us;402;0;0;mwb;33;-5228;151771;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 131 km SE of Kokopo, Papua New Guinea;66;18/11/2000 02.05;0;6;;0;670;us;267;0;0;mwc;33;-5097;153181;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.8 - 138 km SSW of Kokopo, Papua New Guinea;78;17/11/2000 21.01;0;7;;0;936;us;346;0;0;mwc;33;-5496;151781;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 118 km ESE of Kokopo, Papua New Guinea;65;16/11/2000 07.45;0;6;;0;650;us;71;0;0;mb;33;-4827;153226;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.8 - 135 km SE of Kokopo, Papua New Guinea;78;16/11/2000 07.42;0;7;;0;936;us;294;0;0;mwc;30;-5233;153102;Rabaul, Papua New Guinea;Oceania;Papua New Guinea
+M 8.0 - 24 km N of Rabaul, Papua New Guinea;8;16/11/2000 04.54;0;7;;0;985;us;254;0;0;mwc;33;-398;152169;Juradó, Colombia;South America;Colombia
+M 6.5 - 10 km SW of Juradó, Colombia;65;08/11/2000 06.59;0;7;;0;650;us;462;0;0;mwc;17;7042;-77829;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 191 km ESE of Kokopo, Papua New Guinea;7;29/10/2000 08.37;0;7;;0;754;us;60;0;0;mwc;50;-4766;153945;Labuan, Indonesia;Asia;Indonesia
+M 6.8 - 29 km SW of Labuan, Indonesia;68;25/10/2000 09.32;0;6;;0;711;us;415;0;0;mwc;38;-6549;10563;Matsue, Japan;Asia;Japan
+M 6.7 - 8 km ESE of Matsue, Japan;67;06/10/2000 04.30;0;8;;0;691;us;390;0;0;mwc;10;35456;133134;Luganville, Vanuatu;Oceania;Vanuatu
+M 7.0 - 29 km WNW of Luganville, Vanuatu;7;04/10/2000 16.58;0;7;;0;754;us;357;0;0;mwc;23;-15421;16691;Nkove, Tanzania;Africa;Tanzania
+M 6.5 - 15 km W of Nkove, Tanzania;65;02/10/2000 02.25;0;6;;0;650;us;415;0;0;mwb;34;-7977;30709;Ambon, Indonesia;Asia;Indonesia
+M 6.8 - 98 km WSW of Ambon, Indonesia;68;28/08/2000 15.05;0;6;;0;711;us;336;0;0;mwc;16;-411;127394;El Habillal, Mexico;North America;Mexico
+M 6.5 - 24 km NNW of El Habillal, Mexico;65;09/08/2000 11.41;0;6;;0;650;us;481;0;0;mwc;458;18198;-10248;Uglegorsk, Russia;Asia;Russia
+M 6.8 - 35 km SSE of Uglegorsk, Russia;68;04/08/2000 21.13;0;7;;0;711;us;593;0;0;mwc;10;48786;142246;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 161 km SSE of Lata, Solomon Islands;66;03/08/2000 01.09;0;6;;0;670;us;218;0;0;mwc;33;-12037;166448;Shimoda, Japan;Asia;Japan
+M 6.5 - 94 km SSE of Shimoda, Japan;65;30/07/2000 12.25;0;7;;0;650;us;428;0;0;mwc;10;33901;139376;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 227 km SE of Kandrian, Papua New Guinea;66;16/07/2000 03.57;0;5;;0;670;us;367;0;0;mwc;10;-7747;150917;Larsen Bay, Alaska;North America;United States of America
+M 6.5 - 24 km SSW of Larsen Bay, Alaska;65;11/07/2000 01.32;0;6;;0;650;ak;0;0;0;mw;429;573546;-154198;Selfoss, Iceland;Europe;Iceland
+M 6.5 - 12 km ENE of Selfoss, Iceland;65;21/06/2000 00.51;0;9;;0;650;us;351;0;0;mwc;10;6398;-20758;Selfoss, Iceland;Europe;Iceland
+M 7.9 - South Indian Ocean;79;18/06/2000 14.44;0;5;;0;960;us;405;0;0;mwc;10;-13802;97453;Bengkulu, Indonesia;Asia;Indonesia
+M 6.5 - 25 km E of Selfoss, Iceland;65;17/06/2000 15.40;0;8;;0;650;us;406;0;0;mwc;10;63966;-20487;Bengkulu, Indonesia;Asia;Indonesia
+M 6.7 - 98 km SSW of Bengkulu, Indonesia;67;07/06/2000 23.45;0;5;;0;691;us;352;0;0;mwc;33;-4612;101905;Bengkulu, Indonesia;Asia;Indonesia
+M 6.7 - 95 km S of Bengkulu, Indonesia;67;04/06/2000 16.39;0;5;;0;691;us;147;0;0;mb;33;-4646;102102;San Antonio de los Cobres, Argentina;South America;Argentina
+M 7.9 - 103 km S of Bengkulu, Indonesia;79;04/06/2000 16.28;0;8;;0;960;us;379;0;0;mwc;33;-4721;102087;Luwuk, Indonesia;Asia;Indonesia
+M 7.2 - 75 km N of San Antonio de los Cobres, Argentina;72;12/05/2000 18.43;0;5;;0;798;us;0;0;0;mwc;225;-23548;-66452;Ialibu, Papua New Guinea;Oceania;Papua New Guinea
+M 7.6 - 89 km E of Luwuk, Indonesia;76;04/05/2000 04.21;0;7;;0;889;us;0;0;0;mwc;26;-1105;123573;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 62 km SSW of Ialibu, Papua New Guinea;66;03/03/2000 22.22;0;8;;0;670;us;0;0;0;mwc;10;-6817;143807;Shikotan, Russia;Asia;Russia
+M 6.6 - 87 km ESE of Kimbe, Papua New Guinea;66;06/02/2000 11.33;0;6;;0;670;us;0;0;0;mwc;33;-5844;150876;Hihifo, Tonga;Oceania;Tonga
+M 6.8 - 84 km S of Shikotan, Russia;68;28/01/2000 14.21;0;6;;0;711;us;0;0;0;mwc;611;43046;146837;Lata, Solomon Islands;Oceania;Solomon Islands
+M 7.2 - 117 km SSW of Hihifo, Tonga;72;08/01/2000 16.47;0;6;;0;798;us;0;0;0;mwc;1834;-16925;-174248;Labuan, Indonesia;Asia;Indonesia
+M 6.9 - 50 km WSW of Lata, Solomon Islands;69;29/12/1999 13.29;0;6;;0;732;us;0;0;0;mwb;33;-1086;165354;Bolitoc, Philippines;Asia;Philippines
+M 6.5 - 59 km SSW of Labuan, Indonesia;65;21/12/1999 14.14;0;6;;0;650;us;0;0;0;mwb;56;-6845;105555;Karluk, Alaska;North America;United States of America
+M 7.3 - 14 km WNW of Bolitoc, Philippines;73;11/12/1999 18.03;0;7;;0;820;us;0;0;0;mwc;33;15766;11974;Arica, Chile;South America;Chile
+M 7.0 - 26 km SSE of Karluk, Alaska;7;06/12/1999 23.12;0;7;;0;754;ak;0;0;0;mw;436;573424;-154347;Lakatoro, Vanuatu;Oceania;Vanuatu
+M 6.6 - 127 km ESE of Arica, Chile;66;30/11/1999 04.01;0;5;;0;670;us;0;0;0;mwb;1281;-18901;-69171;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 7.5 - 92 km ESE of Lakatoro, Vanuatu;75;26/11/1999 13.21;0;7;;0;865;us;0;0;0;mwc;33;-16423;168214;Kandrian, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 88 km W of Kandrian, Papua New Guinea;7;19/11/1999 13.56;0;6;;0;754;us;0;0;0;mwc;33;-6351;148763;Düzce, Turkey;Asia;Turkey
+M 6.9 - 84 km WNW of Kandrian, Papua New Guinea;69;17/11/1999 03.27;0;6;;0;732;us;0;0;0;mwc;475;-5978;14882;Ashk?sham, Afghanistan;Asia;Afghanistan
+M 7.2 - 8 km S of Düzce, Turkey;72;12/11/1999 16.57;0;9;;0;798;us;0;0;0;mwc;10;40758;31161;Hector Mine, CA Earthquake;North America;United States of America
+M 6.5 - 31 km SW of Ashk?sham, Afghanistan;65;08/11/1999 16.45;0;4;;0;650;us;0;0;0;mwc;2284;36522;7124;San Baltazar Loxicha, Mexico;North America;Mexico
+M 7.1 - Hector Mine, CA Earthquake;71;16/10/1999 09.46;8;8;;0;1576;ci;73;0;57;mw;1373;346033;-116265;Puli, Taiwan;Asia;Taiwan
+M 7.5 - 15 km W of San Baltazar Loxicha, Mexico;75;30/09/1999 16.31;0;8;;0;865;us;0;0;0;mwc;606;16059;-96931;Puli, Taiwan;Asia;Taiwan
+M 6.5 - 31 km SE of Puli, Taiwan;65;25/09/1999 23.52;0;7;;0;650;us;0;0;0;mwc;17;23738;121158;Lakatoro, Vanuatu;Oceania;Vanuatu
+M 7.7 - 21 km S of Puli, Taiwan;77;20/09/1999 17.47;0;9;;0;912;us;0;0;0;mwc;33;23772;120982;Quepos, Costa Rica;North America;Costa Rica
+M 6.6 - 66 km E of Lakatoro, Vanuatu;66;22/08/1999 12.40;0;6;;0;670;us;0;0;0;mwc;33;-16117;168039;Derince, Turkey;Asia;Turkey
+M 6.9 - 42 km S of Quepos, Costa Rica;69;20/08/1999 10.02;0;6;;0;732;us;0;0;0;mwc;20;9044;-84159;Potrerillos, Honduras;North America;Honduras
+M 7.6 - 4 km ESE of Derince, Turkey;76;17/08/1999 00.01;0;9;;0;889;us;0;0;0;mwc;17;40748;29864;Texcala, Mexico;North America;Mexico
+M 6.7 - 16 km N of Potrerillos, Honduras;67;11/07/1999 14.14;0;8;;0;691;us;0;0;0;mwc;10;15782;-8833;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.0 - 1 km SE of Texcala, Mexico;7;15/06/1999 20.42;0;7;;0;754;us;0;0;0;mwc;70;18386;-97436;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 113 km SE of Kokopo, Papua New Guinea;66;17/05/1999 10.07;0;5;;0;670;us;0;0;0;mwc;27;-5165;152877;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 7.1 - 51 km SSE of Kokopo, Papua New Guinea;71;16/05/1999 00.51;0;7;;0;776;us;0;0;0;mwc;737;-4751;152486;Haveluloto, Tonga;Oceania;Tonga
+M 7.1 - 92 km ENE of Kimbe, Papua New Guinea;71;10/05/1999 20.33;0;7;;0;776;us;0;0;0;mwb;138;-5159;15088;Kimbe, Papua New Guinea;Oceania;Papua New Guinea
+M 6.8 - 132 km WSW of Haveluloto, Tonga;68;13/04/1999 10.38;0;5;;0;711;us;0;0;0;mwc;1642;-21422;-17646;Camaná, Peru;South America;Peru
+M 7.4 - 63 km W of Kimbe, Papua New Guinea;74;05/04/1999 11.08;0;7;;0;842;us;0;0;0;mwc;150;-5591;149568;Pipalkoti, India;Asia;India
+M 6.8 - 6 km SE of Camaná, Peru;68;03/04/1999 06.17;0;7;;0;711;us;0;0;0;mwc;872;-1666;-72662;Adak, Alaska;North America;United States of America
+M 6.6 - 9 km NNW of P?palkoti, India;66;28/03/1999 19.05;0;7;;0;670;us;0;0;0;mwb;15;30512;79403;Vilyuchinsk, Russia;Asia;Russia
+M 6.9 - 78 km WSW of Adak, Alaska;69;20/03/1999 10.47;0;6;;0;732;us;0;0;0;mwc;33;51587;-177668;Tabiauan, Philippines;Asia;Philippines
+M 6.9 - 123 km SE of Vilyuchinsk, Russia;69;08/03/1999 12.25;0;5;;0;732;us;0;0;0;mwc;566;52056;15952;Sola, Vanuatu;Oceania;Vanuatu
+M 7.1 - 69 km S of Tabiauan, Philippines;71;04/03/1999 08.52;0;6;;0;776;us;0;0;0;mwc;33;5397;121937;Nikolski, Alaska;North America;United States of America
+M 6.6 - 110 km SSE of K?h Sef?d, Iran;66;04/03/1999 05.38;0;7;;0;670;us;0;0;0;mwc;33;28343;57193;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.3 - 146 km NW of Sola, Vanuatu;73;06/02/1999 21.47;0;7;;0;820;us;0;0;0;mwc;901;-12853;166697;Haveluloto, Tonga;Oceania;Tonga
+M 6.6 - 18 km WSW of Nikolski, Alaska;66;28/01/1999 08.10;0;6;;0;670;us;0;0;0;mwc;672;52886;-169123;Luwuk, Indonesia;Asia;Indonesia
+M 7.0 - 110 km ESE of Kokopo, Papua New Guinea;7;19/01/1999 03.35;0;7;;0;754;us;0;0;0;mwc;1141;-4596;153235;Lospalos, Timor Leste;Oceania;Timor Leste
+M 6.8 - 131 km WSW of Haveluloto, Tonga;68;27/12/1998 00.38;0;5;;0;711;us;0;0;0;mwc;1443;-21632;-176376;Lospalos, Timor Leste;Oceania;Timor Leste
+M 7.7 - 264 km ESE of Luwuk, Indonesia;77;29/11/1998 14.10;0;7;;0;912;us;0;0;0;mwc;33;-2071;124891;Sumberpucung, Indonesia;Asia;Indonesia
+M 7.0 - 278 km NE of Lospalos, Timor Leste;7;09/11/1998 05.38;0;7;;0;754;us;0;0;0;mwc;33;-692;128946;Coquimbo, Chile;South America;Chile
+M 6.7 - 282 km NE of Lospalos, Timor Leste;67;09/11/1998 05.30;0;6;;0;691;us;0;0;0;mwc;33;-6954;129022;Pondaguitan, Philippines;Asia;Philippines
+M 6.6 - 8 km WSW of Sumberpucung, Indonesia;66;28/09/1998 13.34;0;5;;0;670;us;0;0;0;mwb;1516;-8194;112413;Bahía de Caráquez, Ecuador;South America;Ecuador
+M 6.6 - 66 km NNW of Coquimbo, Chile;66;03/09/1998 17.37;0;6;;0;670;us;0;0;0;mwc;27;-2945;-71715;Abepura, Indonesia;Asia;Indonesia
+M 6.8 - 123 km SSE of Pondaguitan, Philippines;68;02/09/1998 08.37;0;5;;0;711;us;0;0;0;mwc;50;541;126764;Aitape, Papua New Guinea;Oceania;Papua New Guinea
+M 7.2 - 3 km E of Bahía de Caráquez, Ecuador;72;04/08/1998 18.59;0;7;;0;798;us;0;0;0;mwc;33;-593;-80393;Lata, Solomon Islands;Oceania;Solomon Islands
+M 6.7 - 192 km W of Abepura, Indonesia;67;29/07/1998 18.00;0;6;;0;691;us;0;0;0;mwc;33;-2693;138901;Rustaq, Afghanistan;Asia;Afghanistan
+M 7.0 - 50 km WNW of Aitape, Papua New Guinea;7;17/07/1998 08.49;0;7;;0;754;us;0;0;0;mwc;10;-2961;141926;Mizque, Bolivia;South America;Bolivia
+M 7.0 - 52 km SE of Lata, Solomon Islands;7;16/07/1998 11.56;0;7;;0;754;us;0;0;0;mwc;1102;-1104;16616;Palu, Indonesia;Asia;Indonesia
+M 6.6 - 24 km E of Rust?q, Afghanistan;66;30/05/1998 06.22;0;6;;0;670;us;0;0;0;mwb;33;37106;7011;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 25 km NNW of Mizque, Bolivia;66;22/05/1998 04.48;0;8;;0;670;us;0;0;0;mwb;24;-17731;-65431;Ishigaki, Japan;Asia;Japan
+M 6.7 - 127 km NNW of Palu, Indonesia;67;21/05/1998 05.34;0;6;;0;691;us;0;0;0;mwb;33;207;119584;San Fernando, Peru;South America;Peru
+M 6.6 - 108 km SW of Kokopo, Papua New Guinea;66;13/05/1998 23.02;0;6;;0;670;us;0;0;0;mwc;614;-5147;151714;Pariaman, Indonesia;Asia;Indonesia
+M 7.5 - 254 km SSE of Ishigaki, Japan;75;03/05/1998 23.30;0;5;;0;865;us;0;0;0;mwb;33;22306;125308;Kerman, Iran;Asia;Iran
+M 6.6 - 43 km NE of San Fernando, Peru;66;03/04/1998 22.01;0;5;;0;670;us;0;0;0;mwc;1646;-8148;-74238;Ant;South America;Chile
+M 7.0 - 95 km W of Pariaman, Indonesia;7;01/04/1998 17.56;0;6;;0;754;us;0;0;0;mwc;557;-544;99261;Labasa, Fiji;Oceania;Fiji
+M 6.6 - 52 km ESE of Kerman, Iran;66;14/03/1998 19.40;0;8;;0;670;us;0;0;0;mwc;9;30154;57605;Ovalle, Chile;South America;Chile
+M 7.1 - 34 km SSE of Antofagasta, Chile;71;30/01/1998 12.16;0;7;;0;776;us;0;0;0;mwc;42;-23913;-70207;San José El Ídolo, Guatemala;North America;Guatemala
+M 6.7 - 149 km ENE of Labasa, Fiji;67;12/01/1998 16.36;0;6;;0;691;us;0;0;0;mwc;234;-15848;-179376;Finschhafen, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 47 km SSW of Ovalle, Chile;66;12/01/1998 10.14;0;7;;0;670;us;0;0;0;mwc;348;-30985;-7141;Ust’-Kamchatsk Staryy, Russia;Asia;Russia
+M 6.6 - 10 km SSW of San José El Ídolo, Guatemala;66;10/01/1998 08.20;0;6;;0;670;us;0;0;0;mwc;33;14374;-91473;Gorontalo, Indonesia;Asia;Indonesia
+M 7.2 - 117 km N of Finschhafen, Papua New Guinea;72;22/12/1997 02.05;0;6;;0;798;us;0;0;0;mwc;1793;-5495;147867;Lithakiá, Greece;Europe;Greece
+M 7.8 - 156 km S of Ust’-Kamchatsk Staryy, Russia;78;05/12/1997 11.26;0;7;;0;936;us;0;0;0;mwc;33;54841;162035;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 7.0 - 97 km NW of Gorontalo, Indonesia;7;25/11/1997 12.14;0;6;;0;754;us;0;0;0;mwc;24;1241;122536;San Sebastián, El Salvador;North America;El Salvador
+M 6.6 - 22 km SW of Lithakiá, Greece;66;18/11/1997 13.07;0;7;;0;670;us;0;0;0;mwc;33;3757;20656;western Xizang;Asia;People's Republic of China
+M 7.0 - 34 km ESE of Port-Olry, Vanuatu;7;15/11/1997 18.59;0;6;;0;754;us;0;0;0;mwc;1231;-15145;167375;Barranca, Peru;South America;Peru
+M 6.5 - 13 km NNE of San Sebastián, El Salvador;65;09/11/1997 22.56;0;4;;0;650;us;0;0;0;mwb;1764;13849;-88808;Monte Patria, Chile;South America;Chile
+M 7.5 - western Xizang;75;08/11/1997 10.02;0;7;;0;865;us;0;0;0;mwc;33;35069;87325;Haveluloto, Tonga;Oceania;Tonga
+M 7.2 - 51 km N of Barranca, Peru;72;28/10/1997 06.15;0;7;;0;798;us;0;0;0;mwc;112;-4368;-76681;Talisay, Philippines;Asia;Philippines
+M 7.1 - 36 km SW of Monte Patria, Chile;71;15/10/1997 01.03;0;7;;0;776;us;0;0;0;mwc;58;-30933;-7122;Roncesvalles, Colombia;South America;Colombia
+M 7.8 - 192 km WSW of Haveluloto, Tonga;78;14/10/1997 09.53;0;7;;0;936;us;0;0;0;mwb;1673;-22101;-176772;Angoram, Papua New Guinea;Oceania;Papua New Guinea
+M 6.5 - 18 km E of Talisay, Philippines;65;06/10/1997 12.30;0;5;;0;650;us;0;0;0;mwb;1056;979;125779;El Ciruelo, Mexico;North America;Mexico
+M 6.8 - 24 km SW of Roncesvalles, Colombia;68;02/09/1997 12.13;0;5;;0;711;us;0;0;0;mwb;1987;3849;-75749;Carúpano, Venezuela;South America;Venezuela
+M 6.6 - 64 km NNE of Angoram, Papua New Guinea;66;29/08/1997 08.14;0;6;;0;670;us;0;0;0;mwc;228;-3562;144362;Coquimbo, Chile;South America;Chile
+M 6.9 - 4 km ENE of El Ciruelo, Mexico;69;19/07/1997 14.22;0;6;;0;732;us;0;0;0;mwb;33;16333;-98216;Churumuco de Morelos, Mexico;North America;Mexico
+M 7.0 - 26 km WSW of Carúpano, Venezuela;7;09/07/1997 19.24;0;8;;0;754;us;0;0;0;mwc;199;10598;-63486;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.8 - 52 km WSW of Coquimbo, Chile;68;06/07/1997 09.54;0;6;;0;711;us;0;0;0;mwc;19;-30058;-71872;Jurm, Afghanistan;Asia;Afghanistan
+M 6.5 - 5 km ENE of Churumuco de Morelos, Mexico;65;22/05/1997 07.50;0;6;;0;650;us;0;0;0;mwc;70;18684;-101604;Qa'en, Iran;Asia;Iran
+M 6.8 - 99 km S of Isangel, Vanuatu;68;21/05/1997 14.10;0;6;;0;711;us;0;0;0;mwc;57;-20438;169287;Yigo Village, Guam;Oceania;Guam
+M 6.5 - 51 km S of Jurm, Afghanistan;65;13/05/1997 14.13;0;4;;0;650;us;0;0;0;mwb;196;36411;70945;Scarborough, Trinidad and Tobago;North America;Trinidad and Tobago
+M 7.3 - 58 km E of Q?’en, Iran;73;10/05/1997 07.57;0;9;;0;820;us;0;0;0;mwb;10;33825;59809;Sola, Vanuatu;Oceania;Vanuatu
+M 6.5 - 49 km N of Yigo Village, Guam;65;23/04/1997 19.44;0;6;;0;650;us;0;0;0;mwc;1008;13986;144901;Finschhafen, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 18 km WSW of Scarborough, Trinidad and Tobago;67;22/04/1997 09.31;0;7;;0;691;us;0;0;0;mwb;5;11112;-60892;Kinablangan, Philippines;Asia;Philippines
+M 7.7 - 171 km NNW of Sola, Vanuatu;77;21/04/1997 12.02;0;6;;0;912;us;0;0;0;mwc;33;-12584;166676;Harnai, Pakistan;Asia;Pakistan
+M 6.5 - 49 km W of Finschhafen, Papua New Guinea;65;05/04/1997 12.23;0;6;;0;650;us;0;0;0;mwc;691;-6485;147408;Turkmenistan-Iran border region;Asia;Iran
+M 6.9 - 121 km E of Kinablangan, Philippines;69;11/03/1997 19.22;0;5;;0;732;us;0;0;0;mwb;10;7742;127647;El Habillal, Mexico;North America;Mexico
+M 7.1 - 29 km ESE of Harnai, Pakistan;71;27/02/1997 21.08;0;6;;0;776;us;0;0;0;mwc;33;29976;68208;Iwanai, Japan;Asia;Japan
+M 6.5 - Turkmenistan-Iran border region;65;04/02/1997 10.37;0;8;;0;650;us;0;0;0;mwc;10;37661;57291;Miyazaki, Japan;Asia;Japan
+M 7.2 - 46 km WNW of El Habillal, Mexico;72;11/01/1997 20.28;0;7;;0;798;us;0;0;0;mwb;33;18219;-102756;Thang, India;Asia;People's Republic of China
+M 6.5 - 131 km W of Iwanai, Japan;65;22/12/1996 14.53;0;4;;0;650;us;0;0;0;mwc;2265;43207;13892;Changuillo, Peru;South America;Peru
+M 6.7 - 17 km SW of Miyazaki, Japan;67;02/12/1996 22.17;0;6;;0;691;us;0;0;0;mwc;492;31789;131314;Miyazaki, Japan;Asia;Japan
+M 6.9 - 130 km ENE of Thang, India;69;19/11/1996 10.44;0;7;;0;732;us;0;0;0;mwc;33;35345;78133;Nishinoomote, Japan;Asia;Japan
+M 7.7 - 60 km SW of Changuillo, Peru;77;12/11/1996 16.59;0;7;;0;912;us;0;0;0;mwc;33;-14993;-75675;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.7 - 5 km SE of Miyazaki, Japan;67;19/10/1996 14.44;0;7;;0;691;us;0;0;0;mwc;22;31885;131468;Paphos, Cyprus;Asia;Cyprus
+M 6.6 - 20 km SSE of Nishinoomote, Japan;66;18/10/1996 10.50;0;7;;0;670;us;0;0;0;mwc;10;30568;131093;Cortes, Philippines;Asia;Philippines
+M 6.8 - 90 km S of Panguna, Papua New Guinea;68;14/10/1996 23.26;0;6;;0;711;us;0;0;0;mwc;24;-7133;155568;Cortes, Philippines;Asia;Philippines
+M 6.8 - 36 km SW of Paphos, Cyprus;68;09/10/1996 13.10;0;6;;0;711;us;0;0;0;mwc;33;34556;32126;Hengchun, Taiwan;Asia;Taiwan
+M 6.6 - 24 km NE of Cortes, Philippines;66;20/09/1996 04.11;0;6;;0;670;us;0;0;0;mwc;33;9454;126334;Kirakira, Solomon Islands;Oceania;Solomon Islands
+M 6.6 - 22 km NNE of Cortes, Philippines;66;20/09/1996 04.10;0;6;;0;670;us;0;0;0;mwc;33;9463;126284;Palu, Indonesia;Asia;Indonesia
+M 6.8 - 78 km E of Hengchun, Taiwan;68;05/09/1996 23.42;0;6;;0;711;us;0;0;0;mwc;20;21898;121498;Palu, Indonesia;Asia;Indonesia
+M 6.9 - 62 km WSW of Kirakira, Solomon Islands;69;02/08/1996 12.55;0;6;;0;732;us;0;0;0;mwc;33;-10769;161445;Coyuquilla Norte, Mexico;North America;Mexico
+M 7.0 - 220 km NNE of Palu, Indonesia;7;22/07/1996 14.19;0;6;;0;754;us;0;0;0;mwc;33;1;12045;Maumere, Indonesia;Asia;Indonesia
+M 6.6 - 217 km NNE of Palu, Indonesia;66;16/07/1996 10.07;0;6;;0;670;us;0;0;0;mwb;33;1016;120254;Palapag, Philippines;Asia;Philippines
+M 6.8 - 26 km NNE of Coyuquilla Norte, Mexico;68;15/07/1996 21.23;0;6;;0;711;us;0;0;0;mwb;183;176;-100965;Adak, Alaska;North America;United States of America
+M 7.9 - 169 km NNE of Maumere, Indonesia;79;17/06/1996 11.22;0;4;;0;960;us;0;0;0;mwc;5873;-7137;122589;Adak, Alaska;North America;United States of America
+M 7.1 - 8 km NNE of Palapag, Philippines;71;11/06/1996 18.22;0;6;;0;776;us;0;0;0;mwc;33;12614;125154;Sola, Vanuatu;Oceania;Vanuatu
+M 7.3 - 46 km SSW of Adak, Alaska;73;10/06/1996 15.24;0;7;;0;820;us;0;0;0;mwc;263;51478;-176847;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.9 - 77 km WSW of Adak, Alaska;79;10/06/1996 04.03;0;7;;0;960;us;0;0;0;mwc;33;51564;-177632;Port-Olry, Vanuatu;Oceania;Vanuatu
+M 6.7 - 63 km NW of Sola, Vanuatu;67;10/06/1996 01.04;0;4;;0;691;us;0;0;0;mwc;2001;-13481;16713;Villa El Carmen, Nicaragua;North America;Nicaragua
+M 7.2 - 58 km WSW of Panguna, Papua New Guinea;72;29/04/1996 14.40;0;6;;0;798;us;0;0;0;mwc;44;-6518;154999;Masachapa, Nicaragua;North America;Nicaragua
+M 6.6 - 44 km SE of Antofagasta, Chile;66;19/04/1996 00.19;0;7;;0;670;us;0;0;0;mwb;495;-23944;-70093;Santa María Chico Ometepec, Mexico;North America;Mexico
+M 6.7 - 44 km NNE of Port-Olry, Vanuatu;67;17/03/1996 14.48;0;5;;0;691;us;0;0;0;mwc;1644;-14705;167297;Puerto Santa, Peru;South America;Peru
+M 6.7 - 30 km WSW of Villa El Carmen, Nicaragua;67;03/03/1996 16.37;0;6;;0;691;us;0;0;0;mwc;33;11905;-86772;Biak, Indonesia;Asia;Indonesia
+M 6.6 - 39 km WSW of Masachapa, Nicaragua;66;03/03/1996 14.55;0;6;;0;670;us;0;0;0;mwc;33;11657;-86856;Insrom, Indonesia;Asia;Indonesia
+M 7.1 - 24 km SSW of Santa María Chico Ometepec, Mexico;71;25/02/1996 03.08;0;7;;0;776;us;0;0;0;mw;211;15978;-9807;Biak, Indonesia;Asia;Indonesia
+M 7.5 - 123 km WSW of Puerto Santa, Peru;75;21/02/1996 12.51;0;6;;0;865;us;0;0;0;mw;10;-9593;-79587;Namie, Japan;Asia;Japan
+M 6.5 - 32 km NNE of Biak, Indonesia;65;17/02/1996 20.18;0;6;;0;650;us;0;0;0;mw;319;-917;136225;Kuril’sk, Russia;Asia;Russia
+M 6.5 - 67 km NNW of Insrom, Indonesia;65;17/02/1996 14.21;0;6;;0;650;us;0;0;0;mw;192;-567;13584;Lijiang, China;Asia;People's Republic of China
+M 8.1 - 101 km ENE of Biak, Indonesia;809;17/02/1996 05.59;0;8;;0;1007;official;0;0;0;mww;33;-891;136952;Yelizovo, Russia;Asia;Russia
+M 6.7 - 123 km E of Namie, Japan;67;16/02/1996 15.22;0;4;;0;691;us;0;0;0;mw;408;37353;14238;Palu, Indonesia;Asia;Indonesia
+M 7.2 - 158 km E of Kuril’sk, Russia;72;07/02/1996 21.36;0;6;;0;798;us;0;0;0;mw;426;45324;149892;Lospalos, Timor Leste;Asia;Timor Leste
+M 6.6 - 47 km N of Lijiang, China;66;03/02/1996 11.14;0;10;;0;670;us;0;0;0;mw;111;27291;100276;Abepura, Indonesia;Asia;Indonesia
+M 6.6 - 106 km NE of Yelizovo, Russia;66;01/01/1996 09.57;0;7;;0;670;us;0;0;0;ms;33;53826;159586;Kuril’sk, Russia;Asia;Russia
+M 7.9 - 181 km N of Palu, Indonesia;79;01/01/1996 08.05;0;8;;0;960;us;0;0;0;mw;24;729;119931;Nuwaybi‘a, Egypt;Asia;Saudi Arabia
+M 7.1 - 297 km NE of Lospalos, Timor Leste;71;25/12/1995 04.43;0;6;;0;776;us;0;0;0;mw;1419;-6903;129151;Vallenar, Chile;South America;Chile
+M 6.5 - 130 km SSW of Abepura, Indonesia;65;19/12/1995 23.28;0;6;;0;650;us;0;0;0;mwb;634;-3703;140233;Ocozocoautla de Espinosa, Mexico;North America;Mexico
+M 7.9 - 128 km ESE of Kuril’sk, Russia;79;03/12/1995 18.01;0;6;;0;960;us;0;0;0;mw;33;44663;1493;Naze, Japan;Asia;Japan
+M 7.2 - 27 km SSE of Nuwaybi‘a, Egypt;72;22/11/1995 04.15;0;9;;0;798;us;0;0;0;mw;10;28826;34799;Naze, Japan;Asia;Japan
+M 6.7 - 73 km WSW of Vallenar, Chile;67;01/11/1995 00.35;0;7;;0;691;us;0;0;0;mw;199;-28906;-71417;El Colomo, Mexico;North America;Mexico
+M 7.2 - 13 km NW of Ocozocoautla de Espinosa, Mexico;72;21/10/1995 02.38;0;6;;0;798;us;0;0;0;mw;1593;1684;-93469;Sungai Penuh, Indonesia;Asia;Indonesia
+M 6.8 - 71 km ESE of Naze, Japan;68;19/10/1995 02.41;0;6;;0;711;us;0;0;0;mw;197;28094;130148;Sucúa, Ecuador;South America;Ecuador
+M 7.1 - 83 km SE of Naze, Japan;71;18/10/1995 10.37;0;6;;0;776;us;0;0;0;mw;284;27929;130175;Sucúa, Ecuador;South America;Ecuador
+M 8.0 - 5 km E of El Colomo, Mexico;8;09/10/1995 15.35;0;8;;0;985;us;0;0;0;mw;33;19055;-104205;Paramonga, Peru;South America;Peru
+M 6.8 - 5 km ENE of Sungai Penuh, Indonesia;68;06/10/1995 18.09;0;7;;0;711;us;0;0;0;mw;33;-2045;101436;Azoyú, Mexico;North America;Mexico
+M 6.5 - 50 km SE of Sucúa, Ecuador;65;03/10/1995 12.44;0;7;;0;650;us;0;0;0;mw;167;-2778;-77851;Etchoropo, Mexico;North America;Mexico
+M 7.0 - 45 km SE of Sucúa, Ecuador;7;03/10/1995 01.51;0;7;;0;754;us;0;0;0;mw;244;-275;-77881;Neira, Colombia;South America;Colombia
+M 6.5 - 81 km W of Paramonga, Peru;65;23/09/1995 22.31;0;5;;0;650;us;0;0;0;mwb;599;-1068;-78581;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 7.4 - 5 km N of Azoyú, Mexico;74;14/09/1995 14.04;0;7;;0;842;us;0;0;0;mwb;23;16779;-98597;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 95 km SW of Etchoropo, Mexico;66;28/08/1995 10.46;0;5;;0;670;us;0;0;0;mwb;122;26092;-110284;Panguna, Papua New Guinea;Oceania;Papua New Guinea
+M 6.6 - 7 km WSW of Neira, Colombia;66;19/08/1995 21.43;0;6;;0;670;us;0;0;0;mw;1196;5139;-75577;Kokopo, Papua New Guinea;Oceania;Papua New Guinea
+M 7.2 - 139 km WNW of Panguna, Papua New Guinea;72;16/08/1995 23.10;0;6;;0;798;us;0;0;0;mw;33;-5771;154347;Ant;South America;Chile
+M 6.6 - 205 km SE of Kokopo, Papua New Guinea;66;16/08/1995 16.24;0;4;;0;670;us;0;0;0;mw;187;-5429;153773;Jinghong, China;Asia;Myanmar
+M 7.7 - 155 km WNW of Panguna, Papua New Guinea;77;16/08/1995 10.27;0;6;;0;912;us;0;0;0;mw;301;-5799;154178;Isangel, Vanuatu;Oceania;Vanuatu
+M 6.7 - 99 km WSW of Kokopo, Papua New Guinea;67;14/08/1995 04.37;0;6;;0;691;us;0;0;0;mw;1279;-4836;151515;Galaxídhion, Greece;Europe;Greece
+M 8.0 - 36 km NNE of Antofagasta, Chile;8;30/07/1995 05.11;0;8;;0;985;us;0;0;0;mw;456;-2334;-70294;Tungor, Russia;Asia;Russia
+M 6.8 - 158 km W of Jinghong, China;68;11/07/1995 21.46;0;8;;0;711;us;0;0;0;mw;125;21966;99196;Vao, New Caledonia;Oceania;France
+M 6.6 - 0 km ESE of Isangel, Vanuatu;66;29/06/1995 12.24;0;5;;0;670;us;0;0;0;mw;1394;-19544;169287;Maubara, Timor Leste;Asia;Timor Leste
+M 6.5 - 8 km WNW of Galaxídhion, Greece;65;15/06/1995 00.15;0;7;;0;650;us;0;0;0;mw;142;38401;22283;Aianí, Greece;Europe;Greece
+M 7.1 - 85 km S of Tungor, Russia;71;27/05/1995 13.03;0;9;;0;776;us;0;0;0;mwb;11;52629;142827;Cabatuan, Philippines;Asia;Philippines
+M 7.7 - 249 km E of Vao, New Caledonia;77;16/05/1995 20.12;0;4;;0;912;us;0;0;0;mw;202;-23008;1699;Vao, New Caledonia;Oceania;France
+M 6.9 - 27 km NNW of Maubara, Timor Leste;69;14/05/1995 11.33;0;6;;0;732;us;0;0;0;mw;112;-8378;125127;Maubara, Timor Leste;Asia;Timor Leste
+M 6.6 - 10 km W of Aianí, Greece;66;13/05/1995 08.47;0;9;;0;670;us;0;0;0;mw;14;40149;21695;Aianí, Greece;Europe;Greece
+M 7.1 - 14 km NE of Cabatuan, Philippines;71;05/05/1995 03.53;0;7;;0;776;us;0;0;0;mw;16;12626;125297;Cabatuan, Philippines;Asia;Philippines
